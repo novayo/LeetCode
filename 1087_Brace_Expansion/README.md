@@ -1,6 +1,7 @@
 Question: https://leetcode.com/problems/brace-expansion/submissions/
 ---
 try_1.py: https://leetcode.com/submissions/detail/261382962/
+
 (Using DFS)
 
 > Runtime: 40 ms, faster than 93.35% of Python3 online submissions for Brace Expansion.

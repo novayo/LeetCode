@@ -8,6 +8,7 @@ class Solution:
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
         ans = tmp = ListNode(0)
         carry = 0
+        
         while l1 or l2 or carry:
             if l1:
                 carry += l1.val
@@ -20,4 +21,3 @@ class Solution:
             tmp = tmp.next
             carry //= 10
         return ans.next
-        

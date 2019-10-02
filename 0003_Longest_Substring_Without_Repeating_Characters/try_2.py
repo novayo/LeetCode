@@ -1,11 +1,13 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        tmpString, maxLength, length = "", 0, 0
-        for val in s:
-            if val in tmpString:
-                tmpString = tmpString[tmpString.index(val)+1::]
-            tmpString += val
-            length = len(tmpString)
-            if (length > maxLength):
-                maxLength = length
-        return maxLength
+        # Sliding Window: Learning from https://www.youtube.com/watch?v=mtHelVTLKRQ&t=6m15s
+        left, right, ans, _set = 0, 0, 0, set()
+        while left < len(s) and right < len(s):
+            if s[right] in _set:
+                _set.remove(s[left])
+                left += 1
+            else:
+                _set.add(s[right])
+                right += 1
+            ans = max(ans, right - left)
+        return ans

@@ -1,5 +1,3 @@
-
-
 int myAtoi(char * str){
     int i, len=strlen(str), numlen=0, isPos = 1, isSigned = 0, ans=0;
     for (i=0; i<len; i++){

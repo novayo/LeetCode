@@ -1,3 +1,5 @@
-Runtime: 0 ms, faster than 100.00% of C online submissions for String to Integer (atoi).
+Question: https://leetcode.com/problems/string-to-integer-atoi/
+---
 
-Memory Usage: 7 MB, less than 20.90% of C online submissions for String to Integer (atoi).
+try_1.c: O(n) 0ms
+> straightforward

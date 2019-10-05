@@ -1,3 +1,5 @@
-Runtime: 0 ms, faster than 100.00% of C online submissions for Palindrome Number.
+Question: https://leetcode.com/problems/palindrome-number/
+---
 
-Memory Usage: 7 MB, less than 94.81% of C online submissions for Palindrome Number.
+try_1.c: O(n) 0ms
+> straightforward

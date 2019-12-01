@@ -2,16 +2,27 @@ Question: https://leetcode.com/problems/minimum-area-rectangle/
 
 ---
 
-try_1.py: https://leetcode.com/submissions/detail/263108750/
+try_1.py:
 
-(straightforward => O(n^2))
+* Runtime: 1224 ms, faster than 64.31% of Python3 online submissions for Minimum Area Rectangle.
+* Memory Usage: 13 MB, less than 100.00% of Python3 online submissions for Minimum Area Rectangle.
 
-> Runtime: 1236 ms, faster than 58.28% of Python3 online submissions for Minimum Area Rectangle.
-> Memory Usage: 14.2 MB, less than 19.05% of Python3 online submissions for Minimum Area Rectangle
+> straightforward => O(n^2)
 
-try_2.py: https://leetcode.com/submissions/detail/263131430/
+---
 
-(Find diagonal and Find in dictionary)
+try_2.py:
 
-> Runtime: 2220 ms, faster than 24.85% of Python3 online submissions for Minimum Area Rectangle.
-> Memory Usage: 14 MB, less than 19.05% of Python3 online submissions for Minimum Area Rectangle.
+* Runtime: 2472 ms, faster than 12.77% of Python3 online submissions for Minimum Area Rectangle.
+* Memory Usage: 13 MB, less than 100.00% of Python3 online submissions for Minimum Area Rectangle.
+
+> Find diagonal and Find in dictionary
+
+---
+
+try_3.py:
+
+* Runtime: 1228 ms, faster than 64.01% of Python3 online submissions for Minimum Area Rectangle.
+* Memory Usage: 12.7 MB, less than 100.00% of Python3 online submissions for Minimum Area Rectangle.
+
+> Find diagonal and Find in dictionary

@@ -1,13 +1,29 @@
 Question: https://leetcode.com/problems/evaluate-reverse-polish-notation/
 ---
 
-try_1.py: O(n) 140ms
+try_1.py: O(n)
+
+* Runtime: 128 ms, faster than 7.93% of Python3 online submissions for Evaluate Reverse Polish Notation.
+* Memory Usage: 13 MB, less than 100.00% of Python3 online submissions for Evaluate Reverse Polish Notation.
+
 > stack from the back of tokens
 
-try_2.py: O(n) 132ms
+---
+
+try_2.py: O(n)
+
+* Runtime: 116 ms, faster than 10.19% of Python3 online submissions for Evaluate Reverse Polish Notation.
+* Memory Usage: 13 MB, less than 100.00% of Python3 online submissions for Evaluate Reverse Polish Notation.
+
 > stack from the beginning of tokens
 > storing str in stack and using eval to compute
 
-try_3.py: O(n) 100ms
+---
+
+try_3.py: O(n)
+
+* Runtime: 68 ms, faster than 90.67% of Python3 online submissions for Evaluate Reverse Polish Notation.
+* Memory Usage: 13 MB, less than 100.00% of Python3 online submissions for Evaluate Reverse Polish Notation.
+
 > stack from the beginning of tokens
 > storing int in stack and computing directly when pop from stack

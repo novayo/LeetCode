@@ -8,3 +8,6 @@ try_1.py: O(nlgn) 144ms
 * Main Idea: 
 	* conquer from break-down array to the original one
 	* compare the value among left_array, left_middle_right, right_array in break-down array every single time
+
+try_2.py: O(n) 76ms
+> straightforward

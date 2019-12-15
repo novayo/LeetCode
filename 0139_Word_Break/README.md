@@ -7,3 +7,11 @@ try_1.py: O(n)
 * Memory Usage: 12.8 MB, less than 100.00% of Python3 online submissions for Word Break.
 
 > straightforward
+
+---
+
+try_2.py:
+* Runtime: 16 ms, faster than 100.00% of Python3 online submissions for Word Break.
+* Memory Usage: 12.9 MB, less than 100.00% of Python3 online submissions for Word Break.
+
+> bfs with dp

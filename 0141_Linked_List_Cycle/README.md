@@ -7,3 +7,10 @@ try_1.py:
 * Memory Usage: 16 MB, less than 100.00% of Python3 online submissions for Linked List Cycle.
 
 > change the value of visited node and check if the node have been visited or not
+
+---
+
+try_2.py:
+* Runtime: 44 ms, faster than 84.95% of Python3 online submissions for Linked List Cycle.
+* Memory Usage: 16 MB, less than 100.00% of Python3 online submissions for Linked List Cycle.
+

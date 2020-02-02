@@ -7,3 +7,11 @@ try_1.py:
 * Memory Usage: 12.7 MB, less than 100.00% of Python3 online submissions for Gray Code.
 
 > straightforward
+
+---
+
+try_2.py:
+* Runtime: 28 ms, faster than 83.00% of Python3 online submissions for Gray Code.
+* Memory Usage: 12.7 MB, less than 100.00% of Python3 online submissions for Gray Code.
+
+> math

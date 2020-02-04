@@ -15,3 +15,11 @@ try_2.py:
 * Memory Usage: 12.7 MB, less than 100.00% of Python3 online submissions for Design Hit Counter.
 
 > optimize try_1.py
+
+---
+
+try_3.py:
+* Runtime: 16 ms, faster than 99.89% of Python3 online submissions for Design Hit Counter.
+* Memory Usage: 12.6 MB, less than 100.00% of Python3 online submissions for Design Hit Counter.
+
+> using only dictionary to store timestamp

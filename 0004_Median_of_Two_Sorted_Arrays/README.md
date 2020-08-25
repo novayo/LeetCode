@@ -7,3 +7,19 @@ try_1.py: O(m+n)
 * Memory Usage: 12.8 MB, less than 100.00% of Python3 online submissions for Median of Two Sorted Arrays.
 
 > straightforward
+
+---
+
+try_2.py: O(m+n)
+* Runtime: 156 ms, faster than 19.20% of Python3 online submissions for Median of Two Sorted Arrays.
+* Memory Usage: 14 MB, less than 70.51% of Python3 online submissions for Median of Two Sorted Arrays.
+
+> straightforward
+
+---
+
+try_3.py: O(log(m+n))
+* Runtime: 88 ms, faster than 96.02% of Python3 online submissions for Median of Two Sorted Arrays.
+* Memory Usage: 14 MB, less than 60.98% of Python3 online submissions for Median of Two Sorted Arrays.
+
+> https://www.youtube.com/watch?v=LPFhl65R7ww

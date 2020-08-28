@@ -7,3 +7,11 @@ try_1.py:
 * Memory Usage: 13.7 MB, less than 6.15% of Python3 online submissions for Merge Sorted Array.
 
 > intuition
+
+---
+
+try_2.py: O(n) O(1)
+* Runtime: 32 ms, faster than 94.34% of Python3 online submissions for Merge Sorted Array.
+* Memory Usage: 14 MB, less than 25.00% of Python3 online submissions for Merge Sorted Array.
+
+> intuition - looking from end

@@ -7,3 +7,12 @@ try_1.py: O(n)
 * Memory Usage: 15.1 MB, less than 5.97% of Python3 online submissions for Move Zeroes.
 
 > in-place
+
+---
+
+try_2.py: O(n) O(1)
+* Runtime: 44 ms, faster than 95.77% of Python3 online submissions for Move Zeroes.
+* Memory Usage: 15.2 MB, less than 13.28% of Python3 online submissions for Move Zeroes.
+
+> in-place (other idea)
+

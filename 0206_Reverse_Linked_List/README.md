@@ -17,3 +17,11 @@ try_2.py: O(n)
 
 > iteratively
 > 直接把每個都往前指，就可以直接reverse了
+
+---
+
+try_3.py: O(n) O(1)
+* Runtime: 28 ms, faster than 97.76% of Python3 online submissions for Reverse Linked List.
+* Memory Usage: 15.3 MB, less than 70.12% of Python3 online submissions for Reverse Linked List.
+
+> 將值都往頭丟即可

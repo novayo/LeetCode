@@ -7,3 +7,11 @@ try_1.py: O(nlgn)
 * Memory Usage: 14.9 MB, less than 100.00% of Python3 online submissions for Validate Binary Search Tree.
 
 > dfs
+
+---
+
+try_2.py: O(n) O(n)
+* Runtime: 36 ms, faster than 96.92% of Python3 online submissions for Validate Binary Search Tree.
+* Memory Usage: 16.6 MB, less than 18.55% of Python3 online submissions for Validate Binary Search Tree.
+
+> inorder traversal

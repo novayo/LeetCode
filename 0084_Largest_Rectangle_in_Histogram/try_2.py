@@ -1,5 +1,15 @@
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
+        '''
+        stack 放入 index
+        for loop 0~len(heights)
+            比top大，就放進去
+            比top小，就pop到比top大，且去計算答案：heights[stack[top]] * (i - stack[top] - 1)
+        
+        若stack還有東西要pop到比top大，且去計算答案：heights[stack[top]] * (i - stack[top] - 1)
+        
+        回傳 ans
+        '''
         stack = [-1]
         
         ans = 0

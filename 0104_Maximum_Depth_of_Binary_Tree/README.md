@@ -15,3 +15,11 @@ try_2.py: O(n) O(logn)
 * Memory Usage: 16.1 MB, less than 5.27% of Python3 online submissions for Maximum Depth of Binary Tree.
 
 > non-tail recursion
+
+---
+
+try_3.py: O(n) O(n)
+* Runtime: 36 ms, faster than 89.52% of Python3 online submissions for Maximum Depth of Binary Tree.
+* Memory Usage: 16.5 MB, less than 7.60% of Python3 online submissions for Maximum Depth of Binary Tree.
+
+> bottom-up

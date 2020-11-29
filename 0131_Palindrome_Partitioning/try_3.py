@@ -1,10 +1,11 @@
 class Solution:
     def partition(self, s: str) -> List[List[str]]:
         '''
-        backtracking
+        backtracking + dp
         '''
         
         ans = []
+        dp = collections.defaultdict(bool)
         
         
         def isPalindrome(start, end):
@@ -22,10 +23,11 @@ class Solution:
                 ans.append(curList[:])
                 return
             
-            for i in range(start+1, len(s)+1):
-                if isPalindrome(start, i):
-                    curList.append(s[start:i])
-                    backtracking(i, curList)
+            for end in range(start, len(s)):
+                if s[end] == s[start] and (end-start <= 2 or dp[start+1, end-1] == True):
+                    dp[start, end] = True
+                    curList.append(s[start:end+1])
+                    backtracking(end+1, curList)
                     curList.pop()
         
         backtracking(0, [])

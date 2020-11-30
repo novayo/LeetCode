@@ -15,3 +15,12 @@ try_2.py: O(nodes) O(1)
 * Memory Usage: 15.3 MB, less than 60.71% of Python3 online submissions for Populating Next Right Pointers in Each Node.
 
 > iteration every layers
+
+---
+
+try_3.py: O(nodes) O(1)
+* Runtime: 52 ms, faster than 96.87% of Python3 online submissions for Populating Next Right Pointers in Each Node.
+* Memory Usage: 16 MB, less than 16.51% of Python3 online submissions for Populating Next Right Pointers in Each Node.
+
+> intuition
+> 找出右邊，左邊next到右邊，左邊 = 右邊

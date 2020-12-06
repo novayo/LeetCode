@@ -7,3 +7,11 @@ try_1.py: O(n^2)
 * Memory Usage: 16.3 MB, less than 84.85% of Python3 online submissions for Merge k Sorted Lists.
 
 > intuition
+
+---
+
+try_2.py: O(n^2)
+* Runtime: 6356 ms, faster than 5.01% of Python3 online submissions for Merge k Sorted Lists.
+* Memory Usage: 17.9 MB, less than 44.88% of Python3 online submissions for Merge k Sorted Lists.
+
+> compare with each other

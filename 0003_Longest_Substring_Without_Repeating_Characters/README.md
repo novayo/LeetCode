@@ -16,3 +16,11 @@ try_2.py: O(n)
 * Memory Usage: 12.8 MB, less than 100.00% of Python3 online submissions for Longest Substring Without Repeating Characters.
 
 > sliding window
+
+---
+
+try_3.py: O(n) O(n)
+* Runtime: 68 ms, faster than 51.43% of Python3 online submissions for Longest Substring Without Repeating Characters.
+* Memory Usage: 14.3 MB, less than 58.62% of Python3 online submissions for Longest Substring Without Repeating Characters.
+
+> sliding window + hash table

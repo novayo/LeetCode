@@ -16,3 +16,11 @@ try_2.py: O(n^(h/2)) O(n^(h/2))
 * Memory Usage: 15.1 MB, less than 5.00% of Python3 online submissions for Perfect Squares.
 
 > bfs
+
+---
+
+try_3.py: O(n*2) O(n)
+* Runtime: 6668 ms, faster than 7.96% of Python3 online submissions for Perfect Squares.
+* Memory Usage: 39.4 MB, less than 6.94% of Python3 online submissions for Perfect Squares.
+
+> dfs + dp

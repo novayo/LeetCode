@@ -15,12 +15,20 @@ try_2.py: O(n^(h/2)) O(n^(h/2))
 * Runtime: 176 ms, faster than 88.53% of Python3 online submissions for Perfect Squares.
 * Memory Usage: 15.1 MB, less than 5.00% of Python3 online submissions for Perfect Squares.
 
-> bfs
+> bfs: 去算每一次的剩餘的n的所有可能，用set去去除重複的情況
 
 ---
 
-try_3.py: O(n*2) O(n)
+try_3.py: O(n^2) O(n)
 * Runtime: 6668 ms, faster than 7.96% of Python3 online submissions for Perfect Squares.
 * Memory Usage: 39.4 MB, less than 6.94% of Python3 online submissions for Perfect Squares.
 
 > dfs + dp
+
+---
+
+try_4.py: O(n^2) O(n)
+* Runtime: 3492 ms, faster than 55.06% of Python3 online submissions for Perfect Squares.
+* Memory Usage: 14.3 MB, less than 61.36% of Python3 online submissions for Perfect Squares.
+
+> bottom-up: 從底部往上算，目前的數字最少需要多少的步數，一路算到n，就可以保證n是最少的

@@ -7,3 +7,11 @@ try_1.py:
 * Memory Usage: 14.1 MB, less than 37.50% of Python3 online submissions for Stone Game.
 
 > recursive + dp
+
+---
+
+try_2.py: O(n^2) O(n^2)
+* Runtime: 288 ms, faster than 50.53% of Python3 online submissions for Stone Game.
+* Memory Usage: 19.8 MB, less than 41.63% of Python3 online submissions for Stone Game.
+
+> dp

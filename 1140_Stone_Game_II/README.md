@@ -1,0 +1,9 @@
+Question: https://leetcode.com/problems/stone-game-ii/
+
+---
+
+try_1.py: O(n^2) O(n)
+* Runtime: 428 ms, faster than 38.14% of Python3 online submissions for Stone Game II.
+* Memory Usage: 15.9 MB, less than 39.71% of Python3 online submissions for Stone Game II.
+
+> 此recr為，下一個人選擇的剩下的最大值，因為Alex先選，所以sum()-recr為Alice去減掉(Bob所選擇的最大可能)

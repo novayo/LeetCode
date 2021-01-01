@@ -21,10 +21,6 @@ class Solution:
                 dp[i, j] = 0
                 return dp[i, j]
             
-            if i+1==j:
-                dp[i, j] = max(stones[i], stones[j])
-                return dp[i, j]
-            
             dp[i, j] = max(
                 sumOfStones[j+1]-sumOfStones[i+1] - recr(i+1, j),
                 sumOfStones[j]-sumOfStones[i] - recr(i, j-1)
@@ -32,4 +28,6 @@ class Solution:
             
             return dp[i, j]
         
-        return recr(0, len(stones)-1)
+        res = recr(0, len(stones)-1)
+        dp.clear()
+        return res

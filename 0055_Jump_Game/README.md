@@ -15,3 +15,12 @@ try_2.py: O(n)
 * Memory Usage: 16 MB, less than 7.14% of Python3 online submissions for Jump Game.
 
 > check last pos
+
+---
+
+try_3.py: O(n)
+* Runtime: 92 ms, faster than 36.58% of Python3 online submissions for Jump Game.
+* Memory Usage: 15.9 MB, less than 95.77% of Python3 online submissions for Jump Game.
+
+> 只要有數字，一定走得到結尾
+> 因此只要尋找0，看是否目前"最遠到達index"能否超越此位置即可，且此位置不能為最後一位

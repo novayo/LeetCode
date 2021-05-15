@@ -7,3 +7,15 @@ try_1.py:
 * Memory Usage: 16.3 MB, less than 100.00% of Python3 online submissions for Range Sum Query - Mutable.
 
 > straightforward
+
+---
+
+try_2.py:
+
+* Runtime: 1740 ms, faster than 68.75% of Python3 online submissions for Range Sum Query - Mutable.
+* Memory Usage: 31.5 MB, less than 61.57% of Python3 online submissions for Range Sum Query - Mutable.
+
+> binary index tree
+> init - O(nlogn)
+> update - O(logn)
+> query - O(logn)

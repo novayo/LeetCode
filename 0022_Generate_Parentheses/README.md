@@ -29,7 +29,17 @@ try_3.py:
 ---
 
 try_4.py:
+
 * Runtime: 32 ms, faster than 80.74% of Python3 online submissions for Generate Parentheses.
 * Memory Usage: 14.6 MB, less than 9.31% of Python3 online submissions for Generate Parentheses.
+
+> recr
+
+---
+
+try_5.py:
+
+* Runtime: 44 ms, faster than 20.71% of Python3 online submissions for Generate Parentheses.
+* Memory Usage: 14.5 MB, less than 86.53% of Python3 online submissions for Generate Parentheses.
 
 > recr

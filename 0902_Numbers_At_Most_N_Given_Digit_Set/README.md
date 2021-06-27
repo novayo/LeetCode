@@ -20,3 +20,12 @@ try_2.py: O(nlogn) O(n)
 > 1. calculate number of less than n digits => combination problem
 > *2. calculate number of n digit => recursion to calculate possible number
 >   => *2. use binary search
+
+---
+
+try_3.py: O(nlogn) O(n)
+
+* Runtime: 28 ms, faster than 81.61% of Python3 online submissions for Numbers At Most N Given Digit Set.
+* Memory Usage: 14.3 MB, less than 60.92% of Python3 online submissions for Numbers At Most N Given Digit Set.
+
+> refine try_2.py

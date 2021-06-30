@@ -15,3 +15,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 27.6 MB, less than 14.86% of Python3 online submissions for Lowest Common Ancestor of a Binary Tree.
 
 > 子樹有找到回傳True，左右都找到則為LCA
+
+---
+
+try_3.py: O(n) O(1)
+
+* Runtime: 68 ms, faster than 85.00% of Python3 online submissions for Lowest Common Ancestor of a Binary Tree.
+* Memory Usage: 27.8 MB, less than 13.38% of Python3 online submissions for Lowest Common Ancestor of a Binary Tree.
+
+> recursion to find out a node which return two "found"

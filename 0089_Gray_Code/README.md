@@ -15,3 +15,12 @@ try_2.py:
 * Memory Usage: 12.7 MB, less than 100.00% of Python3 online submissions for Gray Code.
 
 > math
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 84 ms, faster than 99.89% of Python3 online submissions for Gray Code.
+* Memory Usage: 21.7 MB, less than 39.93% of Python3 online submissions for Gray Code.
+
+> formula

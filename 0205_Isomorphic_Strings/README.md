@@ -11,7 +11,17 @@ try_1.py: O(n)
 ---
 
 try_2.py: O(n)
+
 * Runtime: 32 ms, faster than 93.46% of Python3 online submissions for Isomorphic Strings.
 * Memory Usage: 14.4 MB, less than 28.97% of Python3 online submissions for Isomorphic Strings.
+
+> 比較兩者對應的一不一樣即可
+
+---
+
+try_3.py: O(n)
+
+* Runtime: 52 ms, faster than 30.66% of Python3 online submissions for Isomorphic Strings.
+* Memory Usage: 14.3 MB, less than 71.11% of Python3 online submissions for Isomorphic Strings.
 
 > 比較兩者對應的一不一樣即可

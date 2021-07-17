@@ -19,3 +19,12 @@ try_2.py:
 > init - O(nlogn)
 > update - O(logn)
 > query - O(logn)
+
+---
+
+try_3.py: O(logn) O(n)
+
+* Runtime: 1668 ms, faster than 64.23% of Python3 online submissions for Range Sum Query - Mutable.
+* Memory Usage: 31.4 MB, less than 67.19% of Python3 online submissions for Range Sum Query - Mutable.
+
+> binary indexed tree => partial sum

@@ -17,3 +17,12 @@ try_2.py: O(n) O(n)
 
 > bfs
 > 找1，若1的上下左右都大於等於自己(代表周圍沒有0)，則自己加一，再丟回去queue內
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 708 ms, faster than 59.46% of Python3 online submissions for 01 Matrix.
+* Memory Usage: 18.1 MB, less than 14.77% of Python3 online submissions for 01 Matrix.
+
+> 將0n算成起始點，往後加入上下左右，計算層數即可

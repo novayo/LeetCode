@@ -8,3 +8,12 @@ try_1.py: O(logn)
 
 > binary search
 > find first peak
+
+---
+
+try_2.py: O(logn)
+
+* Runtime: 36 ms, faster than 92.07% of Python3 online submissions for Search in Rotated Sorted Array.
+* Memory Usage: 14.7 MB, less than 23.44% of Python3 online submissions for Search in Rotated Sorted Array.
+
+> find peak and find left part or right part to do binary search

@@ -26,3 +26,12 @@ try_3.py: O(n) O(n)
 * Memory Usage: 18.1 MB, less than 14.77% of Python3 online submissions for 01 Matrix.
 
 > 將0n算成起始點，往後加入上下左右，計算層數即可
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime: 720 ms, faster than 57.42% of Python3 online submissions for 01 Matrix.
+* Memory Usage: 18.3 MB, less than 6.86% of Python3 online submissions for 01 Matrix.
+
+> 將0n算成起始點，往後加入上下左右，計算層數即可

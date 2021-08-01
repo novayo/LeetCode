@@ -26,3 +26,12 @@ try_3.py: O(2n) O(n)
 * Memory Usage: 14.8 MB, less than 68.24% of Python3 online submissions for Trapping Rain Water.
 
 > monotonic stack: push index
+
+---
+
+try_4.py: O(2n) O(n)
+
+* Runtime: 56 ms, faster than 61.34% of Python3 online submissions for Trapping Rain Water.
+* Memory Usage: 14.8 MB, less than 87.29% of Python3 online submissions for Trapping Rain Water.
+
+> 每次計算i, bot, j中間的差值即可

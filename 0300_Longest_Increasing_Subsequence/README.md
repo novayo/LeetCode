@@ -28,3 +28,12 @@ try_2.py: O(nlogn) O(n)
 * Memory Usage: 14.6 MB, less than 76.52% of Python3 online submissions for Longest Increasing Subsequence.
 
 > patient sort
+
+---
+
+try_3.py: O(nlogn) O(n)
+
+* Runtime: 130 ms, faster than 72.25% of Python3 online submissions for Longest Increasing Subsequence.
+* Memory Usage: 14.5 MB, less than 90.70% of Python3 online submissions for Longest Increasing Subsequence.
+
+> patient sort

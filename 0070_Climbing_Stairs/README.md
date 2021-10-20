@@ -15,3 +15,12 @@ try_2.py:
 * Memory Usage: 12.6 MB, less than 100.00% of Python3 online submissions for Climbing Stairs.
 
 > dp - buttom-up
+
+---
+
+try_1.py: O(2n) O(n)
+
+* Runtime: 64 ms, faster than 5.42% of Python3 online submissions for Climbing Stairs.
+* Memory Usage: 14.3 MB, less than 43.19% of Python3 online submissions for Climbing Stairs.
+
+> dp (coin change)

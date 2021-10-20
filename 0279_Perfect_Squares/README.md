@@ -32,3 +32,12 @@ try_4.py: O(n^2) O(n)
 * Memory Usage: 14.3 MB, less than 61.36% of Python3 online submissions for Perfect Squares.
 
 > bottom-up: 從底部往上算，目前的數字最少需要多少的步數，一路算到n，就可以保證n是最少的
+
+---
+
+try_5.py: O(n^2) O(n)
+
+* Runtime: 4403 ms, faster than 42.34% of Python3 online submissions for Perfect Squares.
+* Memory Usage: 14.3 MB, less than 85.95% of Python3 online submissions for Perfect Squares.
+
+> coin change，要記得先預算square才不用每一次都要重算

@@ -16,3 +16,12 @@ try_2.py: O(n^2)
 * Memory Usage: 17.9 MB, less than 41.34% of Python3 online submissions for Edit Distance.
 
 > dp to find out all possiability
+
+---
+
+try_3.py: O(m*n) O(m*n)
+
+* Runtime: 156 ms, faster than 80.96% of Python3 online submissions for Edit Distance.
+* Memory Usage: 17.9 MB, less than 43.58% of Python3 online submissions for Edit Distance.
+
+> dp

@@ -15,3 +15,12 @@ try_2.py: O(n^2)
 * Memory Usage: 13.8 MB, less than 9.09% of Python3 online submissions for House Robber.
 
 > button-up
+
+---
+
+try_3.py: O(n) O(1)
+
+* Runtime: 43 ms, faster than 30.70% of Python3 online submissions for House Robber.
+* Memory Usage: 14.3 MB, less than 19.57% of Python3 online submissions for House Robber.
+
+> 從index=2開始，往前找0~index-2的最大，從這點走到index就會為最大值

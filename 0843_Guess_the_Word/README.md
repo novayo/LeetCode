@@ -28,3 +28,12 @@ try_3.py: O(n)
 
 > optimize try_2.py
 > calculate frequency of character on the position to represent the score
+
+---
+
+try_4.py: O(10)
+
+* Runtime: 24 ms, faster than 97.55% of Python3 online submissions for Guess the Word.
+* Memory Usage: 14.3 MB, less than 55.23% of Python3 online submissions for Guess the Word.
+
+> random 找法(後續可以先找出相關性最多的下去猜，這樣可以省比較少時間)

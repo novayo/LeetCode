@@ -33,3 +33,12 @@ try_4.py: O(nlogn) O(n)
 * Memory Usage: 20.3 MB, less than 6.02% of Python3 online submissions for Sort an Array.
 
 > tim sort
+
+---
+
+try_5.py: O(nlogn) O(n)
+
+* Runtime: 1026 ms, faster than 23.47% of Python3 online submissions for Sort an Array.
+* Memory Usage: 21.5 MB, less than 55.90% of Python3 online submissions for Sort an Array.
+
+> merge sort

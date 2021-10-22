@@ -27,3 +27,12 @@ try_3.py: O(nlogn) O(n)
 
 > 一般來說，binary indexed tree 用於presum
 > 但 此題可以先sort找出每個值應當放的位置，從尾巴依序依照index放入tree中，update時delta=1 => 代表目前小於此數的個數是多少
+
+---
+
+try_4.py: O(ologn) O(n)
+
+* Runtime: 2798 ms, faster than 79.42% of Python3 online submissions for Count of Smaller Numbers After Self.
+* Memory Usage: 33.3 MB, less than 74.03% of Python3 online submissions for Count of Smaller Numbers After Self.
+
+> 不做sort => 位移到min=1 => tree size為max num + 1 => 此時的value即為index => 就可以做try_3.py的操作

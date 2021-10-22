@@ -15,3 +15,11 @@ try_2.py
 * Memory Usage: 26 MB, less than 15.38% of Python3 online submissions for Sort List.
 
 > quicksort from list
+
+---
+
+try_3.py: O(nlogn) O(1)
+
+* TLE
+
+> quicksort but in linkedlist

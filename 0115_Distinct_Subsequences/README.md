@@ -23,3 +23,12 @@ rabbbit
 3000000  rabbit
 '''
 ```
+
+---
+
+try_2.py: O(s*t) O(2t)
+
+* Runtime: 208 ms, faster than 78.33% of Python3 online submissions for Distinct Subsequences.
+* Memory Usage: 14.4 MB, less than 85.55% of Python3 online submissions for Distinct Subsequences.
+
+> Space optimized try_1.py

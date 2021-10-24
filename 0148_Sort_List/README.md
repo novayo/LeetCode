@@ -23,3 +23,12 @@ try_3.py: O(nlogn) O(1)
 * TLE
 
 > quicksort but in linkedlist
+
+---
+
+try_4.py: O(nlogn) O(logn)
+
+* Runtime: 402 ms, faster than 77.82% of Python3 online submissions for Sort List.
+* Memory Usage: 30.2 MB, less than 37.98% of Python3 online submissions for Sort List.
+
+> merge sort (recrsion)

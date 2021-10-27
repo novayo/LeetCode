@@ -9,3 +9,12 @@ try_1.py: O(m*n) O(m*n)
 
 > https://i.imgur.com/6Hpse82.png
 > 利用這種dp去記錄每個已經有重複多少了，同時只要當前記錄最大的即可
+
+---
+
+try_2.py: O(m*n) O(m*n)
+
+* Runtime: 420 ms, faster than 72.57% of Python3 online submissions for Longest Common Subsequence.
+* Memory Usage: 22 MB, less than 67.92% of Python3 online submissions for Longest Common Subsequence.
+
+> 紀錄之前已經有出現過幾個

@@ -1,0 +1,19 @@
+Question: https://leetcode.com/problems/path-sum-iii/
+
+---
+
+try_1.py: O(n^2) O(n)
+
+* Runtime: 192 ms, faster than 47.00% of Python3 online submissions for Path Sum III.
+* Memory Usage: 16.2 MB, less than 13.29% of Python3 online submissions for Path Sum III.
+
+> dfs bottom-up all possibility
+
+---
+
+try_2.py: O(n) O(n)
+
+* Runtime: 44 ms, faster than 94.84% of Python3 online submissions for Path Sum III.
+* Memory Usage: 16 MB, less than 16.39% of Python3 online submissions for Path Sum III.
+
+> presum + hash table

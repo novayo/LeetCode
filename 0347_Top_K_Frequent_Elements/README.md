@@ -16,3 +16,12 @@ try_2.py: O(nlogn)
 * Memory Usage: 18.9 MB, less than 16.31% of Python3 online submissions for Top K Frequent Elements.
 
 > hash table + sort
+
+---
+
+try_3.py: O(klogk) O(k)
+
+* Runtime: 92 ms, faster than 97.50% of Python3 online submissions for Top K Frequent Elements.
+* Memory Usage: 18.6 MB, less than 95.46% of Python3 online submissions for Top K Frequent Elements.
+
+> 只紀錄長度為k的heap

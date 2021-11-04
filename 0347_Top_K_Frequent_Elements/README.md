@@ -25,3 +25,12 @@ try_3.py: O(klogk) O(k)
 * Memory Usage: 18.6 MB, less than 95.46% of Python3 online submissions for Top K Frequent Elements.
 
 > 只紀錄長度為k的heap
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime: 88 ms, faster than 99.32% of Python3 online submissions for Top K Frequent Elements.
+* Memory Usage: 18.8 MB, less than 37.77% of Python3 online submissions for Top K Frequent Elements.
+
+> quick select

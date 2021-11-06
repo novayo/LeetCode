@@ -26,3 +26,12 @@ try_3.py: O(n) O(n)
 * Memory Usage: 18.8 MB, less than 82.55% of Python3 online submissions for Construct Binary Tree from Preorder and Inorder Traversal.
 
 > 先看preorder建立root，此點在inorder內的左邊為左子樹，右邊為右子樹
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime: 60 ms, faster than 83.81% of Python3 online submissions for Construct Binary Tree from Preorder and Inorder Traversal.
+* Memory Usage: 18.7 MB, less than 87.84% of Python3 online submissions for Construct Binary Tree from Preorder and Inorder Traversal.
+
+> 用inorder定義結束範圍

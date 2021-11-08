@@ -18,3 +18,12 @@ try_2.py: O(nlogn) O(n)
 
 > patient sort
 > 排序過後，就跟300題一樣，因此也可以轉換成接龍遊戲，使用patient sort
+
+---
+
+try_3.py: O(nlogn) O(n)
+
+* Runtime: 144 ms, faster than 92.50% of Python3 online submissions for Russian Doll Envelopes.
+* Memory Usage: 16.5 MB, less than 59.61% of Python3 online submissions for Russian Doll Envelopes.
+
+> 針對w進行排序，再將h由大到小排序，接著就可以對h做patient sort了

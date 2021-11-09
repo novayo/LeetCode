@@ -16,3 +16,12 @@ try_2.py: O(m*n)
 * Memory Usage: 15.7 MB, less than 63.42% of Python3 online submissions for Minimum Path Sum.
 
 > 上右挑小的累加即可
+
+---
+
+try_3.py: O(m*n)
+
+* Runtime: 100 ms, faster than 70.28% of Python3 online submissions for Minimum Path Sum.
+* Memory Usage: 15.6 MB, less than 81.82% of Python3 online submissions for Minimum Path Sum.
+
+> dp

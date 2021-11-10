@@ -15,3 +15,12 @@ try_2.py:
 * Memory Usage: 18 MB, less than 5.56% of Python3 online submissions for Fruit Into Baskets.
 
 > Master.Bo_Shang Solution
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 764 ms, faster than 78.78% of Python3 online submissions for Fruit Into Baskets.
+* Memory Usage: 20.1 MB, less than 70.57% of Python3 online submissions for Fruit Into Baskets.
+
+> two pointer

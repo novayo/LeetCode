@@ -36,3 +36,12 @@ try_4.py: O(ologn) O(n)
 * Memory Usage: 33.3 MB, less than 74.03% of Python3 online submissions for Count of Smaller Numbers After Self.
 
 > 不做sort => 位移到min=1 => tree size為max num + 1 => 此時的value即為index => 就可以做try_3.py的操作
+
+---
+
+try_5.py: O(nlogn) O(2*n-1)
+
+* Runtime: 7460 ms, faster than 5.16% of Python3 online submissions for Count of Smaller Numbers After Self.
+* Memory Usage: 40 MB, less than 43.22% of Python3 online submissions for Count of Smaller Numbers After Self.
+
+> segment tree with bucket sort

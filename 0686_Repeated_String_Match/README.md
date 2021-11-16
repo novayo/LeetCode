@@ -1,4 +1,4 @@
-Question: https://leetcode.com/problems/repeated-string-match/
+Qestion: https://leetcode.com/problems/repeated-string-match/
 
 ---
 
@@ -17,3 +17,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 14.3 MB, less than 82.56% of Python3 online submissions for Repeated String Match.
 
 > refine try_1.py
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 104 ms, faster than 56.39% of Python3 online submissions for Repeated String Match.
+* Memory Usage: 14.3 MB, less than 82.56% of Python3 online submissions for Repeated String Match.
+
+> string check

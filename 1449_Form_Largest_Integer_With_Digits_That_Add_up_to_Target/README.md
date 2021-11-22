@@ -17,3 +17,12 @@ try_2.py: O(9*target) O(9*target)
 * Memory Usage: 127 MB, less than 5.38% of Python3 online submissions for Form Largest Integer With Digits That Add up to Target.
 
 > knapsack without sort
+
+---
+
+try_3.py: O(target) O(target)
+
+* Runtime: 6276 ms, faster than 6.98% of Python3 online submissions for Form Largest Integer With Digits That Add up to Target.
+* Memory Usage: 129.7 MB, less than 5.81% of Python3 online submissions for Form Largest Integer With Digits That Add up to Target.
+
+> knapsack

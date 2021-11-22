@@ -18,3 +18,12 @@ try_2.py: O(n*amount) O(amount)
 > dp
 > 但不能把coin loop寫在裡面(try_3.py)，因為往前看的話，會重複算到 (1=1, 2=含1,2, 3=只需dp[2]+1 (因為會重複算到1+2 跟 2+1 算同一個))
 > https://leetcode.com/problems/coin-change-2/discuss/176706/Beginner-Mistake%3A-Why-an-inner-loop-for-coins-doensn't-work-Java-Soln
+
+---
+
+try_4.py: O(n*amount) O(n*amount)
+
+* Runtime: 532 ms, faster than 31.53% of Python3 online submissions for Coin Change 2.
+* Memory Usage: 29.7 MB, less than 32.68% of Python3 online submissions for Coin Change 2.
+
+> knapsack

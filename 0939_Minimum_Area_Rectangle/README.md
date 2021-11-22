@@ -26,3 +26,12 @@ try_3.py:
 * Memory Usage: 12.7 MB, less than 100.00% of Python3 online submissions for Minimum Area Rectangle.
 
 > Find diagonal and Find in dictionary
+
+---
+
+try_4.py: O(nlogn) O(n)
+
+* Runtime: 2354 ms, faster than 14.08% of Python3 online submissions for Minimum Area Rectangle.
+* Memory Usage: 14.5 MB, less than 80.24% of Python3 online submissions for Minimum Area Rectangle.
+
+> sort and find diagonal

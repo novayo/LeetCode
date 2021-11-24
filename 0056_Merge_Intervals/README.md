@@ -17,3 +17,12 @@ try_2.py: O(nlogn) 96ms
 * Memory Usage: 14.6 MB, less than 6.52% of Python3 online submissions for Merge Intervals.
 
 > sorting(reduce variables)
+
+---
+
+try_3.py: O(nlogn) O(n)
+
+* Runtime: 86 ms, faster than 58.30% of Python3 online submissions for Merge Intervals.
+* Memory Usage: 16.2 MB, less than 55.83% of Python3 online submissions for Merge Intervals.
+
+> sorting

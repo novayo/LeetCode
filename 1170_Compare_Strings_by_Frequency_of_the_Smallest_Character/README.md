@@ -15,3 +15,12 @@ try_2.py:
 * Memory Usage: 13.2 MB, less than 100.00% of Python3 online submissions for Compare Strings by Frequency of the Smallest Character.
 
 > bisect
+
+---
+
+try_3.py: O(nlogn) O(n)
+
+* Runtime: 84 ms, faster than 69.01% of Python3 online submissions for Compare Strings by Frequency of the Smallest Character.
+* Memory Usage: 15 MB, less than 19.88% of Python3 online submissions for Compare Strings by Frequency of the Smallest Character.
+
+> binary search find answer

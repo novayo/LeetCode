@@ -17,3 +17,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 14.4 MB, less than 24.34% of Python3 online submissions for House Robber II.
 
 > using dp to memo max[0~index] and find max(0~n-1, 1~n)
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 53 ms, faster than 10.42% of Python3 online submissions for House Robber II.
+* Memory Usage: 14.4 MB, less than 25.78% of Python3 online submissions for House Robber II.
+
+> 基本型I

@@ -17,3 +17,12 @@ try_2.py: O(n)
 
 > thanks for being sorted, insert by k will be fine
 > 因為已經排序好了，因此可以直接用第二個參數下去做排序 -> 翻譯：矮子插隊無所謂，反正高個子看不到
+
+---
+
+try_3.py: O(nlogn) O(1)
+
+* Runtime: 1553 ms, faster than 5.06% of Python3 online submissions for Queue Reconstruction by Height.
+* Memory Usage: 14.8 MB, less than 85.82% of Python3 online submissions for Queue Reconstruction by Height.
+
+> sort second element and swap

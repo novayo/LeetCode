@@ -16,4 +16,13 @@ try_2.py: O(m*n) O(m*n)
 * Runtime: 188 ms, faster than 87.81% of Python3 online submissions for Uncrossed Lines.
 * Memory Usage: 14.7 MB, less than 44.10% of Python3 online submissions for Uncrossed Lines.
 
-> dp[i][j] = nums1[i:], nums2[j:] 的最多條線
+>劉 dp[i][j] = nums1[i:], nums2[j:] 的最多條線
+
+---
+
+try_3.py: O(m*n) O(m*n)
+
+* Runtime: 230 ms, faster than 58.02% of Python3 online submissions for Uncrossed Lines.
+* Memory Usage: 14.6 MB, less than 58.38% of Python3 online submissions for Uncrossed Lines.
+
+> 討論dp[i][j] = s[:i] t[:j] 的所有情況

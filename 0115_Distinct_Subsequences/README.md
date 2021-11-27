@@ -32,3 +32,12 @@ try_2.py: O(s*t) O(2t)
 * Memory Usage: 14.4 MB, less than 85.55% of Python3 online submissions for Distinct Subsequences.
 
 > Space optimized try_1.py
+
+---
+
+try_3.py: O(m*n) O(m*n)
+
+* Runtime: 580 ms, faster than 59.18% of Python3 online submissions for Distinct Subsequences.
+* Memory Usage: 71.3 MB, less than 46.54% of Python3 online submissions for Distinct Subsequences.
+
+> dp[i][j] = s[:i]與t[:j] '到目前為止' 有幾個相同

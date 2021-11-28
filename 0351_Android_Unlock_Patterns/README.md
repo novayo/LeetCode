@@ -18,3 +18,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 15.1 MB, less than 12.46% of Python3 online submissions for Android Unlock Patterns.
 
 > dfs + bitmap memo
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 276 ms, faster than 93.21% of Python3 online submissions for Android Unlock Patterns.
+* Memory Usage: 15.1 MB, less than 13.42% of Python3 online submissions for Android Unlock Patterns.
+
+> dfs + bitmap memo & checking found by bitmap

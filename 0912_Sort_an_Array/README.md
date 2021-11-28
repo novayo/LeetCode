@@ -51,3 +51,12 @@ try_6.py: O(nlogn) O(n)
 * Memory Usage: 21.6 MB, less than 55.90% of Python3 online submissions for Sort an Array.
 
 > heap sort
+
+---
+
+try_7.py: O(n) O(n)
+
+* Runtime: 492 ms, faster than 78.80% of Python3 online submissions for Sort an Array.
+* Memory Usage: 23.8 MB, less than 13.54% of Python3 online submissions for Sort an Array.
+
+> bucket sort

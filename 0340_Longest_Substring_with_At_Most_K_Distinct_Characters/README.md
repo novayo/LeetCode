@@ -17,3 +17,12 @@ try_2.py:
 > hash_table + sliding window
 	> store index in hash_table, we only care about the smallest index of item
 	> So, when we have to update something, find out the smallest index and update i to that index + 1	
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 60 ms, faster than 98.18% of Python3 online submissions for Longest Substring with At Most K Distinct Characters.
+* Memory Usage: 14.2 MB, less than 85.25% of Python3 online submissions for Longest Substring with At Most K Distinct Characters.
+
+> God solution

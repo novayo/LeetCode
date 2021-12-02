@@ -24,3 +24,12 @@ try_3.py: O(n) O(1)
 * Memory Usage: 27.8 MB, less than 13.38% of Python3 online submissions for Lowest Common Ancestor of a Binary Tree.
 
 > recursion to find out a node which return two "found"
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime: 76 ms, faster than 54.69% of Python3 online submissions for Lowest Common Ancestor of a Binary Tree.
+* Memory Usage: 27.8 MB, less than 13.12% of Python3 online submissions for Lowest Common Ancestor of a Binary Tree.
+
+> return a number represent how many target we found.

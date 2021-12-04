@@ -15,3 +15,12 @@ try_2.py:
 * Memory Usage: 15.4 MB, less than 84.66% of Python3 online submissions for Course Schedule.
 
 > 找cycle
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 100 ms, faster than 61.99% of Python3 online submissions for Course Schedule.
+* Memory Usage: 15.5 MB, less than 74.79% of Python3 online submissions for Course Schedule.
+
+> detect if there exists a cycle

@@ -20,3 +20,12 @@ try_2.py: O(1) O(capacity)
 > get and check the key => O(1)
 > delete and move to the end => O(1)
 > So use this feature to mimic lru cache
+
+---
+
+try_3.py: O(1) O(capacity)
+
+* Runtime: 736 ms, faster than 95.27% of Python3 online submissions for LRU Cache.
+* Memory Usage: 76.4 MB, less than 34.91% of Python3 online submissions for LRU Cache.
+
+> ordereddict

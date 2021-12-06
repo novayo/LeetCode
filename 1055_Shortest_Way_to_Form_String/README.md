@@ -16,3 +16,12 @@ try_2.py:
 * Memory Usage: 14.5 MB, less than 17.17% of Python3 online submissions for Shortest Way to Form String.
 
 > preprocess
+
+---
+
+try_3.py: O(nlogn) O(n)
+
+* Runtime: 40 ms, faster than 73.90% of Python3 online submissions for Shortest Way to Form String.
+* Memory Usage: 14.5 MB, less than 16.57% of Python3 online submissions for Shortest Way to Form String.
+
+> binary search and compare index

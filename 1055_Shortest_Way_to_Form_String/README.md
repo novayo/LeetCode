@@ -25,3 +25,12 @@ try_3.py: O(nlogn) O(n)
 * Memory Usage: 14.5 MB, less than 16.57% of Python3 online submissions for Shortest Way to Form String.
 
 > binary search and compare index
+
+---
+
+try_4.py: O(m*n) O(1)
+
+* Runtime: 58 ms, faster than 44.65% of Python3 online submissions for Shortest Way to Form String.
+* Memory Usage: 14.4 MB, less than 16.97% of Python3 online submissions for Shortest Way to Form String.
+
+> loop

@@ -8,3 +8,12 @@ try_1.py: O(nlogn) O(n)
 * Memory Usage: 43 MB, less than 5.19% of Python3 online submissions for Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.
 
 > maintain min/max heap
+
+---
+
+try_2.py: O(n) O(n)
+
+* Runtime: 878 ms, faster than 42.62% of Python3 online submissions for Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.
+* Memory Usage: 24 MB, less than 46.07% of Python3 online submissions for Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.
+
+> maintain queue

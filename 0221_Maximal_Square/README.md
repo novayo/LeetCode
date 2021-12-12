@@ -17,3 +17,12 @@ try_2.py: O(m*n)
 
 > 3*3 要保證 上的2*2 & 左的2*2 & 左上的2*2 皆為正方形 & 本身是1 => 才會是3*3
 > 但有可能 左上是4*4，此點是3*3 => 因此三方向要挑最小的出來+1
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 224 ms, faster than 49.94% of Python3 online submissions for Maximal Square.
+* Memory Usage: 16.8 MB, less than 12.67% of Python3 online submissions for Maximal Square.
+
+> dp

@@ -23,3 +23,13 @@ try_3.py:
 * Memory Usage: 12.6 MB, less than 100.00% of Python3 online submissions for Design Hit Counter.
 
 > using only dictionary to store timestamp
+
+---
+
+try_4.py:
+
+* Runtime: 32 ms, faster than 66.49% of Python3 online submissions for Design Hit Counter.
+* Memory Usage: 14.1 MB, less than 91.50% of Python3 online submissions for Design Hit Counter.
+
+> take a list to store timestamp, when get_hit -> perform a binary search
+> take a dict to store hit counter at timestamp

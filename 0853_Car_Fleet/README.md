@@ -11,3 +11,12 @@ try_1.py: O(nlogn) O(n)
 > 後面的人到達的時間點
 > 	如果小於等於前面的人 => 會疊在一起
 > 	如果大於前面的人 => 則可以算一台
+
+---
+
+try_2.py: O(nlogn) O(n)
+
+* Runtime: 1333 ms, faster than 15.91% of Python3 online submissions for Car Fleet.
+* Memory Usage: 34.9 MB, less than 84.00% of Python3 online submissions for Car Fleet.
+
+> try_1.py

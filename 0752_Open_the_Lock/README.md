@@ -15,3 +15,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 14.8 MB, less than 15.12% of Python3 online submissions for Open the Lock.
 
 > bi - bfs
+
+---
+
+try_3.py: O(10000) O(10000)
+
+* Runtime: 592 ms, faster than 81.57% of Python3 online submissions for Open the Lock.
+* Memory Usage: 15.7 MB, less than 23.38% of Python3 online submissions for Open the Lock.
+
+> bfs

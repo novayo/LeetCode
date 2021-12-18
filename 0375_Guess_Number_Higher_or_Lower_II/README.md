@@ -16,7 +16,7 @@ try_2.py:
 
 > optimize try_1.py
 > 	* if find out left_max > right_max, then break the loop
-> 	* because loop å¾žå·¦é‚Šåˆ°å³é‚Šï¼Œé‚£å·¦é‚Šçš„å€¼æœƒæ¼¸æ¼¸çš„å¤§æ–¼å³é‚Šï¼Œå› æ­¤ï¼Œä¹‹å¾Œçš„loopä¹Ÿæœƒä¸€ç›´å·¦é‚Šå¤§æ–¼å³é‚Šï¼Œé‚£å°±æ²’æœ‰å†loopçš„å¿…è¦äº†ï¼Œå› æ­¤å¯ä»¥break
+> 	* because loop ±q¥ªÃä¨ì¥kÃä¡A¨º¥ªÃäªº­È·|º¥º¥ªº¤j©ó¥kÃä¡A¦]¦¹¡A¤§«áªºloop¤]·|¤@ª½¥ªÃä¤j©ó¥kÃä¡A¨º´N¨S¦³¦Aloopªº¥²­n¤F¡A¦]¦¹¥i¥Hbreak
 
 ---
 
@@ -26,3 +26,12 @@ try_3.py:
 
 > optimize try_2.py
 > 	* using dictionary instead of array
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime: 1176 ms, faster than 87.19% of Python3 online submissions for Guess Number Higher or Lower II.
+* Memory Usage: 19.9 MB, less than 42.79% of Python3 online submissions for Guess Number Higher or Lower II.
+
+> divide-and-conquer + dp

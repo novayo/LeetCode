@@ -15,3 +15,12 @@ try_2.py:
 * Memory Usage: 14 MB, less than 100.00% of Python3 online submissions for Letter Combinations of a Phone Number.
 
 > backtracking
+
+---
+
+try_3.py: O(n^2) O(n)
+
+* Runtime: 33 ms, faster than 24.95% of Python3 online submissions for Letter Combinations of a Phone Number.
+* Memory Usage: 14.2 MB, less than 64.09% of Python3 online submissions for Letter Combinations of a Phone Number.
+
+> bfs concept

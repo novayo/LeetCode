@@ -35,3 +35,12 @@ try_4.py: O(n) O(n)
 
 > optimize try_3.py
 > remove found element to reduce search times
+
+---
+
+try_5.py: O(n) O(1)
+
+* Runtime: 180 ms, faster than 92.46% of Python3 online submissions for Longest Consecutive Sequence.
+* Memory Usage: 25.8 MB, less than 74.43% of Python3 online submissions for Longest Consecutive Sequence.
+
+> set

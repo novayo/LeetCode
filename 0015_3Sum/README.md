@@ -23,3 +23,12 @@ try_3.py: O(n^2)
 * Memory Usage: 17 MB, less than 90.90% of Python3 online submissions for 3Sum.
 
 > 既然都 sort 了，轉成two sumII
+
+---
+
+try_4.py: O(n^2)
+
+* Runtime: 676 ms, faster than 93.84% of Python3 online submissions for 3Sum.
+* Memory Usage: 18.1 MB, less than 26.18% of Python3 online submissions for 3Sum.
+
+> kSum

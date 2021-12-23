@@ -15,3 +15,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 23.6 MB, less than 33.48% of Python3 online submissions for Find Duplicate Subtrees.
 
 > bottom_up with hash with string
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 60 ms, faster than 81.20% of Python3 online submissions for Find Duplicate Subtrees.
+* Memory Usage: 23.7 MB, less than 37.96% of Python3 online submissions for Find Duplicate Subtrees.
+
+> bottom up + hash string

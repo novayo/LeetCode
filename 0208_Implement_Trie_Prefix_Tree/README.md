@@ -16,3 +16,12 @@ try_2.py:
 
 > without creating a new class
 > adding a new key to tell it is a word or not
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 280 ms, faster than 13.62% of Python3 online submissions for Implement Trie (Prefix Tree).
+* Memory Usage: 33.2 MB, less than 15.59% of Python3 online submissions for Implement Trie (Prefix Tree).
+
+> Trie

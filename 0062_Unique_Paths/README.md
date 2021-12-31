@@ -17,3 +17,12 @@ try_2.py: O(m*n)
 * Memory Usage: 14.4 MB, less than 38.74% of Python3 online submissions for Unique Paths.
 
 > dp
+
+---
+
+try_3.py: O(m*n)
+
+* Runtime: 24 ms, faster than 96.16% of Python3 online submissions for Unique Paths.
+* Memory Usage: 14.5 MB, less than 14.68% of Python3 online submissions for Unique Paths.
+
+> 2D dp

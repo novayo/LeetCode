@@ -27,3 +27,12 @@ try_3.py: O(n)
 
 > stack from the beginning of tokens
 > storing int in stack and computing directly when pop from stack
+
+---
+
+try_4.py: O(n)
+
+* Runtime: 120 ms, faster than 9.12% of Python3 online submissions for Evaluate Reverse Polish Notation.
+* Memory Usage: 14.6 MB, less than 72.69% of Python3 online submissions for Evaluate Reverse Polish Notation.
+
+> stack

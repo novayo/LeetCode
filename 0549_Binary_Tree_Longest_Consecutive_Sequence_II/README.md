@@ -10,3 +10,12 @@ try_1.py: O(n) O(n)
 > dfs
 > 對每個node來說，區分遞增遞減的數值(有可能都是遞減)
 > 每個點區計算一次左右值的可能性並紀錄當前最大
+
+---
+
+try_2.py: O(n) O(n)
+
+* Runtime: 52 ms, faster than 72.04% of Python3 online submissions for Binary Tree Longest Consecutive Sequence II.
+* Memory Usage: 16.5 MB, less than 48.75% of Python3 online submissions for Binary Tree Longest Consecutive Sequence II.
+
+> dfs => return cur_inc, cur_dec

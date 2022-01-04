@@ -23,3 +23,12 @@ try_3.py: O(logn) O(logn)
 * Memory Usage: 14 MB, less than 15.52% of Python3 online submissions for Pow(x, n).
 
 > recursion: top-down non-tail dp
+
+---
+
+try_4.py: O(logn) O(logn)
+
+* Runtime: 46 ms, faster than 11.68% of Python3 online submissions for Pow(x, n).
+* Memory Usage: 14.1 MB, less than 80.28% of Python3 online submissions for Pow(x, n).
+
+> dfs: multiple from left and right

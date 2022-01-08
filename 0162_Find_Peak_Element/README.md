@@ -27,3 +27,12 @@ try_3.py: O(logn)
 * Memory Usage: 14.5 MB, less than 11.34% of Python3 online submissions for Find Peak Element.
 
 > July Challenge: binary search
+
+---
+
+try_4.py: O(logn) O(1)
+
+* Runtime: 36 ms, faster than 98.57% of Python3 online submissions for Find Peak Element.
+* Memory Usage: 14.3 MB, less than 72.10% of Python3 online submissions for Find Peak Element.
+
+> binary search

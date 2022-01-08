@@ -25,3 +25,12 @@ try_3.py: O(m*n)
 * Memory Usage: 15.6 MB, less than 81.82% of Python3 online submissions for Minimum Path Sum.
 
 > dp
+
+---
+
+try_4.py: O(n) O(1)
+
+* Runtime: 132 ms, faster than 26.58% of Python3 online submissions for Minimum Path Sum.
+* Memory Usage: 15.7 MB, less than 63.73% of Python3 online submissions for Minimum Path Sum.
+
+> dp

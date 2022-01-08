@@ -41,3 +41,21 @@ try_5.py: O(n^2) O(n)
 * Memory Usage: 14.3 MB, less than 85.95% of Python3 online submissions for Perfect Squares.
 
 > coin change，要記得先預算square才不用每一次都要重算
+
+---
+
+try_6.py: O(n^2) O(n)
+
+* Runtime: 5026 ms, faster than 28.88% of Python3 online submissions for Perfect Squares.
+* Memory Usage: 14.3 MB, less than 73.06% of Python3 online submissions for Perfect Squares.
+
+> coin change
+
+---
+
+try_7.py: O(n^2) O(n)
+
+* Runtime: 1007 ms, faster than 70.55% of Python3 online submissions for Perfect Squares.
+* Memory Usage: 15.6 MB, less than 21.75% of Python3 online submissions for Perfect Squares.
+
+> bfs set

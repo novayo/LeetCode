@@ -7,3 +7,12 @@ try_1.py: O(n) O(n)
 * Memory Usage: 14.4 MB, less than 99.99% of Python3 online submissions for Clone Graph.
 
 > dfs
+
+---
+
+try_2.py: O(n) O(n)
+
+* Runtime: 36 ms, faster than 82.40% of Python3 online submissions for Clone Graph.
+* Memory Usage: 14.7 MB, less than 59.77% of Python3 online submissions for Clone Graph.
+
+> bfs

@@ -15,3 +15,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 14.3 MB, less than 25.65% of Python3 online submissions for Binary Tree Preorder Traversal.
 
 > iteration
+
+---
+
+try_3.py: O(n) O(1)
+
+* 执行用时：36 ms, 在所有 Python3 提交中击败了33.89%的用户
+* 内存消耗：15 MB, 在所有 Python3 提交中击败了40.35%的用户
+
+> morris traversal

@@ -16,3 +16,12 @@ try_2.py: O(n) O(n)
 
 > iteration
 > 反過來的 inorder iteration
+
+---
+
+try_3.py: O(n) O(1)
+
+* 执行用时：32 ms, 在所有 Python3 提交中击败了66.35%的用户
+* 内存消耗：15 MB, 在所有 Python3 提交中击败了47.96%的用户
+
+> morris traversal

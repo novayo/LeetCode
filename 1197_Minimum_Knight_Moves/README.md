@@ -25,3 +25,12 @@ try_3.py:
 * Memory Usage: 26.4 MB, less than 64.13% of Python3 online submissions for Minimum Knight Moves.
 
 > transfer the point into first quadrant
+
+---
+
+try_4.py:
+
+* Runtime: 119 ms, faster than 80.54% of Python3 online submissions for Minimum Knight Moves.
+* Memory Usage: 14.3 MB, less than 98.93% of Python3 online submissions for Minimum Knight Moves.
+
+> A*

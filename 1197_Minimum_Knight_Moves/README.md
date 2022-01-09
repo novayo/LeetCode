@@ -16,3 +16,12 @@ try_2.py:
 * Memory Usage: 76.9 MB, less than 8.52% of Python3 online submissions for Minimum Knight Moves.
 
 > bfs + memo
+
+---
+
+try_3.py:
+
+* Runtime: 1838 ms, faster than 66.12% of Python3 online submissions for Minimum Knight Moves.
+* Memory Usage: 26.4 MB, less than 64.13% of Python3 online submissions for Minimum Knight Moves.
+
+> transfer the point into first quadrant

@@ -24,3 +24,12 @@ try_3.py: O(n) O(n)
 * Memory Usage: 15.5 MB, less than 74.79% of Python3 online submissions for Course Schedule.
 
 > detect if there exists a cycle
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime: 109 ms, faster than 35.21% of Python3 online submissions for Course Schedule.
+* Memory Usage: 15.4 MB, less than 94.66% of Python3 online submissions for Course Schedule.
+
+> topological sort

@@ -18,3 +18,12 @@ try_2.py:
 > find a formula
 > 	* (拿最多的符號的個數出來 - 1)*(n+1) + 總共有幾個最多符號的個數
 >	* 但是要注意如果算出來的值 < tasks的數量，那就要回傳tasks的數量
+
+---
+
+try_3.py:
+
+* Runtime: 662 ms, faster than 30.33% of Python3 online submissions for Task Scheduler.
+* Memory Usage: 14.7 MB, less than 84.65% of Python3 online submissions for Task Scheduler.
+
+> 先排滿，再扣除

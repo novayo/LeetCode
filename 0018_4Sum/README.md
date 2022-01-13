@@ -23,3 +23,12 @@ try_3.py: O(n^3)
 * Memory Usage: 14.2 MB, less than 64.25% of Python3 online submissions for 4Sum.
 
 > 通通轉成two sum
+
+---
+
+try_4.py: O(n^3)
+
+* Runtime: 1246 ms, faster than 44.73% of Python3 online submissions for 4Sum.
+* Memory Usage: 14.2 MB, less than 92.44% of Python3 online submissions for 4Sum.
+
+> ksum

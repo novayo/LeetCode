@@ -38,3 +38,12 @@ try_4.py: O(1) O(n)
 > 用arr紀錄值 (getRandom 直接隨機找一個 => O(1))
 > insert => append即可，同時記錄index => O(1)
 > remove => 跟最後交換，再pop，同時更新index => O(1)
+
+---
+
+try_5.py: O(1) O(n)
+
+* Runtime: 586 ms, faster than 42.92% of Python3 online submissions for Insert Delete GetRandom O(1).
+* Memory Usage: 61.7 MB, less than 84.07% of Python3 online submissions for Insert Delete GetRandom O(1).
+
+> list + hash table

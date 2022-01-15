@@ -23,3 +23,12 @@ try_3.py: O(n) O(1)
 * Memory Usage: 16.3 MB, less than 56.35% of Python3 online submissions for Find the Duplicate Number.
 
 > 龜兔賽跑
+
+---
+
+try_4.py: O(n) O(1)
+
+* Runtime: 941 ms, faster than 29.40% of Python3 online submissions for Find the Duplicate Number.
+* Memory Usage: 28.2 MB, less than 31.72% of Python3 online submissions for Find the Duplicate Number.
+
+> hare and tortoise

@@ -16,3 +16,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 15.3 MB, less than 99.19% of Python3 online submissions for Course Schedule II.
 
 > topological sort
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 183 ms, faster than 14.93% of Python3 online submissions for Course Schedule II.
+* Memory Usage: 15.3 MB, less than 96.03% of Python3 online submissions for Course Schedule II.
+
+> topological sort

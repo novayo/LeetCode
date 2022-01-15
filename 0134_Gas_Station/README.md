@@ -7,3 +7,12 @@ try_1.py:
 * Memory Usage: 14.7 MB, less than 6.25% of Python3 online submissions for Gas Station.
 
 > dp
+
+---
+
+try_2.py: O(2n) O(n)
+
+* Runtime: 757 ms, faster than 16.60% of Python3 online submissions for Gas Station.
+* Memory Usage: 18.7 MB, less than 95.03% of Python3 online submissions for Gas Station.
+
+> greedy find

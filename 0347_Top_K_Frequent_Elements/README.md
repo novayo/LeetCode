@@ -43,3 +43,30 @@ try_5.py: O(n) O(n)
 * Memory Usage: 20.1 MB, less than 6.27% of Python3 online submissions for Top K Frequent Elements.
 
 > bucket sort
+
+---
+
+try_6.py: O(n) O(n)
+
+* Runtime: 174 ms, faster than 15.30% of Python3 online submissions for Top K Frequent Elements.
+* Memory Usage: 18.5 MB, less than 95.49% of Python3 online submissions for Top K Frequent Elements.
+
+> quick select
+
+---
+
+try_7.py: O(n) O(n)
+
+* Runtime: 112 ms, faster than 43.23% of Python3 online submissions for Top K Frequent Elements.
+* Memory Usage: 20.1 MB, less than 7.05% of Python3 online submissions for Top K Frequent Elements.
+
+> bucket sort
+
+---
+
+try_8.py: O(nlogk) O(k)
+
+* Runtime: 168 ms, faster than 17.86% of Python3 online submissions for Top K Frequent Elements.
+* Memory Usage: 18.8 MB, less than 39.49% of Python3 online submissions for Top K Frequent Elements.
+
+> heap

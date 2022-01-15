@@ -17,3 +17,9 @@ try_2.py: O(n) O(n)
 * Memory Usage: 14.4 MB, less than 14.78% of Python3 online submissions for Construct Binary Tree from Preorder and Postorder Traversal.
 
 > 以postorder去定義結束範圍
+
+---
+
+try_3.py: O(n) O(n)
+
+* 以preorder為主

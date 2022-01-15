@@ -18,3 +18,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 14.5 MB, less than 14.74% of Python3 online submissions for Construct Binary Search Tree from Preorder Traversal.
 
 > 以root去找第一個較大值的位置，定義left, right範圍
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 51 ms, faster than 25.78% of Python3 online submissions for Construct Binary Search Tree from Preorder Traversal.
+* Memory Usage: 14.4 MB, less than 12.47% of Python3 online submissions for Construct Binary Search Tree from Preorder Traversal.
+
+> 用略大為index，preorder為準

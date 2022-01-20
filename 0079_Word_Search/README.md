@@ -16,3 +16,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 14.3 MB, less than 73.46% of Python3 online submissions for Word Search.
 
 > bfs
+        
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 6778 ms, faster than 52.71% of Python3 online submissions for Word Search.
+* Memory Usage: 14.2 MB, less than 89.23% of Python3 online submissions for Word Search.
+
+> dfs

@@ -33,3 +33,12 @@ try_4.py: O(n) O(n)
 * Memory Usage: 27.8 MB, less than 13.12% of Python3 online submissions for Lowest Common Ancestor of a Binary Tree.
 
 > return a number represent how many target we found.
+
+---
+
+try_5.py: O(n) O(n)
+
+* Runtime: 111 ms, faster than 26.82% of Python3 online submissions for Lowest Common Ancestor of a Binary Tree.
+* Memory Usage: 27.7 MB, less than 32.25% of Python3 online submissions for Lowest Common Ancestor of a Binary Tree.
+
+> dfs bottom up

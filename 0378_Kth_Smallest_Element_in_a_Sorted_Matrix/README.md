@@ -43,3 +43,12 @@ try_5.py: O(klogn) O(n)
 * Memory Usage: 20 MB, less than 78.34% of Python3 online submissions for Kth Smallest Element in a Sorted Matrix.
 
 > 用prioirty queue紀錄每列的最左邊的值,每次取出最小, 並讓該位置的index+1, 這樣只需要取k次 
+        
+---
+
+try_6.py: O(klogn) (n)
+
+* Runtime: 219 ms, faster than 53.11% of Python3 online submissions for Kth Smallest Element in a Sorted Matrix.
+* Memory Usage: 18.8 MB, less than 68.48% of Python3 online submissions for Kth Smallest Element in a Sorted Matrix.
+
+> 紀錄row index，挑最小的前進

@@ -42,3 +42,12 @@ try_5.py: O(n) O(n)
 * Memory Usage: 14.4 MB, less than 25.13% of Python3 online submissions for Longest Substring Without Repeating Characters.
 
 > instead of maintain the buffer dict(O(2n)), we check if the index is greater or equal than the index in buffer
+
+---
+
+try_6.py: O(n) O(n)
+
+* Runtime: 114 ms, faster than 30.77% of Python3 online submissions for Longest Substring Without Repeating Characters.
+* Memory Usage: 14.3 MB, less than 79.77% of Python3 online submissions for Longest Substring Without Repeating Characters.
+
+> hash table + sliding window

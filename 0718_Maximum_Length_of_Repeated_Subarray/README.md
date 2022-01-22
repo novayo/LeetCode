@@ -18,3 +18,21 @@ try_2.py: (nlogn) O(n)
 
 > 找出長度n的Ａ的所有可能(set) => 再看B的所有可能有沒有存在於setA中
 > 用長度去切binary,反正長度3有subarray符合的話，長度1~2就不用看了
+
+---
+
+try_3.py: O(m*n) O(m*n)
+
+* Runtime: 6711 ms, faster than 15.12% of Python3 online submissions for Maximum Length of Repeated Subarray.
+* Memory Usage: 39.5 MB, less than 37.83% of Python3 online submissions for Maximum Length of Repeated Subarray.
+
+> simple LCS
+
+---
+
+try_4.py: O(nlogn) O(n)
+
+* Runtime: 558 ms, faster than 94.38% of Python3 online submissions for Maximum Length of Repeated Subarray.
+* Memory Usage: 17.5 MB, less than 81.69% of Python3 online submissions for Maximum Length of Repeated Subarray.
+
+> binary search + sliding window

@@ -17,3 +17,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 14.7 MB, less than 70.55% of Python3 online submissions for Max Consecutive Ones III.
 
 > monotonic queue => 之後可以優化成try_1.py
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 1294 ms, faster than 5.02% of Python3 online submissions for Max Consecutive Ones III.
+* Memory Usage: 15 MB, less than 7.61% of Python3 online submissions for Max Consecutive Ones III.
+
+> sliding window

@@ -16,3 +16,12 @@ try_2.py: O(m*n)
 * Memory Usage: 14.3 MB, less than 83.59% of Python3 online submissions for Unique Paths II.
 
 > dp，上左遇到石頭時則+0，要先處理第一行跟第一列，有石頭則後續的皆為0(走不到)
+
+---
+
+try_3.py: O(m*n)
+
+* Runtime: 73 ms, faster than 20.99% of Python3 online submissions for Unique Paths II.
+* Memory Usage: 14 MB, less than 98.92% of Python3 online submissions for Unique Paths II.
+
+> dp

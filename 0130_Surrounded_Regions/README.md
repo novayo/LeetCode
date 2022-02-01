@@ -23,3 +23,12 @@ try_3.py:
 * Memory Usage: 14.3 MB, less than 73.33% of Python3 online submissions for Surrounded Regions.
 
 > optimize try_2.py
+
+---
+
+try_4.py: O(n*m) O(n*m)
+
+* Runtime: 353 ms, faster than 9.24% of Python3 online submissions for Surrounded Regions.
+* Memory Usage: 72.2 MB, less than 5.01% of Python3 online submissions for Surrounded Regions.
+
+> flip to tmp and flip back

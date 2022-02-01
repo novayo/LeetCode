@@ -27,3 +27,21 @@ try_4.py: O(n*amount) O(n*amount)
 * Memory Usage: 29.7 MB, less than 32.68% of Python3 online submissions for Coin Change 2.
 
 > knapsack
+
+---
+
+try_5.py: O(n*amount) O(n*amount)
+
+* Runtime: 790 ms, faster than 21.31% of Python3 online submissions for Coin Change 2.
+* Memory Usage: 29.6 MB, less than 33.36% of Python3 online submissions for Coin Change 2.
+
+> knapsack
+
+---
+
+try_6.py: O(n*m) O(n*m)
+
+* Runtime: 553 ms, faster than 33.85% of Python3 online submissions for Coin Change 2.
+* Memory Usage: 29.6 MB, less than 33.35% of Python3 online submissions for Coin Change 2.
+
+> knapsack

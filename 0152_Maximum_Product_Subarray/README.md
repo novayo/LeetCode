@@ -19,3 +19,12 @@ try_2.py: O(n) O(1)
 
 > 單純掃過所有可能，從左邊掃，從右邊掃，紀錄當前最大的sub即可
 > 若乘完後=0，則再從1開始乘
+
+---
+
+try_3.py: O(n) O(1)
+
+* Runtime: 88 ms, faster than 47.73% of Python3 online submissions for Maximum Product Subarray.
+* Memory Usage: 14.4 MB, less than 87.07% of Python3 online submissions for Maximum Product Subarray.
+
+> 紀錄cur max & cur min

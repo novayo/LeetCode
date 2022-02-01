@@ -30,3 +30,12 @@ try_3.py: O(n) O(n)
 * Memory Usage: 28.9 MB, less than 5.98% of Python3 online submissions for Maximum Subarray.
 
 > presum and find min from 0 to index
+
+---
+
+try_4.py: O(n) O(1)
+
+* Runtime: 1511 ms, faster than 6.99% of Python3 online submissions for Maximum Subarray.
+* Memory Usage: 27.9 MB, less than 92.64% of Python3 online submissions for Maximum Subarray.
+
+> 紀錄cur max

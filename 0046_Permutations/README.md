@@ -49,3 +49,21 @@ try_6.py:
 * Memory Usage: 14.2 MB, less than 97.01% of Python3 online submissions for Permutations.
 
 > next_permutation
+
+---
+
+try_7.py: O(length!) O(length!)
+
+* Runtime: 61 ms, faster than 32.49% of Python3 online submissions for Permutations.
+* Memory Usage: 14.2 MB, less than 90.35% of Python3 online submissions for Permutations.
+
+> recursion
+
+---
+
+try_8.py: O(length!) O(length!)
+
+* Runtime: 60 ms, faster than 34.07% of Python3 online submissions for Permutations.
+* Memory Usage: 14.1 MB, less than 90.35% of Python3 online submissions for Permutations.
+
+> next permutation

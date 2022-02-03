@@ -24,3 +24,12 @@ try_3.py: O(n)
 
 > 只要有數字，一定走得到結尾
 > 因此只要尋找0，看是否目前"最遠到達index"能否超越此位置即可，且此位置不能為最後一位
+
+---
+
+try_4.py: O(n) O(1)
+
+* Runtime: 588 ms, faster than 55.22% of Python3 online submissions for Jump Game.
+* Memory Usage: 15.2 MB, less than 71.36% of Python3 online submissions for Jump Game.
+
+> check last pos

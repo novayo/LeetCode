@@ -18,3 +18,12 @@ try_2.py: O(1) O(1)
 
 > 用這兩個變數來指向對應的index，
 > 如此一來可以減少建立list的時間，也可以節省記憶體
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 132 ms, faster than 24.68% of Python3 online submissions for Flatten 2D Vector.
+* Memory Usage: 19.3 MB, less than 63.83% of Python3 online submissions for Flatten 2D Vector.
+
+> flatten first, use iteration

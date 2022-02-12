@@ -15,3 +15,12 @@ try_2.py: O(nodes) O(n)
 * Memory Usage: 15.5 MB, less than 8.49% of Python3 online submissions for Populating Next Right Pointers in Each Node II.
 
 > the same idea as LC116
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 59 ms, faster than 56.96% of Python3 online submissions for Populating Next Right Pointers in Each Node II.
+* Memory Usage: 15.3 MB, less than 95.78% of Python3 online submissions for Populating Next Right Pointers in Each Node II.
+
+> bfs

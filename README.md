@@ -9,8 +9,6 @@
     * 測資不要看
     * 直接submit
 
-* [Skype討論](https://join.skype.com/xrajy1IOZLX6)
-
 ---
 
 ## 主題 

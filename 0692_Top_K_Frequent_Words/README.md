@@ -25,3 +25,12 @@ try_3.py: O(nlogk) O(n)
 * Memory Usage: 14.2 MB, less than 96.83% of Python3 online submissions for Top K Frequent Words.
 
 > bucket sort
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime: 60 ms, faster than 73.75% of Python3 online submissions for Top K Frequent Words.
+* Memory Usage: 13.9 MB, less than 98.60% of Python3 online submissions for Top K Frequent Words.
+
+> bucket sort

@@ -16,3 +16,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 17.8 MB, less than 14.75% of Python3 online submissions for Sort Characters By Frequency.
 
 > bucket sort
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 72 ms, faster than 43.74% of Python3 online submissions for Sort Characters By Frequency.
+* Memory Usage: 17 MB, less than 21.70% of Python3 online submissions for Sort Characters By Frequency.
+
+> bucket sort

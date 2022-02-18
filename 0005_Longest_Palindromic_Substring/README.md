@@ -36,3 +36,12 @@ try_4.py: O(n^2) O(n)
 * Memory Usage: 22.1 MB, less than 12.00% of Python3 online submissions for Longest Palindromic Substring.
 
 > dp[i][j] = s[i~j] is palindrone
+
+---
+
+try_5.py: O(n) O(n)
+
+* Runtime: 211 ms, faster than 95.09% of Python3 online submissions for Longest Palindromic Substring.
+* Memory Usage: 14 MB, less than 75.61% of Python3 online submissions for Longest Palindromic Substring.
+
+> manacher's algorithm

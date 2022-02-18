@@ -17,3 +17,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 15.1 MB, less than 70.30% of Python3 online submissions for Maximum Width of Binary Tree.
 
 > bfs
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 74 ms, faster than 30.25% of Python3 online submissions for Maximum Width of Binary Tree.
+* Memory Usage: 14.8 MB, less than 90.35% of Python3 online submissions for Maximum Width of Binary Tree.
+
+> bfs

@@ -33,3 +33,12 @@ try_4.py: O(n*sum) O(n*sum)
 * Memory Usage: 29.7 MB, less than 43.52% of Python3 online submissions for Partition Equal Subset Sum.
 
 > knapsack
+
+---
+
+try_5.py: O(n*sum) O(n*sum)
+
+* Runtime: 3171 ms, faster than 23.22% of Python3 online submissions for Partition Equal Subset Sum.
+* Memory Usage: 29.5 MB, less than 40.45% of Python3 online submissions for Partition Equal Subset Sum.
+
+> knapsack

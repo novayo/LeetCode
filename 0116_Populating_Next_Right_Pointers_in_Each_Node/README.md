@@ -24,3 +24,12 @@ try_3.py: O(nodes) O(1)
 
 > intuition
 > 找出右邊，左邊next到右邊，左邊 = 右邊
+
+---
+
+try_4.py: O(n) O(1)
+
+* Runtime: 132 ms, faster than 8.48% of Python3 online submissions for Populating Next Right Pointers in Each Node.
+* Memory Usage: 15.5 MB, less than 88.30% of Python3 online submissions for Populating Next Right Pointers in Each Node.
+
+> remeber leftmost node and loop a layer

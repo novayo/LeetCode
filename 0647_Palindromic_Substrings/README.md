@@ -17,3 +17,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 13.9 MB, less than 79.07% of Python3 online submissions for Palindromic Substrings.
 
 > manacher's algorithm
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 40 ms, faster than 99.72% of Python3 online submissions for Palindromic Substrings.
+* Memory Usage: 14.1 MB, less than 67.91% of Python3 online submissions for Palindromic Substrings.
+
+> manacher's algorithm

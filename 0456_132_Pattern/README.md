@@ -16,3 +16,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 32.5 MB, less than 10.00% of Python3 online submissions for 132 Pattern.
 
 > 邊找邊剔除右邊不需要參考的值即可
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 430 ms, faster than 59.64% of Python3 online submissions for 132 Pattern.
+* Memory Usage: 32.2 MB, less than 47.43% of Python3 online submissions for 132 Pattern.
+
+> stack + dp

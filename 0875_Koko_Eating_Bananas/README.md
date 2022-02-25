@@ -15,3 +15,12 @@ try_2.py:
 * Memory Usage: 14.1 MB, less than 100.00% of Python3 online submissions for Koko Eating Bananas.
 
 > find lower bound and start from lower bound to find the min possiblility
+
+---
+
+try_3.py: O(nlogk) O(1)
+
+* Runtime: 922 ms, faster than 14.37% of Python3 online submissions for Koko Eating Bananas.
+* Memory Usage: 15.4 MB, less than 86.76% of Python3 online submissions for Koko Eating Bananas.
+
+> binary search

@@ -20,3 +20,12 @@ try_2.py: O(n^2) O(n)
 > dp
 > 假設n=3 => 1當頭時，2個數排列、2當頭時，左1個數排列*右1個數排列、3當頭時，2個數排列 => 總和是2+1+2=5 => 可得知3個數排列組合為5
 > n=4 => 1當頭時，3個數排列、2當頭時，1*2個數排列、3當頭時，1*2個數排列、4當頭時，3個數排列 => 總和是5+2+2+5=14 => 可得知4個數排列組合為14
+
+---
+
+try_3.py: O(n^2) O(n)
+
+* Runtime: 43 ms, faster than 50.72% of Python3 online submissions for Unique Binary Search Trees.
+* Memory Usage: 13.8 MB, less than 83.82% of Python3 online submissions for Unique Binary Search Trees.
+
+> dp 紀錄個數

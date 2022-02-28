@@ -15,3 +15,21 @@ try_2.py: O(logn) O(1)
 * Memory Usage: 14.1 MB, less than 48.21% of Python3 online submissions for Find Minimum in Rotated Sorted Array.
 
 > binary search (compare to right)
+
+---
+
+try_3.py: O(logn) O(1)
+
+* Runtime: 83 ms, faster than 9.15% of Python3 online submissions for Find Minimum in Rotated Sorted Array.
+* Memory Usage: 14.3 MB, less than 64.76% of Python3 online submissions for Find Minimum in Rotated Sorted Array.
+
+> binary search
+
+---
+
+try_4.py: O(logn) O(1)
+
+* Runtime: 63 ms, faster than 41.88% of Python3 online submissions for Find Minimum in Rotated Sorted Array.
+* Memory Usage: 14.3 MB, less than 64.76% of Python3 online submissions for Find Minimum in Rotated Sorted Array.
+
+> binary search (compare to right)

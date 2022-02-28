@@ -1,0 +1,30 @@
+class Solution:
+    def numDistinctIslands(self, grid: List[List[int]]) -> int:
+        '''
+        都從最左上開始跑，然後讓第一個點為0,0，建立出代表他的string = '0,0,0,1,1,0'
+        '''
+        def bfs(i, j):
+            ret = []
+            stack = [(i, j)]
+            
+            while stack:
+                x, y = stack.pop()
+                
+                ret.append(str(x-i))
+                ret.append(str(y-j))
+                
+                for _x, _y in [x-1, y], [x+1, y], [x, y-1], [x, y+1]:
+                    if not (0 <= _x < height) or not (0 <= _y < width) or grid[_x][_y] == 0:
+                        continue
+                    grid[_x][_y] = 0
+                    stack.append((_x, _y))
+            return ','.join(ret)
+        
+        height = len(grid)
+        width = len(grid[0])
+        ans = set()
+        for i in range(height):
+            for j in range(width):
+                if grid[i][j] == 1:
+                    ans.add(bfs(i, j))
+        return len(ans)

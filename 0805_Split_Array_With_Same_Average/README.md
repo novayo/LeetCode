@@ -18,3 +18,12 @@ try_2.py: O(n^2) O(n^2)
 > 因為knapsack的定義是sum(nums)，當總和很大，不管長度小或大，都會TLE
 > 那就乾脆找出取前k個的組合
 > 最後一樣檢查取k個時的合理A是否能被組成
+
+---
+
+try_3.py: O(n^2) O(n^2)
+
+* Runtime: 267 ms, faster than 62.87% of Python3 online submissions for Split Array With Same Average.
+* Memory Usage: 45.8 MB, less than 42.58% of Python3 online submissions for Split Array With Same Average.
+
+> bottom-up

@@ -15,3 +15,12 @@ try_2.py:
 * Memory Usage: 14.4 MB, less than 20.36% of Python3 online submissions for Binary Tree Level Order Traversal.
 
 > bfs
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 48 ms, faster than 55.53% of Python3 online submissions for Binary Tree Level Order Traversal.
+* Memory Usage: 14.2 MB, less than 76.86% of Python3 online submissions for Binary Tree Level Order Traversal.
+
+> bfs

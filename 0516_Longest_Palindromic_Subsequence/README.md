@@ -19,3 +19,21 @@ try_2.py: O(n^2) O(n^2)
 * Memory Usage: 30.6 MB, less than 85.59% of Python3 online submissions for Longest Palindromic Subsequence.
 
 > dp[i][j] => s[i:j]有幾個回文
+
+---
+
+try_3.py: O(n^2) O(n^2)
+
+* Runtime: 1559 ms, faster than 79.54% of Python3 online submissions for Longest Palindromic Subsequence.
+* Memory Usage: 249.9 MB, less than 13.11% of Python3 online submissions for Longest Palindromic Subsequence.
+
+> recursion
+
+---
+
+try_4.py: O(n^2) O(n^2)
+
+* Runtime: 2421 ms, faster than 48.40% of Python3 online submissions for Longest Palindromic Subsequence.
+* Memory Usage: 30.6 MB, less than 74.73% of Python3 online submissions for Longest Palindromic Subsequence.
+
+> dp

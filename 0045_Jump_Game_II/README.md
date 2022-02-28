@@ -15,3 +15,12 @@ try_2.py: O(n^2)
 * Memory Usage: 14.3 MB, less than 57.44% of Python3 online submissions for Jump Game II.
 
 > dp
+
+---
+
+try_3.py: O(n) O(1)
+
+* Runtime: 124 ms, faster than 94.27% of Python3 online submissions for Jump Game II.
+* Memory Usage: 15 MB, less than 94.46% of Python3 online submissions for Jump Game II.
+
+> greedy

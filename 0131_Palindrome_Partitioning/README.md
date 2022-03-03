@@ -23,3 +23,12 @@ try_3.py: O(n*2^n) O(n*n)
 * Memory Usage: 14.9 MB, less than 18.12% of Python3 online submissions for Palindrome Partitioning.
 
 > backtracking + dp
+
+---
+
+try_4.py: O(n*2^n) O(n*n)
+
+* Runtime: 739 ms, faster than 72.99% of Python3 online submissions for Palindrome Partitioning.
+* Memory Usage: 30.2 MB, less than 58.54% of Python3 online submissions for Palindrome Partitioning.
+
+> backtracking + dp

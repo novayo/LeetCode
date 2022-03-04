@@ -7,3 +7,12 @@ try_1.py: O(n)
 * Memory Usage: 15.1 MB, less than 7.32% of Python3 online submissions for Best Time to Buy and Sell Stock II.
 
 > greedy
+
+---
+
+try_2.py: O(n) O(1)
+
+* Runtime: 90 ms, faster than 50.19% of Python3 online submissions for Best Time to Buy and Sell Stock II.
+* Memory Usage: 15.2 MB, less than 52.15% of Python3 online submissions for Best Time to Buy and Sell Stock II.
+
+> dp

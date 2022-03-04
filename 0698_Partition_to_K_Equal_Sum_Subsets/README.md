@@ -15,3 +15,9 @@ try_2.py:
 * Memory Usage: 12.8 MB, less than 100.00% of Python3 online submissions for Partition to K Equal Sum Subsets.
 
 > optimize try_1
+
+---
+
+try_3.py: O(n^2) O(n)
+
+* try_1

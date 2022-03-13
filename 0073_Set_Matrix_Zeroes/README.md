@@ -39,3 +39,12 @@ try_4.py: O(n) O(1)
 >       
 > 最後判斷[0][0]是否為0，更新最上跟最左為0
 > 如果原本最上或最左有0，也要更新最上為0或最左為0
+
+---
+
+try_5.py: O(n) O(1)
+
+* Runtime: 132 ms, faster than 90.63% of Python3 online submissions for Set Matrix Zeroes.
+* Memory Usage: 14.7 MB, less than 94.57% of Python3 online submissions for Set Matrix Zeroes.
+
+> mark to top or left

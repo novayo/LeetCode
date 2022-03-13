@@ -44,3 +44,12 @@ try_5.py: O(n) O(1)
 * Memory Usage: 16.4 MB, less than 56.48% of Python3 online submissions for Odd Even Linked List.
 
 > move to start
+
+---
+
+try_6.py: O(n) O(1)
+
+* Runtime: 46 ms, faster than 80.88% of Python3 online submissions for Odd Even Linked List.
+* Memory Usage: 16.5 MB, less than 59.19% of Python3 online submissions for Odd Even Linked List.
+
+> dummy node

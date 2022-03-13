@@ -15,3 +15,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 13.9 MB, less than 31.23% of Python3 online submissions for Swap Nodes in Pairs.
 
 > recursive-version
+
+---
+
+try_3.py: O(n) O(1)
+
+* Runtime: 36 ms, faster than 75.58% of Python3 online submissions for Swap Nodes in Pairs.
+* Memory Usage: 13.9 MB, less than 73.10% of Python3 online submissions for Swap Nodes in Pairs.
+
+> dummy node

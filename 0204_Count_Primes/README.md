@@ -10,8 +10,18 @@ try_1.py: O(n)
 
 ---
 
-try_2.py: O(n)
+try_2.py: O(n*sqrt(n)) O(n)
+
 * Runtime: 152 ms, faster than 94.83% of Python3 online submissions for Count Primes.
 * Memory Usage: 37 MB, less than 24.36% of Python3 online submissions for Count Primes.
 
 > Sieve of Eratosthenes : https://www.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/v/sieve-of-eratosthenes-prime-adventure-part-4
+
+---
+
+try_3.py: O(n*sqrt(n)) O(n)
+
+* Runtime: 5022 ms, faster than 48.45% of Python3 online submissions for Count Primes.
+* Memory Usage: 52.9 MB, less than 67.62% of Python3 online submissions for Count Primes.
+
+> Sieve of Eratosthenes

@@ -16,3 +16,12 @@ try_2.py:
 
 > backtrack
 > optimize try_1.py
+
+---
+
+try_3.py: O(k*comb(n)) O(comb(n))
+
+* Runtime: 114 ms, faster than 89.76% of Python3 online submissions for Combinations.
+* Memory Usage: 16 MB, less than 17.89% of Python3 online submissions for Combinations. 
+
+> backtracking + optimize

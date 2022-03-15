@@ -19,3 +19,13 @@ try_2.py: O(n) O(1)
 > must satisfy the following two condition
 > 	1. i <= k <= j
 > 	2. when nums[k] == 1 => then k moves
+
+---
+
+try_3.py: O(n) O(1)
+
+* Runtime: 52 ms, faster than 41.28% of Python3 online submissions for Sort Colors.
+* Memory Usage: 13.9 MB, less than 37.96% of Python3 online submissions for Sort Colors.
+
+> move to start or end
+> It's possible to swap multiple times at the same spot.

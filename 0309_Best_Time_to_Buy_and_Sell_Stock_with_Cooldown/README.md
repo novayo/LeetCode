@@ -17,3 +17,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 14.8 MB, less than 32.63% of Python3 online submissions for Best Time to Buy and Sell Stock with Cooldown.
 
 > time dp I
+
+---
+
+try_3.py: O(n) O(1)
+
+* Runtime: 75 ms, faster than 32.93% of Python3 online submissions for Best Time to Buy and Sell Stock with Cooldown.
+* Memory Usage: 14.1 MB, less than 82.18% of Python3 online submissions for Best Time to Buy and Sell Stock with Cooldown.
+
+> 狀態機 => 有hold, idle, cooldown三狀態

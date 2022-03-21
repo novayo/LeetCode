@@ -27,3 +27,12 @@ try_3.py: O(m*n) O(m*n)
 * Memory Usage: 22.1 MB, less than 71.92% of Python3 online submissions for Longest Common Subsequence.
 
 > LCS dp
+
+---
+
+try_4.py: O(m*n) O(m*n)
+
+* Runtime: 1413 ms, faster than 13.13% of Python3 online submissions for Longest Common Subsequence.
+* Memory Usage: 140.3 MB, less than 15.15% of Python3 online submissions for Longest Common Subsequence.
+
+> 慢慢往前找

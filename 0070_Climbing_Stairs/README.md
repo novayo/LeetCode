@@ -18,9 +18,18 @@ try_2.py:
 
 ---
 
-try_1.py: O(2n) O(n)
+try_3.py: O(2n) O(n)
 
 * Runtime: 64 ms, faster than 5.42% of Python3 online submissions for Climbing Stairs.
 * Memory Usage: 14.3 MB, less than 43.19% of Python3 online submissions for Climbing Stairs.
 
 > dp (coin change)
+
+---
+
+try_4.py: O(n) O(1)
+
+* Runtime: 51 ms, faster than 27.30% of Python3 online submissions for Climbing Stairs.
+* Memory Usage: 13.9 MB, less than 68.03% of Python3 online submissions for Climbing Stairs.
+
+> dp

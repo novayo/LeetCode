@@ -11,3 +11,12 @@ try_1.py: O(n*sqrt(n)) O(n)
 >       
 > 所以 就變成去找說，因為都是Alex先選擇，所以就看目前的dp[n去減平方數]有沒有等於False，代表Alex選擇了此平方數之後，Bob絕對會輸，有的話這格就為True，否則為False
 > 同時可以建立平方數的表
+
+---
+
+try_2.py: O(n*sqrt(n)) O(n)
+
+* Runtime: 2611 ms, faster than 32.80% of Python3 online submissions for Stone Game IV.
+* Memory Usage: 14.8 MB, less than 87.34% of Python3 online submissions for Stone Game IV.
+
+> 往前找看是否 在此選擇下，下一個人為False

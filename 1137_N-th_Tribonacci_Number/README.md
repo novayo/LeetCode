@@ -16,3 +16,12 @@ try_2.py: O(n)
 * Memory Usage: 12.5 MB, less than 100.00% of Python3 online submissions for N-th Tribonacci Number.
 
 > Buttom-up
+
+---
+
+try_3.py: O(n) O(1)
+
+* Runtime: 48 ms, faster than 35.42% of Python3 online submissions for N-th Tribonacci Number.
+* Memory Usage: 13.8 MB, less than 69.68% of Python3 online submissions for N-th Tribonacci Number.
+
+> dp

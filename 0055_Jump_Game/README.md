@@ -33,3 +33,12 @@ try_4.py: O(n) O(1)
 * Memory Usage: 15.2 MB, less than 71.36% of Python3 online submissions for Jump Game.
 
 > check last pos
+
+---
+
+try_5.py: O(n) O(1)
+
+* Runtime: 769 ms, faster than 36.85% of Python3 online submissions for Jump Game.
+* Memory Usage: 15.3 MB, less than 56.15% of Python3 online submissions for Jump Game.
+
+> dp

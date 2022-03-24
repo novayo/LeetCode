@@ -39,3 +39,9 @@ try_4.py: O(n) O(1)
 * Memory Usage: 27.9 MB, less than 92.64% of Python3 online submissions for Maximum Subarray.
 
 > 紀錄cur max
+
+---
+
+try_5.py: O(n) O(1)
+
+* Kadane

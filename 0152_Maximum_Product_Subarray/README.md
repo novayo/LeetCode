@@ -28,3 +28,12 @@ try_3.py: O(n) O(1)
 * Memory Usage: 14.4 MB, less than 87.07% of Python3 online submissions for Maximum Product Subarray.
 
 > 紀錄cur max & cur min
+
+---
+
+try_4.py: O(n) O(1)
+
+* Runtime: 92 ms, faster than 82.20% of Python3 online submissions for Maximum Product Subarray.
+* Memory Usage: 14.4 MB, less than 84.45% of Python3 online submissions for Maximum Product Subarray.
+
+> 紀錄cur max & cur min

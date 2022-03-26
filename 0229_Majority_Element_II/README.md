@@ -17,3 +17,12 @@ try_2.py: O(n) O(1)
 * Memory Usage: 15.3 MB, less than 91.23% of Python3 online submissions for Majority Element II.
 
 > two candidate
+
+---
+
+try_3.py: O(n) O(1)
+
+* Runtime: 148 ms, faster than 61.58% of Python3 online submissions for Majority Element II.
+* Memory Usage: 15.3 MB, less than 76.26% of Python3 online submissions for Majority Element II.
+
+> two candidate

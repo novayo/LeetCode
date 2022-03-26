@@ -27,3 +27,12 @@ try_3.py:
 * Memory Usage: 14.7 MB, less than 84.65% of Python3 online submissions for Task Scheduler.
 
 > 先排滿，再扣除
+
+---
+
+try_4.py: O(nlogn) O(n)
+
+* Runtime: 485 ms, faster than 78.52% of Python3 online submissions for Task Scheduler.
+* Memory Usage: 14.3 MB, less than 52.78% of Python3 online submissions for Task Scheduler.
+
+> greedy

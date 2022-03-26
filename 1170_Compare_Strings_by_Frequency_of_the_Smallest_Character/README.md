@@ -24,3 +24,12 @@ try_3.py: O(nlogn) O(n)
 * Memory Usage: 15 MB, less than 19.88% of Python3 online submissions for Compare Strings by Frequency of the Smallest Character.
 
 > binary search find answer
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime: 183 ms, faster than 43.69% of Python3 online submissions for Compare Strings by Frequency of the Smallest Character.
+* Memory Usage: 14.6 MB, less than 73.54% of Python3 online submissions for Compare Strings by Frequency of the Smallest Character.
+
+> Because the freqency is small, we can use bucket sort.

@@ -14,3 +14,21 @@ try_1.py: O(nlogn) O(n)
 try_2.py: O(n) O(1)
 
 * greedy find
+
+---
+
+try_3.py: O(nlogn) O(3)
+
+* Runtime: 652 ms, faster than 70.85% of Python3 online submissions for Increasing Triplet Subsequence.
+* Memory Usage: 24.6 MB, less than 81.41% of Python3 online submissions for Increasing Triplet Subsequence.
+
+> LIS
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime: 863 ms, faster than 35.78% of Python3 online submissions for Increasing Triplet Subsequence.
+* Memory Usage: 36.7 MB, less than 5.97% of Python3 online submissions for Increasing Triplet Subsequence.
+
+> monotonic stack

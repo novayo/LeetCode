@@ -32,3 +32,12 @@ try_4.py: O(n^2)
 * Memory Usage: 18.1 MB, less than 26.18% of Python3 online submissions for 3Sum.
 
 > kSum
+
+---
+
+try_5.py: O(n^2)
+
+* Runtime: 540 ms, faster than 99.10% of Python3 online submissions for 3Sum.
+* Memory Usage: 18.2 MB, less than 23.84% of Python3 online submissions for 3Sum.
+
+> ksum

@@ -26,3 +26,12 @@ try_3.py: O(n) O(n)
 
 > dp紀錄0~當前位置的最小值是誰 O(n)
 > 之後再跑一次loop去找最大profit即可
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime: 2619 ms, faster than 5.01% of Python3 online submissions for Best Time to Buy and Sell Stock.
+* Memory Usage: 25 MB, less than 42.99% of Python3 online submissions for Best Time to Buy and Sell Stock.
+
+> dp

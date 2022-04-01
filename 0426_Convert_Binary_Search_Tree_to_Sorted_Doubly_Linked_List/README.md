@@ -15,3 +15,12 @@ try_2.py: O(n) O(1)
 * Memory Usage: 15.2 MB, less than 89.23% of Python3 online submissions for Convert Binary Search Tree to Sorted Doubly Linked List.
 
 > inorder
+
+---
+
+try_3.py: O(n) O(1)
+
+* Runtime: 52 ms, faster than 49.29% of Python3 online submissions for Convert Binary Search Tree to Sorted Doubly Linked List.
+* Memory Usage: 14.8 MB, less than 80.75% of Python3 online submissions for Convert Binary Search Tree to Sorted Doubly Linked List.
+
+> morris

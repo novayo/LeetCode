@@ -25,3 +25,12 @@ try_3.py: O(n*sum) O(n*sum)
 * Memory Usage: 14.7 MB, less than 55.25% of Python3 online submissions for Target Sum.
 
 > knapsack
+
+---
+
+try_4.py: O(n*sum) O(n*sum)
+
+* Runtime: 233 ms, faster than 88.22% of Python3 online submissions for Target Sum.
+* Memory Usage: 14 MB, less than 88.57% of Python3 online submissions for Target Sum.
+
+> top-down memo

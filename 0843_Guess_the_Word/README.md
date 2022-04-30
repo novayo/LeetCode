@@ -37,3 +37,12 @@ try_4.py: O(10)
 * Memory Usage: 14.3 MB, less than 55.23% of Python3 online submissions for Guess the Word.
 
 > random 找法(後續可以先找出相關性最多的下去猜，這樣可以省比較少時間)
+
+---
+
+try_5.py: O(10)
+
+* Runtime: 47 ms, faster than 51.86% of Python3 online submissions for Guess the Word.
+* Memory Usage: 13.8 MB, less than 96.32% of Python3 online submissions for Guess the Word.
+
+> random pick candidate

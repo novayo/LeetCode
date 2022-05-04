@@ -18,3 +18,12 @@ try_2.py: O(n) O(1)
 * Memory Usage: 14.9 MB, less than 91.16% of Python3 online submissions for Minimum Number of Flips to Make the Binary String Alternating.
 
 > 優化try_1.py，長度偶數可以直接算
+
+---
+
+try_3.py: O(n) O(1)
+
+* Runtime: 1246 ms, faster than 48.63% of Python3 online submissions for Minimum Number of Flips to Make the Binary String Alternating.
+* Memory Usage: 14.8 MB, less than 98.08% of Python3 online submissions for Minimum Number of Flips to Make the Binary String Alternating.
+
+> sliding window

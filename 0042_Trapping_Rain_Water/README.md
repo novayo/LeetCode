@@ -35,3 +35,12 @@ try_4.py: O(2n) O(n)
 * Memory Usage: 14.8 MB, less than 87.29% of Python3 online submissions for Trapping Rain Water.
 
 > 每次計算i, bot, j中間的差值即可
+
+---
+
+try_5.py: O(n) O(n)
+
+* Runtime: 158 ms, faster than 47.86% of Python3 online submissions for Trapping Rain Water.
+* Memory Usage: 16 MB, less than 41.91% of Python3 online submissions for Trapping Rain Water.
+
+> dp

@@ -8,3 +8,12 @@ try_1.py: O(n) O(n)
 * Memory Usage: 14.2 MB, less than 94.63% of Python3 online submissions for Map Sum Pairs.
 
 > using trie
+
+---
+
+try_2.py: O(n) O(n)
+
+* Runtime: 59 ms, faster than 17.10% of Python3 online submissions for Map Sum Pairs.
+* Memory Usage: 13.9 MB, less than 98.05% of Python3 online submissions for Map Sum Pairs.
+
+> trie + cache for presum

@@ -45,3 +45,12 @@ try_5.py: O(nlogn) O(2*n-1)
 * Memory Usage: 40 MB, less than 43.22% of Python3 online submissions for Count of Smaller Numbers After Self.
 
 > segment tree with bucket sort
+
+---
+
+try_6.py: O(nlogn) O(2*10**4)
+
+* Runtime: 3838 ms, faster than 56.15% of Python3 online submissions for Count of Smaller Numbers After Self.
+* Memory Usage: 35.5 MB, less than 45.74% of Python3 online submissions for Count of Smaller Numbers After Self.
+
+> bit

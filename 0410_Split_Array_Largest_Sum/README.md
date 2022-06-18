@@ -32,3 +32,12 @@ try_4.py: O(nlogS) O(1)
 * Memory Usage: 13.9 MB, less than 69.22% of Python3 online submissions for Split Array Largest Sum.
 
 > binary search
+
+---
+
+try_5.py: O(nlogS) O(1)
+
+* Runtime: 58 ms, faster than 50.25% of Python3 online submissions for Split Array Largest Sum.
+* Memory Usage: 14.1 MB, less than 32.52% of Python3 online submissions for Split Array Largest Sum.
+
+> binary search

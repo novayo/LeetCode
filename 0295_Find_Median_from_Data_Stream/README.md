@@ -38,3 +38,12 @@ try_4.py: O(logn) O(n)
 > addNum => O(logn)、findMedian => O(1)
 > 將arr分成兩半部，一個由小到大，一個由大到小 => 這樣就可以取得中間
 > 如何維持 => 小的那半部長度 會比 大的那半部+1或相等，所以，要分情況去push
+
+---
+
+try_5.py: O(logn) O(n)
+
+* Runtime: 621 ms, faster than 79.47% of Python3 online submissions for Find Median from Data Stream.
+* Memory Usage: 36.5 MB, less than 13.80% of Python3 online submissions for Find Median from Data Stream.
+
+> heap

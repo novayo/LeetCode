@@ -18,8 +18,17 @@ try_2.py: O(n^2)
 
 ---
 
-try_3.py: O(nlogn)
+try_3.py: O(nlogk) O(n)
 * Runtime: 88 ms, faster than 97.32% of Python3 online submissions for Merge k Sorted Lists.
 * Memory Usage: 18.1 MB, less than 41.08% of Python3 online submissions for Merge k Sorted Lists.
 
 > 用heap（priority queue）來降低尋找最小值的複雜度
+
+---
+
+try_4.py: O(nlogk) O(1)
+
+* Runtime: 180 ms, faster than 42.39% of Python3 online submissions for Merge k Sorted Lists.
+* Memory Usage: 17.6 MB, less than 93.26% of Python3 online submissions for Merge k Sorted Lists.
+
+> This is a merge sort pattern. So just do merge steps.

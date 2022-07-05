@@ -26,3 +26,12 @@ try_3.py: O(n) O(n)
 * Memory Usage: 14.1 MB, less than 93.63% of Python3 online submissions for Alien Dictionary.
 
 > one loop to build graph
+
+---
+
+try_4.py: O(v+e) O(v+e)
+
+* Runtime: 33 ms, faster than 96.10% of Python3 online submissions for Alien Dictionary.
+* Memory Usage: 13.9 MB, less than 58.53% of Python3 online submissions for Alien Dictionary.
+
+> topological sort

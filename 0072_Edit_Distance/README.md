@@ -25,3 +25,21 @@ try_3.py: O(m*n) O(m*n)
 * Memory Usage: 17.9 MB, less than 43.58% of Python3 online submissions for Edit Distance.
 
 > dp
+
+---
+
+try_4.py: O(m*n) O(m*n)
+
+* Runtime: 142 ms, faster than 91.02% of Python3 online submissions for Edit Distance.
+* Memory Usage: 16.6 MB, less than 83.21% of Python3 online submissions for Edit Distance.
+
+> dfs
+
+---
+
+try_5.py: O(m*n) O(m*n)
+
+* Runtime: 313 ms, faster than 25.35% of Python3 online submissions for Edit Distance.
+* Memory Usage: 17.7 MB, less than 23.25% of Python3 online submissions for Edit Distance.
+
+> dp

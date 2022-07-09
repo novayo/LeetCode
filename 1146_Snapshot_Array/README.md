@@ -17,3 +17,12 @@ try_2.py: O(1) O(n)
 * Memory Usage: 34.7 MB, less than 53.94% of Python3 online submissions for Snapshot Array.
 
 > dict to prevent sparse matrix
+
+---
+
+try_3.py: O(logn) O(n)
+
+* Runtime: 667 ms, faster than 46.78% of Python3 online submissions for Snapshot Array.
+* Memory Usage: 38.8 MB, less than 18.88% of Python3 online submissions for Snapshot Array.
+
+> bs

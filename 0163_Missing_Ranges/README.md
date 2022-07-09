@@ -15,3 +15,12 @@ try_2.py:
 * Memory Usage: 12.8 MB, less than 100.00% of Python3 online submissions for Missing Ranges.
 
 > optimize
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 53 ms, faster than 28.02% of Python3 online submissions for Missing Ranges.
+* Memory Usage: 13.8 MB, less than 84.25% of Python3 online submissions for Missing Ranges.
+
+> intuitive

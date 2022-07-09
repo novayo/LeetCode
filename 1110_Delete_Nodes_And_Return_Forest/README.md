@@ -19,3 +19,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 15 MB, less than 26.60% of Python3 online submissions for Delete Nodes And Return Forest.
 
 > dfs
+
+---
+
+try_3.py: O(n) O(w+d) - n is the number of nodes of the input tree and w is the width and d is the depth.
+
+* Runtime: 72 ms, faster than 89.02% of Python3 online submissions for Delete Nodes And Return Forest.
+* Memory Usage: 14.5 MB, less than 71.41% of Python3 online submissions for Delete Nodes And Return Forest.
+
+> dfs

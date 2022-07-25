@@ -25,3 +25,12 @@ try_3.py: O(mnlogn) O(mn)
 * Memory Usage: 16.2 MB, less than 49.91% of Python3 online submissions for Path With Minimum Effort.
 
 > dijastra + dp
+
+---
+
+try_4.py: O(mnlogn) O(mn)
+
+* Runtime: 874 ms, faster than 86.27% of Python3 online submissions for Path With Minimum Effort.
+* Memory Usage: 16.1 MB, less than 48.99% of Python3 online submissions for Path With Minimum Effort.
+
+> dijastra + dp

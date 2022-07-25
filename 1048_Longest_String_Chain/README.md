@@ -29,3 +29,12 @@ try_3.py: O(n) O(n)
 * Memory Usage: 14.5 MB, less than 93.88% of Python3 online submissions for Longest String Chain.
 
 > bfs set
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime: 215 ms, faster than 64.41% of Python3 online submissions for Longest String Chain.
+* Memory Usage: 14.3 MB, less than 65.30% of Python3 online submissions for Longest String Chain.
+
+> string compare

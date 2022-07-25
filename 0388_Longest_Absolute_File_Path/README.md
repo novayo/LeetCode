@@ -9,3 +9,12 @@ try_1.py: O(n) O(n)
 
 > split '\n'
 > maintain answer list
+
+---
+
+try_2.py: O(n) O(n)
+
+* Runtime: 74 ms, faster than 5.30% of Python3 online submissions for Longest Absolute File Path.
+* Memory Usage: 14.1 MB, less than 29.72% of Python3 online submissions for Longest Absolute File Path.
+
+> stack

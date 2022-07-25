@@ -18,3 +18,12 @@ try_2.py: O(nlogn) O(n)
 
 > insert start and end in the same list
 > start & end must be in the same index
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 8631 ms, faster than 5.04% of Python3 online submissions for My Calendar I.
+* Memory Usage: 14.7 MB, less than 57.51% of Python3 online submissions for My Calendar I.
+
+> sweep line

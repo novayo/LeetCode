@@ -17,3 +17,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 14 MB, less than 92.39% of Python3 online submissions for Find Leaves of Binary Tree.
 
 > dfs bottom-up
+
+---
+
+try_3.py: O(n) O(n+d)
+
+* Runtime: 35 ms, faster than 86.19% of Python3 online submissions for Find Leaves of Binary Tree.
+* Memory Usage: 13.8 MB, less than 73.11% of Python3 online submissions for Find Leaves of Binary Tree.
+
+> bottom-up

@@ -26,3 +26,12 @@ try_3.py: O(logn) O(n)
 * Memory Usage: 38.8 MB, less than 18.88% of Python3 online submissions for Snapshot Array.
 
 > bs
+
+---
+
+try_4.py: O(logn) O(n)
+
+* Runtime: 898 ms, faster than 15.59% of Python3 online submissions for Snapshot Array.
+* Memory Usage: 43.6 MB, less than 6.46% of Python3 online submissions for Snapshot Array.
+
+> bs

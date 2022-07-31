@@ -25,3 +25,12 @@ try_3.py: O(N-M) O(N-M) - where N is the number of cells and M is the number of 
 * Memory Usage: 16.6 MB, less than 5.35% of Python3 online submissions for Robot Room Cleaner.
 
 > backtracking
+
+---
+
+try_3.py: O(N-M) O(N-M) - where N is the number of cells and M is the number of obstacles 
+
+* Runtime: 118 ms, faster than 38.42% of Python3 online submissions for Robot Room Cleaner.
+* Memory Usage: 16.7 MB, less than 6.77% of Python3 online submissions for Robot Room Cleaner.
+
+> backtracking

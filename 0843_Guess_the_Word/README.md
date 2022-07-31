@@ -46,3 +46,12 @@ try_5.py: O(10)
 * Memory Usage: 13.8 MB, less than 96.32% of Python3 online submissions for Guess the Word.
 
 > random pick candidate
+
+---
+
+try_6.py: O(10)
+
+* Runtime: 33 ms, faster than 93.74% of Python3 online submissions for Guess the Word.
+* Memory Usage: 13.9 MB, less than 61.60% of Python3 online submissions for Guess the Word.
+
+> random pick candidate

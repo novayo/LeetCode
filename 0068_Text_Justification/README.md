@@ -26,3 +26,12 @@ try_3.py: O(n) O(n)
 * Memory Usage: 14 MB, less than 53.53% of Python3 online submissions for Text Justification.
 
 > quotient & remainder
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime: 53 ms, faster than 40.19% of Python3 online submissions for Text Justification.
+* Memory Usage: 13.9 MB, less than 55.86% of Python3 online submissions for Text Justification.
+
+> quotient & remainder

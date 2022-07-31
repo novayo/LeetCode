@@ -8,3 +8,12 @@ try_1.py: O(n) O(1)
 * Memory Usage: 14.4 MB, less than 99.70% of Python3 online submissions for Battleships in a Board.
 
 > count if X is the front or the back of the battleship
+
+---
+
+try_2.py: O(n) O(1)
+
+* Runtime: 131 ms, faster than 35.06% of Python3 online submissions for Battleships in a Board.
+* Memory Usage: 14.4 MB, less than 69.03% of Python3 online submissions for Battleships in a Board.
+
+> find top left

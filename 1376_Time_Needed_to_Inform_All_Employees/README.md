@@ -17,3 +17,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 52.4 MB, less than 28.77% of Python3 online submissions for Time Needed to Inform All Employees.
 
 > manager 的 總時間 = manager本身的時間 + 下屬的最大值
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 1601 ms, faster than 82.43% of Python3 online submissions for Time Needed to Inform All Employees.
+* Memory Usage: 59.3 MB, less than 9.37% of Python3 online submissions for Time Needed to Inform All Employees.
+
+> dfs

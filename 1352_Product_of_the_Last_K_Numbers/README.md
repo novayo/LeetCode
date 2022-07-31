@@ -17,3 +17,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 29.8 MB, less than 21.77% of Python3 online submissions for Product of the Last K Numbers.
 
 > memo max valid k from end to last zero
+
+---
+
+try_3.py: O(1) O(n)
+
+* Runtime: 355 ms, faster than 71.42% of Python3 online submissions for Product of the Last K Numbers.
+* Memory Usage: 29.5 MB, less than 31.48% of Python3 online submissions for Product of the Last K Numbers.
+
+> prefix multiple

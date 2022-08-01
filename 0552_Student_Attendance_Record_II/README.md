@@ -8,3 +8,12 @@ try_1.py: O(18n) O(1)
 * Memory Usage: 13.8 MB, less than 86.36% of Python3 online submissions for Student Attendance Record II.
 
 > dp
+
+---
+
+try_2.py: O(18n) O(1)
+
+* Runtime: 1571 ms, faster than 49.10% of Python3 online submissions for Student Attendance Record II.
+* Memory Usage: 13.9 MB, less than 88.46% of Python3 online submissions for Student Attendance Record II.
+
+> dp

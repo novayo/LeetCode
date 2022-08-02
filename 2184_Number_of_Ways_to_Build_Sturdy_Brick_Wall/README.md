@@ -8,3 +8,12 @@ try_1.py: O(height * len(comb))
 * Memory Usage: 42.7 MB, less than 6.03% of Python3 online submissions for Number of Ways to Build Sturdy Brick Wall.
 
 > recrsion
+
+---
+
+try_2.py: O(height * len(comb))
+
+* Runtime: 1928 ms, faster than 50.90% of Python3 online submissions for Number of Ways to Build Sturdy Brick Wall.
+* Memory Usage: 30 MB, less than 48.39% of Python3 online submissions for Number of Ways to Build Sturdy Brick Wall.
+
+> recrsion

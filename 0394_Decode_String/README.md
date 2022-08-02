@@ -15,3 +15,13 @@ try_2.py: O(n* max(string length)) O(n)
 * Memory Usage: 14.2 MB, less than 79.42% of Python3 online submissions for Decode String.
 
 > using stack
+
+---
+
+
+try_3.py: O(n* max(string length)) O(n)
+
+* Runtime: 36 ms, faster than 82.33% of Python3 online submissions for Decode String.
+* Memory Usage: 14 MB, less than 20.58% of Python3 online submissions for Decode String.
+
+> using stack

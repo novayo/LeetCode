@@ -26,3 +26,12 @@ try_3.py: O(4*(C(4, 1)+C(4,2)+C(4,3)) * 4^4) O(4^4)
 * Memory Usage: 14.2 MB, less than 10.72% of Python3 online submissions for 24 Game.
 
 > split into left (length from 1~n-1) right (length from n-1~1), and try to do operation
+
+---
+
+try_4.py: O(4*4! * 4^4) O(1)
+
+* Runtime: 91 ms, faster than 85.14% of Python3 online submissions for 24 Game.
+* Memory Usage: 13.9 MB, less than 41.07% of Python3 online submissions for 24 Game.
+
+> next permutation, and use recrsion to find out all the possibilites

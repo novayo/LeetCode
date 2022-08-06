@@ -17,3 +17,12 @@ try_2.py: O(nlogn) O(1)
 * Memory Usage: 14.1 MB, less than 69.20% of Python3 online submissions for H-Index.
 
 > sort
+
+---
+
+try_3.py: O(nlogn) O(1)
+
+* Runtime: 53 ms, faster than 62.85% of Python3 online submissions for H-Index.
+* Memory Usage: 14.2 MB, less than 30.97% of Python3 online submissions for H-Index.
+
+> sort

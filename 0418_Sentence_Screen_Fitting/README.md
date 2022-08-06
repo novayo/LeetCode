@@ -26,3 +26,12 @@ try_3.py: O(n) O(1)
 * Memory Usage: 13.9 MB, less than 83.71% of Python3 online submissions for Sentence Screen Fitting.
 
 > think of 1d
+
+---
+
+try_4.py: O(n) O(1)
+
+* Runtime: 218 ms, faster than 67.13% of Python3 online submissions for Sentence Screen Fitting.
+* Memory Usage: 13.9 MB, less than 38.65% of Python3 online submissions for Sentence Screen Fitting.
+
+> greedy

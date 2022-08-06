@@ -17,3 +17,12 @@ try_2.py: O(9) O(9)
 * Memory Usage: 14 MB, less than 49.08% of Python3 online submissions for Valid Tic-Tac-Toe State.
 
 > condition
+
+---
+
+try_3.py: O(9) O(9)
+
+* Runtime: 68 ms, faster than 8.16% of Python3 online submissions for Valid Tic-Tac-Toe State.
+* Memory Usage: 14 MB, less than 49.08% of Python3 online submissions for Valid Tic-Tac-Toe State.
+
+> condition

@@ -18,3 +18,12 @@ try_2.py: O(4) O(1)
 * Memory Usage: 13.8 MB, less than 92.25% of Python3 online submissions for Valid Square.
 
 > check distance
+
+---
+
+try_3.py: O(4) O(1)
+
+* Runtime: 56 ms, faster than 44.54% of Python3 online submissions for Valid Square.
+* Memory Usage: 13.8 MB, less than 92.25% of Python3 online submissions for Valid Square.
+
+> check distance

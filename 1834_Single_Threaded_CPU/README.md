@@ -17,3 +17,12 @@ try_2.py: O(nlogn) O(n)
 * Memory Usage: 63.5 MB, less than 10.11% of Python3 online submissions for Single-Threaded CPU.
 
 > heap
+
+---
+
+try_3.py: O(nlogn) O(n)
+
+* Runtime: 4595 ms, faster than 6.21% of Python3 online submissions for Single-Threaded CPU.
+* Memory Usage: 62.8 MB, less than 45.29% of Python3 online submissions for Single-Threaded CPU.
+
+> heap

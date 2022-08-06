@@ -16,3 +16,12 @@ try_2.py:
 * Memory Usage: 420.5 MB, less than 5.95% of Python3 online submissions for Confusing Number II.
 
 > BFS
+
+---
+
+try_3.py:
+
+* Runtime: 7319 ms, faster than 20.28% of Python3 online submissions for Confusing Number II.
+* Memory Usage: 13.9 MB, less than 78.35% of Python3 online submissions for Confusing Number II.
+
+> BFS

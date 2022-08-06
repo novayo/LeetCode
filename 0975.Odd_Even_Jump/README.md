@@ -26,3 +26,12 @@ try_3.py: O(nlogn) O(n)
 * Memory Usage: 21.9 MB, less than 21.16% of Python3 online submissions for Odd Even Jump.
 
 > bst
+
+---
+
+try_2.py: O(n) O(n)
+
+* Runtime: 534 ms, faster than 54.87% of Python3 online submissions for Odd Even Jump.
+* Memory Usage: 22.2 MB, less than 20.65% of Python3 online submissions for Odd Even Jump.
+
+> monotonic stack

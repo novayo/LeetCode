@@ -35,3 +35,12 @@ try_4.py: O(nlogn) O(n)
 * Memory Usage: 17.5 MB, less than 49.16% of Python3 online submissions for Meeting Rooms II.
 
 > heap
+
+---
+
+try_5.py: O(nlogn) O(n)
+
+* Runtime: 153 ms, faster than 20.70% of Python3 online submissions for Meeting Rooms II.
+* Memory Usage: 17.4 MB, less than 83.76% of Python3 online submissions for Meeting Rooms II.
+
+> heap

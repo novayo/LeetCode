@@ -18,3 +18,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 14.1 MB, less than 29.72% of Python3 online submissions for Longest Absolute File Path.
 
 > stack
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 42 ms, faster than 61.68% of Python3 online submissions for Longest Absolute File Path.
+* Memory Usage: 14 MB, less than 29.62% of Python3 online submissions for Longest Absolute File Path.
+
+> stack

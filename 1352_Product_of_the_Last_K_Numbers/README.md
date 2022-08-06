@@ -26,3 +26,12 @@ try_3.py: O(1) O(n)
 * Memory Usage: 29.5 MB, less than 31.48% of Python3 online submissions for Product of the Last K Numbers.
 
 > prefix multiple
+
+---
+
+try_4.py: O(1) O(n)
+
+* Runtime: 511 ms, faster than 25.44% of Python3 online submissions for Product of the Last K Numbers.
+* Memory Usage: 29.5 MB, less than 29.23% of Python3 online submissions for Product of the Last K Numbers.
+
+> prefix multiply

@@ -43,3 +43,12 @@ try_5.py: O(mnlogn) O(mn)
 * Memory Usage: 17 MB, less than 21.41% of Python3 online submissions for Path With Minimum Effort.
 
 > dijkstra + dp
+
+---
+
+try_6.py: O(mnlogn) O(mn)
+
+* Runtime: 1664 ms, faster than 37.60% of Python3 online submissions for Path With Minimum Effort.
+* Memory Usage: 16.2 MB, less than 48.65% of Python3 online submissions for Path With Minimum Effort.
+
+> dijkstra + dp

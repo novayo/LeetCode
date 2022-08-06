@@ -26,3 +26,12 @@ try_3.py: O(n) O(n)
 * Memory Usage: 59.3 MB, less than 9.37% of Python3 online submissions for Time Needed to Inform All Employees.
 
 > dfs
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime: 2781 ms, faster than 15.12% of Python3 online submissions for Time Needed to Inform All Employees.
+* Memory Usage: 68.5 MB, less than 5.02% of Python3 online submissions for Time Needed to Inform All Employees.
+
+> dfs

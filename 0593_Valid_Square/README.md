@@ -9,3 +9,12 @@ try_1.py: O(n) O(1)
 
 > 確認點不重複 & 四邊長相等 & 二對角線相等
 > 用sort確保p1, p4是對點
+
+---
+
+try_2.py: O(4) O(1)
+
+* Runtime: 37 ms, faster than 90.29% of Python3 online submissions for Valid Square.
+* Memory Usage: 13.8 MB, less than 92.25% of Python3 online submissions for Valid Square.
+
+> check distance

@@ -25,3 +25,12 @@ try_3.py: O(n* max(string length)) O(n)
 * Memory Usage: 14 MB, less than 20.58% of Python3 online submissions for Decode String.
 
 > using stack
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime: 41 ms, faster than 68.09% of Python3 online submissions for Decode String.
+* Memory Usage: 13.9 MB, less than 71.86% of Python3 online submissions for Decode String.
+
+> recursion

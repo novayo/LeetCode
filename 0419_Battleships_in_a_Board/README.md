@@ -17,3 +17,12 @@ try_2.py: O(n) O(1)
 * Memory Usage: 14.4 MB, less than 69.03% of Python3 online submissions for Battleships in a Board.
 
 > find top left
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 184 ms, faster than 5.29% of Python3 online submissions for Battleships in a Board.
+* Memory Usage: 14.4 MB, less than 93.70% of Python3 online submissions for Battleships in a Board.
+
+> find top left

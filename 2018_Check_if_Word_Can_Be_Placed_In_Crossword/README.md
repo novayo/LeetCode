@@ -17,3 +17,12 @@ try_2.py: O(N) O(1)
 * Memory Usage: 26.4 MB, less than 86.82% of Python3 online submissions for Check if Word Can Be Placed In Crossword.
 
 > brute force
+
+---
+
+try_3.py: O(N) O(1)
+
+* Runtime: 2139 ms, faster than 56.05% of Python3 online submissions for Check if Word Can Be Placed In Crossword.
+* Memory Usage: 27 MB, less than 46.77% of Python3 online submissions for Check if Word Can Be Placed In Crossword.
+
+> brute force

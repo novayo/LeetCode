@@ -38,3 +38,12 @@ try_4.py: O(n) O(n)
 * Memory Usage: 14.3 MB, less than 65.30% of Python3 online submissions for Longest String Chain.
 
 > string compare
+
+---
+
+try_5.py: O(n) O(n)
+
+* Runtime: 350 ms, faster than 30.88% of Python3 online submissions for Longest String Chain.
+* Memory Usage: 14.4 MB, less than 65.07% of Python3 online submissions for Longest String Chain.
+
+> string compare

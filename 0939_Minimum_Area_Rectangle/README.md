@@ -44,3 +44,12 @@ try_5.py: O(nlogn) O(n)
 * Memory Usage: 14.2 MB, less than 50.97% of Python3 online submissions for Minimum Area Rectangle.
 
 > sort and find diagonal
+
+---
+
+try_6.py: O(nlogn) O(n)
+
+* Runtime: 1961 ms, faster than 42.02% of Python3 online submissions for Minimum Area Rectangle.
+* Memory Usage: 14.2 MB, less than 49.33% of Python3 online submissions for Minimum Area Rectangle.
+
+> sort and find diagonal

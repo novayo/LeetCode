@@ -17,3 +17,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 27 MB, less than 94.71% of Python3 online submissions for Maximum Points You Can Obtain from Cards.
 
 > two pointer
+
+---
+
+try_3.py: O(n) O(1)
+
+* Runtime: 584 ms, faster than 65.63% of Python3 online submissions for Maximum Points You Can Obtain from Cards.
+* Memory Usage: 27.3 MB, less than 54.72% of Python3 online submissions for Maximum Points You Can Obtain from Cards.
+
+> two pointer

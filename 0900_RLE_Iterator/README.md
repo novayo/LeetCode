@@ -17,3 +17,12 @@ try_2.py: O(n) O(1)
 * Memory Usage: 14.6 MB, less than 28.66% of Python3 online submissions for RLE Iterator.
 
 > intuition
+
+---
+
+try_3.py: O(n) O(1)
+
+* Runtime: 77 ms, faster than 16.56% of Python3 online submissions for RLE Iterator.
+* Memory Usage: 14.6 MB, less than 29.42% of Python3 online submissions for RLE Iterator.
+
+> intuition

@@ -26,3 +26,12 @@ try_3.py: O(n) O(n)
 * Memory Usage: 13.9 MB, less than 56.63% of Python3 online submissions for Find And Replace in String.
 
 > loop
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime: 74 ms, faster than 20.16% of Python3 online submissions for Find And Replace in String.
+* Memory Usage: 14 MB, less than 56.88% of Python3 online submissions for Find And Replace in String.
+
+> loop

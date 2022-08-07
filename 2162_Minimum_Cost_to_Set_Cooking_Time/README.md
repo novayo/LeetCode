@@ -17,3 +17,12 @@ try_2.py: O(10000) O(1)
 * Memory Usage: 14 MB, less than 52.00% of Python3 online submissions for Minimum Cost to Set Cooking Time.
 
 > brute force
+
+---
+
+try_3.py: O(10000) O(1)
+
+* Runtime: 332 ms, faster than 5.06% of Python3 online submissions for Minimum Cost to Set Cooking Time.
+* Memory Usage: 13.8 MB, less than 99.58% of Python3 online submissions for Minimum Cost to Set Cooking Time.
+
+> brute force

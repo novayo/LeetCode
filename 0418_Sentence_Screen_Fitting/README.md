@@ -35,3 +35,12 @@ try_4.py: O(n) O(1)
 * Memory Usage: 13.9 MB, less than 38.65% of Python3 online submissions for Sentence Screen Fitting.
 
 > greedy
+
+---
+
+try_5.py: O(row + max length of sentence) O(1)
+
+* Runtime: 250 ms, faster than 57.36% of Python3 online submissions for Sentence Screen Fitting.
+* Memory Usage: 13.9 MB, less than 38.65% of Python3 online submissions for Sentence Screen Fitting.
+
+> greedy

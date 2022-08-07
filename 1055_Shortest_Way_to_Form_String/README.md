@@ -43,3 +43,12 @@ try_5.py: O(m*n) O(1)
 * Memory Usage: 13.8 MB, less than 81.79% of Python3 online submissions for Shortest Way to Form String.
 
 > loop
+
+---
+
+try_6.py: O(mn) O(1)
+
+* Runtime: 82 ms, faster than 44.74% of Python3 online submissions for Shortest Way to Form String.
+* Memory Usage: 13.8 MB, less than 81.41% of Python3 online submissions for Shortest Way to Form String.
+
+> just loop

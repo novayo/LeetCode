@@ -9,3 +9,12 @@ try_1.py: O(n) O(n)
 
 > maintain each direction's number
 > reset if 0
+
+---
+
+try_2.py: O(n) O(n)
+
+* Runtime: 728 ms, faster than 54.34% of Python3 online submissions for Longest Line of Consecutive One in Matrix.
+* Memory Usage: 17.7 MB, less than 49.25% of Python3 online submissions for Longest Line of Consecutive One in Matrix.
+
+> counter

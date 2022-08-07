@@ -26,3 +26,12 @@ try_3.py: O(m*n) O(n)
 * Memory Usage: 48.2 MB, less than 50.34% of Python3 online submissions for Maximum Number of Points with Cost.
 
 > dp
+
+---
+
+try_4.py: O(mn) O(n)
+
+* Runtime: 4198 ms, faster than 20.17% of Python3 online submissions for Maximum Number of Points with Cost.
+* Memory Usage: 48.3 MB, less than 49.03% of Python3 online submissions for Maximum Number of Points with Cost.
+
+> dp

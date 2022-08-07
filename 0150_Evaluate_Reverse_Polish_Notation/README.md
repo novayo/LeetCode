@@ -45,3 +45,12 @@ try_5.py: O(n) O(n)
 * Memory Usage: 14.4 MB, less than 56.91% of Python3 online submissions for Evaluate Reverse Polish Notation.
 
 > stack
+
+---
+
+try_6.py: O(n) O(n)
+
+* Runtime: 61 ms, faster than 99.34% of Python3 online submissions for Evaluate Reverse Polish Notation.
+* Memory Usage: 14.2 MB, less than 95.83% of Python3 online submissions for Evaluate Reverse Polish Notation.
+
+> stack

@@ -17,3 +17,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 16 MB, less than 31.15% of Python3 online submissions for Detect Squares.
 
 > set
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 311 ms, faster than 91.00% of Python3 online submissions for Detect Squares.
+* Memory Usage: 15.9 MB, less than 59.07% of Python3 online submissions for Detect Squares.
+
+> set

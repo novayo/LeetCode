@@ -35,3 +35,12 @@ try_4.py: O(v+e) O(v+e)
 * Memory Usage: 13.9 MB, less than 58.53% of Python3 online submissions for Alien Dictionary.
 
 > topological sort
+
+---
+
+try_5.py: O(v+e) O(v+e)
+
+* Runtime: 51 ms, faster than 58.45% of Python3 online submissions for Alien Dictionary.
+* Memory Usage: 14 MB, less than 24.59% of Python3 online submissions for Alien Dictionary.
+
+> topological sort

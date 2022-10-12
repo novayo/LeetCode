@@ -7,7 +7,7 @@ public:
         
         for (int i=0; i < str_len; i++) {
             int cur = 0;
-            for (string str : strs) {
+            for (string &str : strs) {
                 if (cur > int(str[i])) {
                     ans++;
                     break;

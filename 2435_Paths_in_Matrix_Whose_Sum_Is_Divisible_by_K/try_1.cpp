@@ -12,16 +12,14 @@ public:
         dp[0][0][grid[0][0] % MOD] = 1;
         for (int i=1; i<m; i++) {
             int val = grid[i][0];
-            for (auto &item : dp[i-1][0]) {
-                int k=item.first, v=item.second;
+            for (auto &[k, v] : dp[i-1][0]) {
                 dp[i][0][(k+val) % MOD] += v % M;
             }
         }
         
         for (int j=1; j<n; j++) {
             int val = grid[0][j];
-            for (auto &item : dp[0][j-1]) {
-                int k=item.first, v=item.second;
+            for (auto &[k, v] : dp[0][j-1]) {
                 dp[0][j][(k+val) % MOD] += v % M;
             }
         }
@@ -30,13 +28,11 @@ public:
             for (int j=1; j<n; j++) {
                 int val = grid[i][j];
                 
-                for (auto &item : dp[i-1][j]) {
-                    int k=item.first, v=item.second;
+                for (auto &[k, v] : dp[i-1][j]) {
                     dp[i][j][(k+val) % MOD] += v % M;
                 }
                 
-                for (auto &item : dp[i][j-1]) {
-                    int k=item.first, v=item.second;
+                for (auto &[k, v] : dp[i][j-1]) {
                     dp[i][j][(k+val) % MOD] += v % M;
                 }
             }

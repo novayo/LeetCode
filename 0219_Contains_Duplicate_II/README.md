@@ -16,3 +16,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 25.7 MB, less than 93.13% of Python3 online submissions for Contains Duplicate II.
 
 > bucket sort
+
+---
+
+try_3.cpp: O(n) O(k)
+
+* Runtime: 422 ms, faster than 32.53% of C++ online submissions for Contains Duplicate II.
+* Memory Usage: 72.3 MB, less than 91.47% of C++ online submissions for Contains Duplicate II.
+
+> unordered_set

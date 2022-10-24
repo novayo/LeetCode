@@ -45,3 +45,12 @@ try_4.py: O(n) O(1)
 try_5.py: O(n) O(1)
 
 * Kadane
+
+---
+
+try_6.cpp: O(n) O(1)
+
+* Runtime: 341 ms, faster than 14.35% of C++ online submissions for Maximum Subarray.
+* Memory Usage: 67.8 MB, less than 11.32% of C++ online submissions for Maximum Subarray.
+
+> Kadane

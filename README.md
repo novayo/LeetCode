@@ -19,7 +19,8 @@ Leetcode with 阿寶 & 博翔 & 崇祐 & Jeff & Jimmy & 唐銘 & Tommy
 
 ### Design
 - [460、1396、588](https://hackmd.io/XmjdPT34TdetNNogjBBzRA)
-- [1472、1348、244](https://hackmd.io/-akqFJKoTB2dMppgs4Ri8g) (current)
+- [1472、1348、244](https://hackmd.io/-akqFJKoTB2dMppgs4Ri8g)
+- [716、622、745](https://hackmd.io/PSyOG7xlRPeTHA-v7QPvxw) (current)
 
 ### Rolling Hash
 - [718、1044、1698](https://hackmd.io//7El7KEUtS02wtKgR76qwsA)
@@ -71,7 +72,21 @@ Leetcode with 阿寶 & 博翔 & 崇祐 & Jeff & Jimmy & 唐銘 & Tommy
     * Bao
     * Tommy
     * Denny
-
+- [123](https://hackmd.io/cf5NNwtaSqGwbbHz9u9Xmw)
+- [Contest-316](https://hackmd.io/i9AcJw4uTo2LyauLXmj2qA)
+- [Contest-315](https://hackmd.io/R3xGn_c2RXKbkuQmLTtXCw)
+- [Contest 314](https://hackmd.io/6NjHG_1kSPir2RXne6Kw7w)
+- [Contest 313](https://hackmd.io/my5erdZbRS2drXm4siqc7Q)
+- [Contest 312](https://hackmd.io/1EYoI4_tSuqYXqKlhmVysQ)
+- [Contest 311](https://hackmd.io/sN_IR4kASjanU6lZ-pY8FA)
+- [726、1345](https://hackmd.io/D_vwxTAxRZuTLZU_FRvR-A)
+- [52、123](https://hackmd.io/-mos-X3VQlCLntbre0NQ3Q)
+- [10、126](https://hackmd.io/Pb5NAe_fQpG0KVcbCNm1qA)
+- [297、1001](https://hackmd.io/cg2tNiQFSn2FOOBehJXW-g)
+- [778、1820、233、2017、2369](https://hackmd.io/JxP4utZLTGWPhsyvl43EVw)
+- [2158、732、1471、2305、2358](https://hackmd.io/meiX5fWQSgmfuYBhb83ftQ)
+- [562、2344、1698](https://hackmd.io/xp4gPFUxSDW-5eRuawbeKw)
+- [425、2337、1155、1020](https://hackmd.io/qd8H1BjmTKuetaRa1mm7BA)
 - [736、1499](https://hackmd.io/g_eqQES2QdGuf-s1jxyfCg)
 - [23、801、1976、449、886](https://hackmd.io/0JvOcLb7Q0-yNc-jeG50GA)
 - [363、391、343、754、1921、526](https://hackmd.io/Ux5EexFnSWiOvN2d_USRwQ)

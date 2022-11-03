@@ -16,3 +16,12 @@ try_2.py: O(m*n)
 * Memory Usage: 13.9 MB, less than 99.33% of Python3 online submissions for Valid Sudoku.
 
 > set
+
+---
+
+try_3.cpp: O(m*n)
+
+* Runtime: 42 ms, faster than 61.97% of C++ online submissions for Valid Sudoku.
+* Memory Usage: 18 MB, less than 88.86% of C++ online submissions for Valid Sudoku.
+
+> array

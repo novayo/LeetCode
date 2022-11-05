@@ -35,3 +35,12 @@ try_4.py: O(nlogn) O(n)
 * Memory Usage: 18.8 MB, less than 19.22% of Python3 online submissions for Merge Intervals.
 
 > binary search
+
+---
+
+try_5.cpp: O(nlogn) O(n)
+
+* Runtime: 77 ms, faster than 55.25% of C++ online submissions for Merge Intervals.
+* Memory Usage: 19.1 MB, less than 70.72% of C++ online submissions for Merge Intervals.
+
+> sort

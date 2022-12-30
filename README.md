@@ -23,7 +23,7 @@ Leetcode with 阿寶 & 博翔 & 崇祐 & Jeff & Jimmy & 唐銘 & Tommy
 - [716、622、745](https://hackmd.io/PSyOG7xlRPeTHA-v7QPvxw) (current)
 
 ### Rolling Hash
-- [718、1044、1698](https://hackmd.io//7El7KEUtS02wtKgR76qwsA)
+- [718、1044、1698](https://hackmd.io/7El7KEUtS02wtKgR76qwsA)
 
 ### KMP
 - [459、139、1392](https://hackmd.io/86gDrmcoRpmZUBTiNQLEeg) 
@@ -72,7 +72,16 @@ Leetcode with 阿寶 & 博翔 & 崇祐 & Jeff & Jimmy & 唐銘 & Tommy
     * Bao
     * Tommy
     * Denny
-- [123](https://hackmd.io/cf5NNwtaSqGwbbHz9u9Xmw)
+- [123](/WCKSKK5XRVaAQMA0b4uWWA)
+- [1575、741](/kz3rabsHQJmwEh48yRPHbw)
+- [Contest-324](/_OZ0l9vOQU67EC6e_SrHSQ)
+- [2503、517、1702、2435](https://hackmd.io/Vysaz37kTs-uhwlcMJbeWQ)
+- [188、2488](https://hackmd.io/nCsn5gqNT46Sjyhi-yiLLw)
+- [1626、2211、2233](https://hackmd.io/KnvsCTrSRm-Oef44oS9rsQ)
+- [135、2209、962、2477](https://hackmd.io/t_RXK-WrQDS5aPYGliQXMQ)
+- [Contest-319](https://hackmd.io/R86emFrsRPOA-n8mbOZXHg)
+- [Contest-318](https://hackmd.io/Bi6NpW-FRe2LZPyqajA9dg)
+- [Contest-317](https://hackmd.io/cf5NNwtaSqGwbbHz9u9Xmw)
 - [Contest-316](https://hackmd.io/i9AcJw4uTo2LyauLXmj2qA)
 - [Contest-315](https://hackmd.io/R3xGn_c2RXKbkuQmLTtXCw)
 - [Contest 314](https://hackmd.io/6NjHG_1kSPir2RXne6Kw7w)

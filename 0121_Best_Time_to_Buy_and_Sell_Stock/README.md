@@ -35,3 +35,21 @@ try_4.py: O(n) O(n)
 * Memory Usage: 25 MB, less than 42.99% of Python3 online submissions for Best Time to Buy and Sell Stock.
 
 > dp
+
+---
+
+try_5.py: O(n) O(1)
+
+* Runtime: 1098 ms, faster than 76.80% of Python3 online submissions for Best Time to Buy and Sell Stock.
+* Memory Usage: 25 MB, less than 85.93% of Python3 online submissions for Best Time to Buy and Sell Stock.
+
+> greedy
+
+---
+
+try_6.py: O(n) O(n)
+
+* Runtime: 1317 ms, faster than 50.54% of Python3 online submissions for Best Time to Buy and Sell Stock.
+* Memory Usage: 25.1 MB, less than 6.82% of Python3 online submissions for Best Time to Buy and Sell Stock.
+
+> dp: 0~index的最小值是誰少

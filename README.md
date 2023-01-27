@@ -72,7 +72,11 @@ Leetcode with 阿寶 & 博翔 & 崇祐 & Jeff & Jimmy & 唐銘 & Tommy
     * Bao
     * Tommy
     * Denny
-- [123](https://hackmd.io/WCKSKK5XRVaAQMA0b4uWWA)
+
+- [Contest-329](https://hackmd.io/KlSfbwToS2OjnzsWu3BKwA?view)
+- [123](https://hackmd.io/xd4Rf-VjQvGAo11zwVOc4w)
+- [472](https://hackmd.io/ZlclvpusSXO2iq9eU33dNQ)
+- [1000、2402](https://hackmd.io/WCKSKK5XRVaAQMA0b4uWWA)
 - [1575、741](https://hackmd.io/kz3rabsHQJmwEh48yRPHbw)
 - [Contest-324](https://hackmd.io/_OZ0l9vOQU67EC6e_SrHSQ)
 - [2503、517、1702、2435](https://hackmd.io/Vysaz37kTs-uhwlcMJbeWQ)

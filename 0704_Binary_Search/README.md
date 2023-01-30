@@ -34,3 +34,12 @@ try_4.py: O(logn) O(1)
 * Memory Usage: 15.4 MB, less than 97.43% of Python3 online submissions for Binary Search.
 
 > bisect_left
+
+---
+
+try_5.py: O(logn) O(1)
+
+* Runtime: 232 ms, faster than 98.15% of Python3 online submissions for Binary Search.
+* Memory Usage: 15.6 MB, less than 19.74% of Python3 online submissions for Binary Search.
+
+> my bisect right

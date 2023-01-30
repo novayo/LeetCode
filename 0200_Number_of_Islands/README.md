@@ -34,3 +34,12 @@ try_4.py: O(mnlogn)
 * Memory Usage: 25.9 MB, less than 5.57% of Python3 online submissions for Number of Islands.
 
 > union find
+
+---
+
+try_5.py: O(mn) O(mn)
+
+* Runtime: 285 ms, faster than 91.52% of Python3 online submissions for Number of Islands.
+* Memory Usage: 16.2 MB, less than 91.55% of Python3 online submissions for Number of Islands.
+
+> bfs level order traversal

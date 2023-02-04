@@ -66,15 +66,9 @@ Leetcode with 阿寶 & 博翔 & 崇祐 & Jeff & Jimmy & 唐銘 & Tommy
     - [video-1](https://gsnckuedutw-my.sharepoint.com/:v:/g/personal/f14051172_gs_ncku_edu_tw/ER6LSDqbAt1IqMT3tgxHsUkBLerXoaf8GpZRciAJtWn9yQ?e=3WIhhV)
 
 ## 題目
-
-* 回家作業
-    * Eric
-    * Bao
-    * Tommy
-    * Denny
-
+- [123](https://hackmd.io/_GZ-yDS7R_GLTresllrpZw)
 - [Contest-329](https://hackmd.io/KlSfbwToS2OjnzsWu3BKwA?view)
-- [123](https://hackmd.io/xd4Rf-VjQvGAo11zwVOc4w)
+- [218、2547、2031、851、2031](https://hackmd.io/xd4Rf-VjQvGAo11zwVOc4w)
 - [472](https://hackmd.io/ZlclvpusSXO2iq9eU33dNQ)
 - [1000、2402](https://hackmd.io/WCKSKK5XRVaAQMA0b4uWWA)
 - [1575、741](https://hackmd.io/kz3rabsHQJmwEh48yRPHbw)

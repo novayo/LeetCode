@@ -31,3 +31,12 @@ try_3.py: O(n) O(1)
 > 2. 將超過範圍的值改成1 (1~len(nums)-1)
 > 3. 將對應value的index改成負的
 > 4. loop第一個正的
+
+---
+
+try_4.py: O(n) O(1)
+
+* Runtime: 317 ms, faster than 51.09% of Python3 online submissions for First Missing Positive.
+* Memory Usage: 24 MB, less than 98.50% of Python3 online submissions for First Missing Positive.
+
+> Mark

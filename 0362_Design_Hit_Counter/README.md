@@ -33,3 +33,12 @@ try_4.py:
 
 > take a list to store timestamp, when get_hit -> perform a binary search
 > take a dict to store hit counter at timestamp
+            
+---
+
+try_5.py: O(nlogn) / O(n) - where n is the number of api calls.
+
+* Runtime: 25 ms, faster than 96.51% of Python3 online submissions for Design Hit Counter.
+* Memory Usage: 13.9 MB, less than 95.76% of Python3 online submissions for Design Hit Counter.
+
+> binary search right

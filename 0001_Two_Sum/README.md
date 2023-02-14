@@ -7,3 +7,11 @@ try_1.py: O(n)
 * Memory Usage: 14 MB, less than 66.05% of Python3 online submissions for Two Sum.
 
 > straightforward = using hash table
+
+---
+
+try_2.py: O(n^2)
+
+* TLE
+
+> brute force

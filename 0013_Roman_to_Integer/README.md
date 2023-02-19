@@ -7,3 +7,12 @@ try_1.py: O(n)
 * Memory Usage: 12.6 MB, less than 100.00% of Python3 online submissions for Roman to Integer.
 
 > hash table
+
+---
+
+try_2.py: O(n) O(n)
+
+* Runtime: 45 ms, faster than 83.85% of Python3 online submissions for Roman to Integer.
+* Memory Usage: 13.9 MB, less than 22.82% of Python3 online submissions for Roman to Integer.
+
+> hash table

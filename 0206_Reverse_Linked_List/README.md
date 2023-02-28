@@ -37,3 +37,12 @@ try_4.py: O(n) O(n)
 * Memory Usage: 20.4 MB, less than 6.34% of Python3 online submissions for Reverse Linked List.
 
 > recursion => 拿到倒數第二個，之後從倒數第一個開始往後接倒數第二個
+
+---
+
+try_5.py: O(n) O(1)
+
+* Runtime: 36 ms, faster than 76.18% of Python3 online submissions for Reverse Linked List.
+* Memory Usage: 15.4 MB, less than 48.71% of Python3 online submissions for Reverse Linked List.
+
+> move to front

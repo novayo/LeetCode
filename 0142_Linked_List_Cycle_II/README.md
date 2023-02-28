@@ -7,3 +7,12 @@ try_1.py: O(n) O(1)
 * Memory Usage: 16.9 MB, less than 52.37% of Python3 online submissions for Linked List Cycle II.
 
 > tortoise and the hare
+
+---
+
+try_2.py: O(n) O(n)
+
+* Runtime: 52 ms, faster than 73.09% of Python3 online submissions for Linked List Cycle II.
+* Memory Usage: 17.9 MB, less than 22.45% of Python3 online submissions for Linked List Cycle II.
+
+> hash set

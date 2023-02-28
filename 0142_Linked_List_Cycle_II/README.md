@@ -25,3 +25,12 @@ try_3.py: O(n) O(1)
 * Memory Usage: 17.2 MB, less than 91.23% of Python3 online submissions for Linked List Cycle II.
 
 > Mark
+
+---
+
+try_4.py: O(n) O(1)
+
+* Runtime: 52 ms, faster than 73.09% of Python3 online submissions for Linked List Cycle II.
+* Memory Usage: 17.3 MB, less than 91.23% of Python3 online submissions for Linked List Cycle II.
+
+> tortoise and the hare

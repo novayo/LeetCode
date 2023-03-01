@@ -26,3 +26,12 @@ try_3.py: O(n) O(1)
 * Memory Usage: 13.9 MB, less than 59.74% of Python3 online submissions for Remove Nth Node From End of List.            
 
 > linked list - dummy node
+
+---
+
+try_4.py: O(n) O(1)
+
+* Runtime: 34 ms, faster than 72.31% of Python3 online submissions for Remove Nth Node From End of List.
+* Memory Usage: 13.8 MB, less than 59.65% of Python3 online submissions for Remove Nth Node From End of List.
+
+> linked list - two pass

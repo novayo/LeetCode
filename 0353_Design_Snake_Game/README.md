@@ -21,3 +21,12 @@ try_2.py: O(1) O(n), n refers to length of food
 * Memory Usage: 15.6 MB, less than 94.39% of Python3 online submissions for Design Snake Game.
 
 > deque
+
+---
+
+try_3.py: O(1) O(n)
+
+* Runtime: 286 ms, faster than 18.29% of Python3 online submissions for Design Snake Game.
+* Memory Usage: 15.8 MB, less than 71.68% of Python3 online submissions for Design Snake Game.
+
+> queue

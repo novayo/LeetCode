@@ -23,3 +23,12 @@ try_3.py: O(2n)
 * Memory Usage: 13.9 MB, less than 6.52% of Python3 online submissions for First Unique Character in a String.
 
 > find counter, loop counter key to shorten times of looping
+
+---
+
+try_4.py: O(n)
+
+* Runtime: 132 ms, faster than 39.42% of Python3 online submissions for First Unique Character in a String.
+* Memory Usage: 14.2 MB, less than 47.76% of Python3 online submissions for First Unique Character in a String.
+
+> queue

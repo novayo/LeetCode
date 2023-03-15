@@ -32,3 +32,12 @@ try_4.py: O(n)
 * Memory Usage: 14.2 MB, less than 47.76% of Python3 online submissions for First Unique Character in a String.
 
 > queue
+
+---
+
+try_5.py: O(n)
+
+* Runtime: 247 ms, faster than 18.72% of Python3 online submissions for First Unique Character in a String.
+* Memory Usage: 14.2 MB, less than 47.55% of Python3 online submissions for First Unique Character in a String.
+
+> queue

@@ -30,3 +30,12 @@ try_3.py: O(1) O(n)
 * Memory Usage: 15.8 MB, less than 71.68% of Python3 online submissions for Design Snake Game.
 
 > queue
+
+---
+
+try_4.py: O(1) O(n)
+
+* Runtime: 267 ms, faster than 28.59% of Python3 online submissions for Design Snake Game.
+* Memory Usage: 15.7 MB, less than 71.87% of Python3 online submissions for Design Snake Game.
+
+> queue

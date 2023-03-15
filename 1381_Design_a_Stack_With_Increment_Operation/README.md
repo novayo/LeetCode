@@ -17,3 +17,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 14.9 MB, less than 34.80% of Python3 online submissions for Design a Stack With Increment Operation.
 
 > stack
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 70 ms, faster than 100.00% of Python3 online submissions for Design a Stack With Increment Operation.
+* Memory Usage: 15 MB, less than 30.96% of Python3 online submissions for Design a Stack With Increment Operation.
+
+> stack

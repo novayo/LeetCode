@@ -23,3 +23,13 @@ try_3.py: O(n) O(n)
 * Memory Usage: 16 MB, less than 6.08% of Python3 online submissions for Path Sum.
 
 > top-down: subtract
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime: 50 ms, faster than 25.54% of Python3 online submissions for Path Sum.
+* Memory Usage: 15.1 MB, less than 46.48% of Python3 online submissions for Path Sum.
+
+> iteratively dfs
+

@@ -33,3 +33,11 @@ try_4.py: O(n) O(n)
 
 > iteratively dfs
 
+---
+
+try_5.py: O(n) O(n)
+
+* Runtime: 47 ms, faster than 43.12% of Python3 online submissions for Path Sum.
+* Memory Usage: 14.9 MB, less than 88.19% of Python3 online submissions for Path Sum.
+
+> dfs

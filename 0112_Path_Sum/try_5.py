@@ -14,6 +14,10 @@ class Solution:
             curSum += node.val
             if node.left is None and node.right is None:
                 return curSum == targetSum
-            return dfs(node.left, curSum) or dfs(node.right, curSum)
+            
+            left_ret = dfs(node.left, curSum)
+            right_ret = dfs(node.right, curSum)
+            
+            return left_ret or right_ret
         
         return dfs(root, 0)

@@ -33,3 +33,12 @@ try_4.py: O(n) O(n)
 * Memory Usage: 17 MB, less than 24.44% of Python3 online submissions for Validate Binary Search Tree.
 
 > dfs bottom-up
+
+---
+
+try_5.py: O(n) O(n)
+
+* Runtime 33 ms Beats 99.20%
+* Memory 16.3 MB Beats 91.96%
+
+> inorder

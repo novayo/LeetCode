@@ -17,3 +17,12 @@ try_2.py: O(n)
 * Memory Usage: 22.2 MB, less than 85.34% of Python3 online submissions for Range Sum of BST.
 
 > dfs
+
+---
+
+try_3.py: O(n) O(d)
+
+* Runtime 207 ms Beats 83.19%
+* Memory 23 MB Beats 39.26%
+
+> dfs

@@ -66,7 +66,16 @@ Leetcode with 阿寶 & 博翔 & 崇祐 & Jeff & Jimmy & 唐銘 & Tommy
     - [video-1](https://gsnckuedutw-my.sharepoint.com/:v:/g/personal/f14051172_gs_ncku_edu_tw/ER6LSDqbAt1IqMT3tgxHsUkBLerXoaf8GpZRciAJtWn9yQ?e=3WIhhV)
 
 ## 題目
-- [123](https://hackmd.io/_GZ-yDS7R_GLTresllrpZw)
+- [123](https://hackmd.io/VceV75bKSnWcmwHgt9eHWA)
+- [Contest-340](https://hackmd.io/ospTYX9XQpyg_GjBDUvs3Q)
+- [2609、2610、2611、2612、1654、1605、2555](https://hackmd.io/9mH0AVR8Rwu55VUpPrGuCA)
+- [2600、2601、2602、2603、1208、2598](https://hackmd.io/ocAsw9vlTyeybnz2dnyCZw)
+- [2586、2587、2588、2589](https://hackmd.io/onVjqgKtTNmSvctC_Dbhvg)
+- [Contest 335](https://hackmd.io/aCLYwblyTjOECGQk9HrgGg)
+- [2574、2575、2576、2577、1035、2567](https://hackmd.io/iCz9h-PQRPaeN78BQGJJUg)
+- [1537、1483、244、1458、2429](https://hackmd.io/_8raMVwQRXyzRFjK86u_Gg)
+- [1574、2401](https://hackmd.io/rGX9P-jrRIScj1Evp1Hh-g)
+- [773、488、1584、1052、1824](https://hackmd.io/_GZ-yDS7R_GLTresllrpZw)
 - [Contest-329](https://hackmd.io/KlSfbwToS2OjnzsWu3BKwA?view)
 - [218、2547、2031、851、2031](https://hackmd.io/xd4Rf-VjQvGAo11zwVOc4w)
 - [472](https://hackmd.io/ZlclvpusSXO2iq9eU33dNQ)

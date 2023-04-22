@@ -26,3 +26,12 @@ try_3.py: O(n) O(n)
 * Memory Usage: 13.9 MB, less than 20.57% of Python3 online submissions for Binary Tree Paths.
 
 > recursive dfs
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime: 40 ms, faster than 18.25% of Python3 online submissions for Binary Tree Paths.
+* Memory Usage: 13.9 MB, less than 21.09% of Python3 online submissions for Binary Tree Paths.
+
+> bfs

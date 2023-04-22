@@ -16,3 +16,10 @@ try_2.py:
 
 > recursive
 
+---
+
+try_3.py:
+* Runtime: 28 ms, faster than 83.38% of Python3 online submissions for Same Tree.
+* Memory Usage: 13.9 MB, less than 17.32% of Python3 online submissions for Same Tree.
+
+> bfs

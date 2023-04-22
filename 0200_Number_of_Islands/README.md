@@ -43,3 +43,12 @@ try_5.py: O(mn) O(mn)
 * Memory Usage: 16.2 MB, less than 91.55% of Python3 online submissions for Number of Islands.
 
 > bfs level order traversal
+
+---
+
+try_6.py: O(mn) O(mn)
+
+* Runtime: 282 ms, faster than 83.52% of Python3 online submissions for Number of Islands.
+* Memory Usage: 16.4 MB, less than 79.47% of Python3 online submissions for Number of Islands.
+
+> dfs, bfs

@@ -41,3 +41,12 @@ try_5.py: O(n) O(n)
 * Memory Usage: 14.9 MB, less than 88.19% of Python3 online submissions for Path Sum.
 
 > dfs
+
+---
+
+try_6.py: O(n) O(n)
+
+* Runtime: 36 ms, faster than 94.93% of Python3 online submissions for Path Sum.
+* Memory Usage: 15 MB, less than 87.48% of Python3 online submissions for Path Sum.
+
+> bfs

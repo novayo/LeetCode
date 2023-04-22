@@ -41,3 +41,12 @@ try_5.py: O(n) O(n)
 * Memory Usage: 16.2 MB, less than 77.19% of Python3 online submissions for Maximum Depth of Binary Tree.
 
 > dfs
+
+---
+
+try_6.py: O(n) O(n)
+
+* Runtime: 51 ms, faster than 11.67% of Python3 online submissions for Maximum Depth of Binary Tree.
+* Memory Usage: 15.2 MB, less than 88.42% of Python3 online submissions for Maximum Depth of Binary Tree.
+
+> bfs

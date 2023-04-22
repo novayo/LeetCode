@@ -17,3 +17,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 15.1 MB, less than 47.49% of Python3 online submissions for The Maze.
 
 > BFS + set()
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime 275 ms Beats 66.95%
+* Memory 14.7 MB Beats 57.51%
+
+> BFS + set()

@@ -34,3 +34,12 @@ try_4.py: O(n) O(n)
 * Memory Usage: 16.5 MB, less than 56.56% of Python3 online submissions for Search in a Binary Search Tree.
 
 > bfs_list
+
+---
+
+try_5.py: O(n) O(n)
+
+* Runtime: 94 ms, faster than 5.27% of Python3 online submissions for Search in a Binary Search Tree.
+* Memory Usage: 18.8 MB, less than 16.68% of Python3 online submissions for Search in a Binary Search Tree.
+
+> top down

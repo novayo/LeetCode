@@ -83,5 +83,15 @@ def morris(node):
 
 
 print(iterative(node50))
-print(recursive(node50))
-print(morris(node50))
+#print(recursive(node50))
+#print(morris(node50))
+
+root = node50
+
+def preorder(node):
+    if not node:
+        return
+    print(node.val)
+    preorder(node.left)
+    preorder(node.right)
+# preorder(root)

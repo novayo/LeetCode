@@ -16,3 +16,11 @@ try_2.py:
 
 > recursive
 
+---
+
+try_3.py:
+
+* Runtime: 149 ms, faster than 77.96% of Python3 online submissions for Sudoku Solver.
+* Memory Usage: 16.6 MB, less than 5.45% of Python3 online submissions for Sudoku Solver.
+
+> top down

@@ -23,3 +23,12 @@ try_3.py:
 * Memory Usage: 13.9 MB, less than 17.32% of Python3 online submissions for Same Tree.
 
 > bfs
+
+---
+
+try_4.py: O(n) O(d)
+
+* Runtime: 49 ms, faster than 5.49% of Python3 online submissions for Same Tree.
+* Memory Usage: 16.4 MB, less than 5.40% of Python3 online submissions for Same Tree.
+
+> top down

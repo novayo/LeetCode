@@ -25,3 +25,12 @@ try_3.py: O(n) O(1)
 * Memory Usage: 13.8 MB, less than 96.94% of Python3 online submissions for Fibonacci Number.
 
 > dp
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime: 40 ms, faster than 41.87% of Python3 online submissions for Fibonacci Number.
+* Memory Usage: 16.3 MB, less than 6.16% of Python3 online submissions for Fibonacci Number.
+
+> bottom-up + memo

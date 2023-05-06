@@ -26,3 +26,12 @@ try_3.py: O(n) O(n)
 * Memory Usage: 19.1 MB, less than 19.12% of Python3 online submissions for Longest Increasing Path in a Matrix.
 
 > dfs
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime: 475 ms, faster than 48.87% of Python3 online submissions for Longest Increasing Path in a Matrix.
+* Memory Usage: 20.5 MB, less than 13.88% of Python3 online submissions for Longest Increasing Path in a Matrix.
+
+> bottom-up + memo

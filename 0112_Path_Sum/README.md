@@ -59,3 +59,12 @@ try_7.py: O(n) O(d)
 * Memory Usage: 17.6 MB, less than 9.82% of Python3 online submissions for Path Sum.
 
 > top-down
+
+---
+
+try_8.py: O(n) O(n)
+
+* Runtime: 76 ms, faster than 5.62% of Python3 online submissions for Path Sum.
+* Memory Usage: 20 MB, less than 9.82% of Python3 online submissions for Path Sum.
+
+> bottom-up + memo

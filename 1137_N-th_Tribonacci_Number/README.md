@@ -34,3 +34,20 @@ try_4.py: O(n) O(1)
 * Memory Usage: 13.9 MB, less than 54.01% of Python3 online submissions for N-th Tribonacci Number.
 
 > bottom-up
+
+---
+
+try_5.py: O(n) O(d)
+
+* TLE
+
+> bottom-up (recursion)
+
+---
+
+try_6.py: O(n) O(n)
+
+* Runtime: 41 ms, faster than 12.99% of Python3 online submissions for N-th Tribonacci Number.
+* Memory Usage: 16.4 MB, less than 8.77% of Python3 online submissions for N-th Tribonacci Number.
+
+> bottom-up + memo

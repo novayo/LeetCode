@@ -16,3 +16,12 @@ try_2.py: O(logn*logn) O(logn*logn)
 * Memory Usage: 21.2 MB, less than 6.47% of Python3 online submissions for Search a 2D Matrix II.
 
 > divide and conquer
+
+---
+
+try_3.py: O(logn*logn) O(logn*logn)
+
+* Runtime: 179 ms, faster than 42.55% of Python3 online submissions for Search a 2D Matrix II.
+* Memory Usage: 23.5 MB, less than 10.87% of Python3 online submissions for Search a 2D Matrix II.
+
+> divide and conquer

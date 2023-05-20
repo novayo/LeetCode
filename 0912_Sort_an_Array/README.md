@@ -60,3 +60,21 @@ try_7.py: O(n) O(n)
 * Memory Usage: 23.8 MB, less than 13.54% of Python3 online submissions for Sort an Array.
 
 > bucket sort
+
+---
+
+try_8.py: O(nlogn) O(logn)
+
+* Runtime: 2131 ms, faster than 53.74% of Python3 online submissions for Sort an Array.
+* Memory Usage: 37.4 MB, less than 6.19% of Python3 online submissions for Sort an Array.
+
+> merge sort
+
+---
+
+try_9.py: O(nlogn) O(nlogn)
+
+* Runtime: 1975 ms, faster than 66.12% of Python3 online submissions for Sort an Array.
+* Memory Usage: 25.6 MB, less than 25.58% of Python3 online submissions for Sort an Array.
+
+> quick sort

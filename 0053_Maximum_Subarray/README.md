@@ -63,3 +63,12 @@ try_7.py: O(n) O(n)
 * Memory Usage: 28.2 MB, less than 40.65% of Python3 online submissions for Maximum Subarray.
 
 > dp
+
+---
+
+try_8.py: O(nlogn) O(logn)
+
+* Runtime: 2491 ms, faster than 5.01% of Python3 online submissions for Maximum Subarray.
+* Memory Usage: 45.2 MB, less than 6.95% of Python3 online submissions for Maximum Subarray.
+
+> divide-and-conquer

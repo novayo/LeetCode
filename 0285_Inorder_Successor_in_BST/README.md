@@ -34,3 +34,12 @@ try_4.py: O(n) O(1)
 * Memory Usage: 18.3 MB, less than 45.49% of Python3 online submissions for Inorder Successor in BST.
 
 > bst
+
+---
+
+try_5.py: O(logn) O(logn)
+
+* Runtime 83 ms Beats 42.62%
+* Memory 20.8 MB Beats 24.58%
+
+> recursion + bst

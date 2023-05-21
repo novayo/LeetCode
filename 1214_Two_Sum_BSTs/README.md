@@ -15,3 +15,12 @@ try_2.py:
 * Memory Usage: 15.3 MB, less than 100.00% of Python3 online submissions for Two Sum BSTs.
 
 > Inorder Successor + Inorder Predecessor
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime 88 ms Beats 59.13%
+* Memory 19.1 MB Beats 81.73%
+
+> inorder to find successor and predecessor

@@ -17,3 +17,13 @@ try_2.py: O(n^2) O(n)
 * Memory Usage: 19.9 MB, less than 5.49% of Python3 online submissions for Predict the Winner.
 
 > top-down memo
+
+---
+
+try_3.py: O(n^2) O(n)
+
+* Runtime: 53 ms, faster than 42.88% of Python3 online submissions for Predict the Winner.
+* Memory Usage: 16.9 MB, less than 5.06% of Python3 online submissions for Predict the Winner.
+
+> find max p1 score. bottom-up memo
+

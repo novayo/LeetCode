@@ -24,3 +24,12 @@ try_3.py: O(n^2) O(n^2)
 * Memory Usage: 116.1 MB, less than 24.05% of Python3 online submissions for Stone Game.
 
 > min max recr
+
+---
+
+try_4.py: O(n^2) O(n^2)
+
+* Runtime: 699 ms, faster than 14.97% of Python3 online submissions for Stone Game.
+* Memory Usage: 117.7 MB, less than 17.54% of Python3 online submissions for Stone Game.
+
+> min max recr

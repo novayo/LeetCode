@@ -17,3 +17,12 @@ try_2.py: O(n) O(height)
 * Memory Usage: 19.9 MB, less than 89.95% of Python3 online submissions for Maximum Difference Between Node and Ancestor.
 
 > recursion
+
+---
+
+try_3.py: O(n) O(height)
+
+* Runtime: 62 ms, faster than 13.06% of Python3 online submissions for Maximum Difference Between Node and Ancestor.
+* Memory Usage: 22.7 MB, less than 8.48% of Python3 online submissions for Maximum Difference Between Node and Ancestor.
+
+> recursion

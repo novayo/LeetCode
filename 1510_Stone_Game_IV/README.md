@@ -20,3 +20,12 @@ try_2.py: O(n*sqrt(n)) O(n)
 * Memory Usage: 14.8 MB, less than 87.34% of Python3 online submissions for Stone Game IV.
 
 > 往前找看是否 在此選擇下，下一個人為False
+
+---
+
+try_3.py: O(n*sqrt(n)) O(n)
+
+* Runtime: 8277 ms, faster than 5.02% of Python3 online submissions for Stone Game IV.
+* Memory Usage: 197.5 MB, less than 5.03% of Python3 online submissions for Stone Game IV.
+
+> min max recursion

@@ -1,6 +1,6 @@
 class Solution:
     def PredictTheWinner(self, nums: List[int]) -> bool:
-        @functools.lru_cache
+        @functools.lru_cache(None)
         def maxP1Score(player1, i, j):
             if i > j:
                 return 0

@@ -25,3 +25,12 @@ try_3.py: O(2n) O(n)
 * Memory Usage: 503.9 MB, less than 5.24% of Python3 online submissions for Stone Game III.
 
 > min max recursion + memo
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime: 5703 ms, faster than 13.01% of Python3 online submissions for Stone Game III.
+* Memory Usage: 506.4 MB, less than 5.38% of Python3 online submissions for Stone Game III.
+
+> min max recursion + memo

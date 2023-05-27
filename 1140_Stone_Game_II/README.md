@@ -16,3 +16,12 @@ try_2.py: O(n^2) O(n)
 * Memory Usage: 17.6 MB, less than 23.13% of Python3 online submissions for Stone Game II.
 
 > recr => Alice score
+
+---
+
+try_3.py: O(n^2) O(n)
+
+* Runtime: 698 ms, faster than 41.04% of Python3 online submissions for Stone Game II.
+* Memory Usage: 20.3 MB, less than 20.75% of Python3 online submissions for Stone Game II.
+
+> min / max recursion

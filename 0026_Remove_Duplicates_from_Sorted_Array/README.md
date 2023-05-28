@@ -16,3 +16,12 @@ try_2.py: O(n)
 
 > 遇到不相同的就交換到前面
 	> 當遇到不同的，i+1，並交換i跟j
+
+---
+
+try_3.py: O(n) O(1)
+
+* Runtime: 101 ms, faster than 44.03% of Python3 online submissions for Remove Duplicates from Sorted Array.
+* Memory Usage: 18 MB, less than 31.49% of Python3 online submissions for Remove Duplicates from Sorted Array.
+
+> in place

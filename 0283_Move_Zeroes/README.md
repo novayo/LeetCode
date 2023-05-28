@@ -16,3 +16,11 @@ try_2.py: O(n) O(1)
 
 > in-place (other idea)
 
+---
+
+try_3.py: O(n) O(1)
+
+* Runtime: 179 ms, faster than 43.85% of Python3 online submissions for Move Zeroes.
+* Memory Usage: 18.1 MB, less than 5.46% of Python3 online submissions for Move Zeroes.
+
+> in-place

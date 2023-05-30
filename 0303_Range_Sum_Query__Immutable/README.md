@@ -7,3 +7,12 @@ try_1.py: O(n) o(n)
 * Memory Usage: 17.8 MB, less than 13.88% of Python3 online submissions for Range Sum Query - Immutable.
 
 > dp: 累加起來，這樣dp[i]-dp[j]就代表i加到j的總和
+
+---
+
+try_2.py: O(n) O(n)
+
+* Runtime: 79 ms, faster than 88.66% of Python3 online submissions for Range Sum Query - Immutable.
+* Memory Usage: 20 MB, less than 26.17% of Python3 online submissions for Range Sum Query - Immutable.
+
+> presum

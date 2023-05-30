@@ -20,3 +20,12 @@ try_2.py: O(n) O(n)
 > 第一個3表示: 從0開始往後計算
 > 第二個3表示: 從0開始往後計算
 > 此時第一個3~第二個3之前就是 答案
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime: 862 ms, faster than 28.50% of Python3 online submissions for Contiguous Array.
+* Memory Usage: 21.8 MB, less than 17.70% of Python3 online submissions for Contiguous Array.
+
+> presum + hashmap

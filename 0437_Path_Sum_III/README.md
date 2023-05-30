@@ -26,3 +26,13 @@ try_3.py: O(n^2) O(n)
 * Memory Usage: 15.7 MB, less than 12.13% of Python3 online submissions for Path Sum III.
 
 > dfs to find all possibilities
+
+
+---
+
+try_4.py: O(n^2) O(n)
+
+* Runtime: 57 ms, faster than 77.93% of Python3 online submissions for Path Sum III.
+* Memory Usage: 17.9 MB, less than 25.98% of Python3 online submissions for Path Sum III.
+
+> presum + hash table

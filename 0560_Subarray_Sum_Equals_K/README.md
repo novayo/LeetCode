@@ -26,3 +26,12 @@ try_3.py: O(n) O(n)
 * Memory Usage: 18.6 MB, less than 8.54% of Python3 online submissions for Subarray Sum Equals K.
 
 > presum + two sum
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime: 352 ms, faster than 5.14% of Python3 online submissions for Subarray Sum Equals K.
+* Memory Usage: 19.2 MB, less than 10.72% of Python3 online submissions for Subarray Sum Equals K.
+
+> presum + hash table

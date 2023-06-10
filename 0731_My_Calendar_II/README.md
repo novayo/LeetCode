@@ -17,3 +17,12 @@ try_2.py: O(nlogn) O(n)
 * Memory Usage: 15 MB, less than 53.47% of Python3 online submissions for My Calendar II.
 
 > maintain dict
+
+---
+
+try_3.py: O(nlogn) O(n)
+
+* Runtime: 3712 ms, faster than 5.28% of Python3 online submissions for My Calendar II.
+* Memory Usage: 17.1 MB, less than 55.47% of Python3 online submissions for My Calendar II.
+
+> hashmap + sort + sweep line

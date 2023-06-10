@@ -44,3 +44,21 @@ try_5.py: O(nlogn) O(n)
 * Memory Usage: 17.4 MB, less than 83.76% of Python3 online submissions for Meeting Rooms II.
 
 > heap
+
+---
+
+try_6.py: O(n) O(n)
+
+* Runtime 9835 ms Beats 5.12%
+* Memory 27.3 MB Beats 5.12%
+
+> sweep line
+
+---
+
+try_7.py: O(nlogn) O(n)
+
+* Runtime 105 ms Beats 16.20%
+* Memory 20.9 MB Beats 7.12%
+
+> hashmap + sort + sweep line

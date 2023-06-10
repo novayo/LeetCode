@@ -17,3 +17,12 @@ try_2.py: O(n) O(1)
 * Memory Usage: 22.8 MB, less than 20.35% of Python3 online submissions for Range Addition.
 
 > sweep line
+
+---
+
+try_3.py: O(n) O(1)
+
+* Runtime 193 ms Beats 27.72%
+* Memory 23.2 MB Beats 67.10%
+
+> hashtable + sort + sweep line

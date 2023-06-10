@@ -8,3 +8,12 @@ try_1.py: O(nlogn) O(n)
 * Memory Usage: 33.7 MB, less than 54.90% of Python3 online submissions for Describe the Painting.
 
 > sweep line
+
+---
+
+try_2.py: O(nlogn) O(n)
+
+* Runtime: 1227 ms, faster than 63.39% of Python3 online submissions for Describe the Painting.
+* Memory Usage: 35.1 MB, less than 66.07% of Python3 online submissions for Describe the Painting.
+
+> hashmap + sort + sweep line

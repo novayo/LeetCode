@@ -25,3 +25,12 @@ try_3.cpp: O(n) O(k)
 * Memory Usage: 72.3 MB, less than 91.47% of C++ online submissions for Contains Duplicate II.
 
 > unordered_set
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime: 674 ms, faster than 9.38% of Python3 online submissions for Contains Duplicate II.
+* Memory Usage: 29.8 MB, less than 19.74% of Python3 online submissions for Contains Duplicate II.
+
+> sliding window

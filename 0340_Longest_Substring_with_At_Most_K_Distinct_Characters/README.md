@@ -35,3 +35,12 @@ try_4.py: O(n) O(n)
 * Memory Usage: 14.2 MB, less than 90.04% of Python3 online submissions for Longest Substring with At Most K Distinct Characters.
 
 > ordereddict => 最左邊的元素一定是最早hit的，所以只要有hit就move to end，超過長度後就pop top即可
+
+---
+
+try_5.py: O(n) O(n)
+
+* Runtime 124 ms Beats 12.47%
+* Memory 16.6 MB Beats 25.10%
+
+> sliding window

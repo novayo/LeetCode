@@ -16,3 +16,12 @@ try_2.py: O(logn) O(1)
 * Memory Usage: 23.8 MB, less than 97.95% of Python3 online submissions for Single Element in a Sorted Array.
 
 > binary search left
+
+---
+
+try_3.py: O(logn) O(1)
+
+* Runtime: 190 ms, faster than 25.49% of Python3 online submissions for Single Element in a Sorted Array.
+* Memory Usage: 26 MB, less than 86.49% of Python3 online submissions for Single Element in a Sorted Array.
+
+> binary search left

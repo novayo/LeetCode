@@ -27,4 +27,11 @@ try_3.py: O(logn) O(n)
 
 > maintain one dict
 
-> maintain one dict
+---
+
+try_4.py: O(logn) O(n)
+
+* Runtime: 684 ms, faster than 87.24% of Python3 online submissions for Time Based Key-Value Store.
+* Memory Usage: 74.8 MB, less than 14.65% of Python3 online submissions for Time Based Key-Value Store.
+
+> binary search

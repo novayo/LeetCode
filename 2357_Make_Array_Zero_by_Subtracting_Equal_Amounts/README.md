@@ -1,6 +1,6 @@
 Question: https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
 
---
+---
 
 try_1.py: O(nlogn) O(1)
 

@@ -62,3 +62,12 @@ try_7.py: O(nlogn) O(n)
 * Memory 20.9 MB Beats 7.12%
 
 > hashmap + sort + sweep line
+
+---
+
+try_8.py: O(nlogn) O(n)
+
+* Runtime 99 ms Beats 42.68%
+* Memory 19.9 MB Beats 74.48%
+
+> heap

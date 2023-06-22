@@ -25,3 +25,12 @@ try_3.py: O(klogk) O(k)
 * Memory Usage: 20.7 MB, less than 12.33% of Python3 online submissions for K Closest Points to Origin.
 
 > max heap
+
+---
+
+try_4.py: O(klogk) O(k)
+
+* Runtime: 833 ms, faster than 46.92% of Python3 online submissions for K Closest Points to Origin.
+* Memory Usage: 23.4 MB, less than 21.66% of Python3 online submissions for K Closest Points to Origin.
+
+> max heap

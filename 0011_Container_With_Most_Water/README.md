@@ -25,3 +25,12 @@ try_3.py: O(n) O(1)
 * Memory Usage: 27.6 MB, less than 22.21% of Python3 online submissions for Container With Most Water.
 
 > greedy find
+
+---
+
+try_4.py: O(n) O(1)
+
+* Runtime: 737 ms, faster than 48.70% of Python3 online submissions for Container With Most Water.
+* Memory Usage: 29.3 MB, less than 68.18% of Python3 online submissions for Container With Most Water.
+
+> greedy

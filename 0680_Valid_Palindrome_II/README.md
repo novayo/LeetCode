@@ -28,3 +28,12 @@ try_3.py: O(n) O(1)
 * Memory Usage: 14.5 MB, less than 70.24% of Python3 online submissions for Valid Palindrome II.
 
 > try_2.py but check string
+
+---
+
+try_4.py: O(n) O(1)
+
+* Runtime: 145 ms, faster than 58.29% of Python3 online submissions for Valid Palindrome II.
+* Memory Usage: 16.8 MB, less than 98.31% of Python3 online submissions for Valid Palindrome II.
+
+> Greedy

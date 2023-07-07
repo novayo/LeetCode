@@ -42,3 +42,12 @@ try_5.py: O(n) O(1)
 * Memory Usage: 15.3 MB, less than 56.15% of Python3 online submissions for Jump Game.
 
 > dp
+
+---
+
+try_6.py: O(n) O(1)
+
+* Runtime: 495 ms, faster than 39.67% of Python3 online submissions for Jump Game.
+* Memory Usage: 17.7 MB, less than 54.90% of Python3 online submissions for Jump Game.
+
+> greedy

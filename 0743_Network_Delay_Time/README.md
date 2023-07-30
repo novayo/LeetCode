@@ -35,3 +35,12 @@ try_4.py: O(V^3) O(V^2)
 * Memory Usage: 16.1 MB, less than 91.42% of Python3 online submissions for Network Delay Time.
 
 > floyd warshall
+
+---
+
+try_5.py: O(VlogV) O(V)
+
+* Runtime: 402 ms, faster than 99.66% of Python3 online submissions for Network Delay Time.
+* Memory Usage: 18.6 MB, less than 56.29% of Python3 online submissions for Network Delay Time.
+
+> dijkstra

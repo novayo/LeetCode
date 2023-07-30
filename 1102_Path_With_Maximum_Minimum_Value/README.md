@@ -26,3 +26,12 @@ try_3.py: O(nlogn) O(n)
 * Memory Usage: 16.5 MB, less than 62.53% of Python3 online submissions for Path With Maximum Minimum Value.
 
 > dijkstra
+
+---
+
+try_4.py: O(NlogN) O(N)
+
+* Runtime 1274ms Beats 65.65% of users with Python3
+* Memory 18.96mb Beats 55.78 %of users with Python3
+
+> dijkstra

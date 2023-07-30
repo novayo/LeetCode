@@ -17,3 +17,12 @@ try_2.py: O(nlogn) O(n)
 * Memory Usage: 14.8 MB, less than 31.41% of Python3 online submissions for The Maze II.
 
 > dijkstra
+
+---
+
+try_3.py: O(nlogn) O(n)
+
+* Runtime 248ms Beats 99.78% of users with Python3
+* Memory 16.92mb Beats 74.57 %of users with Python3
+
+> dijkstra

@@ -18,3 +18,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 14.3 MB, less than 91.29% of Python3 online submissions for Shortest Path in a Grid with Obstacles Elimination.
 
 > dijkstra
+
+---
+
+try_3.py: O(nlogn) O(n)
+
+* Runtime: 206 ms, faster than 58.80% of Python3 online submissions for Shortest Path in a Grid with Obstacles Elimination.
+* Memory Usage: 16.7 MB, less than 95.78% of Python3 online submissions for Shortest Path in a Grid with Obstacles Elimination.
+
+> dijkstra

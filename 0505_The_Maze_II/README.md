@@ -26,3 +26,12 @@ try_3.py: O(nlogn) O(n)
 * Memory 16.92mb Beats 74.57 %of users with Python3
 
 > dijkstra
+
+---
+
+try_4.py: O(n^2) O(n)
+
+* Runtime Details 289ms Beats 61.53%of users with Python3
+* Memory Details 17.18MB Beats 30.03%of users with Python3
+
+> bfs

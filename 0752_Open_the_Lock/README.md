@@ -24,3 +24,21 @@ try_3.py: O(10000) O(10000)
 * Memory Usage: 15.7 MB, less than 23.38% of Python3 online submissions for Open the Lock.
 
 > bfs
+
+---
+
+try_4.py: O(nlogn) O(n)
+
+* Runtime: 701 ms, faster than 27.06% of Python3 online submissions for Open the Lock.
+* Memory Usage: 17.8 MB, less than 62.99% of Python3 online submissions for Open the Lock.
+
+> dijkstra
+
+---
+
+try_5.py: O(nlogn) O(n)
+
+* Runtime: 189 ms, faster than 97.84% of Python3 online submissions for Open the Lock.
+* Memory Usage: 17.6 MB, less than 92.97% of Python3 online submissions for Open the Lock.
+
+> A star

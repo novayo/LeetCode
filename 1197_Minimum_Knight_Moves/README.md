@@ -34,3 +34,21 @@ try_4.py:
 * Memory Usage: 14.3 MB, less than 98.93% of Python3 online submissions for Minimum Knight Moves.
 
 > A*
+
+---
+
+try_5.py:
+
+* Runtime Details 6110ms Beats 10.99%of users with Python3
+* Memory Details 78.68MB Beats 14.86%of users with Python3
+
+> Dijkstra
+
+---
+
+try_6.py:
+
+* Runtime Details 3631ms Beats 55.17%of users with Python3
+* Memory Details 47.95MB Beats 54.21%of users with Python3
+
+> A star

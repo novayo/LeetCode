@@ -17,3 +17,21 @@ try_2.py: O(n) O(1)
 * Memory Usage: 13.8 MB, less than 99.82% of Python3 online submissions for Paint House.
 
 > 暴搜所有可能
+
+---
+
+try_3.py: O(n) O(n)
+
+* Runtime Details 65ms Beats 59.28%of users with Python3
+* Memory Details 16.30MB Beats 89.71%of users with Python3
+
+> dp
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime Details 73ms Beats 25.28%of users with Python3
+* Memory Details 16.61MB Beats 23.16%of users with Python3
+
+> recursion + memo

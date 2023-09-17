@@ -50,3 +50,12 @@ try_6.py: O(n) O(n)
 * Memory Usage: 16.4 MB, less than 8.22% of Python3 online submissions for Climbing Stairs.
 
 > bottom-up + memo
+
+---
+
+try_7.py: O(n) O(n)
+
+* Runtime: 40 ms, faster than 48.41% of Python3 online submissions for Climbing Stairs.
+* Memory Usage: 16.2 MB, less than 63.49% of Python3 online submissions for Climbing Stairs.
+
+> dp

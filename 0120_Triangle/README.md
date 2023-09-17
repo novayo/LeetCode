@@ -45,3 +45,21 @@ try_5.py: O(n) O(n)
 * Memory Usage: 20 MB, less than 6.25% of Python3 online submissions for Triangle.
 
 > bottom-up + memo
+
+---
+
+try_6.py: O(n) O(n)
+
+* Runtime: 75 ms, faster than 34.28% of Python3 online submissions for Triangle.
+* Memory Usage: 19.9 MB, less than 5.65% of Python3 online submissions for Triangle.
+
+> recr + memo
+
+---
+
+try_7.py: O(n) O(1)
+
+* Runtime: 53 ms, faster than 99.44% of Python3 online submissions for Triangle.
+* Memory Usage: 17.3 MB, less than 86.14% of Python3 online submissions for Triangle.
+
+> dp

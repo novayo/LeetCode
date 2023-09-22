@@ -78,3 +78,12 @@ try_9.py: O(n) O(n)
 * Memory Usage: 16.2 MB, less than 69.00% of Python3 online submissions for House Robber.
 
 > dp
+
+---
+
+try_10.py: O(n) O(1)
+
+* Runtime: 37 ms, faster than 74.98% of Python3 online submissions for House Robber.
+* Memory Usage: 16.2 MB, less than 66.58% of Python3 online submissions for House Robber.
+
+> dp

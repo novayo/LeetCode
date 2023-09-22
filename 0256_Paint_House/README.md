@@ -35,3 +35,21 @@ try_4.py: O(n) O(n)
 * Memory Details 16.61MB Beats 23.16%of users with Python3
 
 > recursion + memo
+
+---
+
+try_5.py: O(n) O(1)
+
+* Runtime Details 51ms Beats 98.81%of users with Python3
+* Memory Details 16.26MB Beats 88.36%of users with Python3
+
+> dp
+
+---
+
+try_6.py: O(n) O(n)
+
+* Runtime Details 73ms Beats 19.61%of users with Python3
+* Memory Details 16.22MB Beats 88.36%of users with Python3
+
+> recursion to dp

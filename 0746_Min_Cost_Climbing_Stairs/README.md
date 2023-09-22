@@ -35,3 +35,21 @@ try_4.py: O(n) O(n)
 * Memory Usage: 16.5 MB, less than 63.35% of Python3 online submissions for Min Cost Climbing Stairs.
 
 > dp
+
+---
+
+try_5.py: O(n) O(n)
+
+* Runtime: 59 ms, faster than 70.91% of Python3 online submissions for Min Cost Climbing Stairs.
+* Memory Usage: 16.5 MB, less than 61.09% of Python3 online submissions for Min Cost Climbing Stairs.
+
+> recursion to dp
+
+---
+
+try_6.py: O(n) O(1)
+
+* Runtime: 68 ms, faster than 22.08% of Python3 online submissions for Min Cost Climbing Stairs.
+* Memory Usage: 16.4 MB, less than 85.42% of Python3 online submissions for Min Cost Climbing Stairs.
+
+> dp

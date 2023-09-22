@@ -60,3 +60,21 @@ try_7.py: O(n) O(n)
 * Memory Usage: 16.2 MB, less than 64.21% of Python3 online submissions for N-th Tribonacci Number.
 
 > dp
+
+---
+
+try_8.py: O(n) O(n)
+
+* Runtime: 40 ms, faster than 45.25% of Python3 online submissions for N-th Tribonacci Number.
+* Memory Usage: 16.2 MB, less than 61.21% of Python3 online submissions for N-th Tribonacci Number.
+
+> recursion to dp
+
+---
+
+try_9.py: O(n) O(1)
+
+* Runtime: 40 ms, faster than 45.25% of Python3 online submissions for N-th Tribonacci Number.
+* Memory Usage: 16.2 MB, less than 87.37% of Python3 online submissions for N-th Tribonacci Number.
+
+> dp

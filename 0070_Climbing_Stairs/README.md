@@ -59,3 +59,21 @@ try_7.py: O(n) O(n)
 * Memory Usage: 16.2 MB, less than 63.49% of Python3 online submissions for Climbing Stairs.
 
 > dp
+
+---
+
+try_8.py: O(n) O(n)
+
+* Runtime: 41 ms, faster than 34.12% of Python3 online submissions for Climbing Stairs.
+* Memory Usage: 16.1 MB, less than 87.63% of Python3 online submissions for Climbing Stairs.
+
+> recursion to dp
+
+---
+
+try_9.py: O(n) O(1)
+
+* Runtime: 37 ms, faster than 62.30% of Python3 online submissions for Climbing Stairs.
+* Memory Usage: 16.2 MB, less than 60.63% of Python3 online submissions for Climbing Stairs.
+
+> dp

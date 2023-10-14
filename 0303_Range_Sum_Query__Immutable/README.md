@@ -16,3 +16,12 @@ try_2.py: O(n) O(n)
 * Memory Usage: 20 MB, less than 26.17% of Python3 online submissions for Range Sum Query - Immutable.
 
 > presum
+
+---
+
+try_3.py: O(10**4 * n) O(n)
+
+* Runtime: 3497 ms, faster than 8.31% of Python3 online submissions for Range Sum Query - Immutable.
+* Memory Usage: 19.7 MB, less than 83.54% of Python3 online submissions for Range Sum Query - Immutable.
+
+> normal

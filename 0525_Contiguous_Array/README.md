@@ -29,3 +29,12 @@ try_3.py: O(n) O(n)
 * Memory Usage: 21.8 MB, less than 17.70% of Python3 online submissions for Contiguous Array.
 
 > presum + hashmap
+
+---
+
+try_4.py: O(n) O(n)
+
+* Runtime: 726 ms, faster than 17.70% of Python3 online submissions for Contiguous Array.
+* Memory Usage: 22.4 MB, less than 9.81% of Python3 online submissions for Contiguous Array.
+
+> presum + hashmap

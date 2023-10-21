@@ -28,3 +28,12 @@ try_3.py: O(n) O(n)
 * Memory Usage: 13.9 MB, less than 88.39% of Python3 online submissions for Integer Break.
 
 > 嘗試所有可能
+
+---
+
+try_4.py: O(n*n) O(n)
+
+* Runtime: 49 ms, faster than 7.13% of Python3 online submissions for Integer Break.
+* Memory Usage: 16.3 MB, less than 9.38% of Python3 online submissions for Integer Break.
+
+> coin change

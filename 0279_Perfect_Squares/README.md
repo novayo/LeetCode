@@ -59,3 +59,12 @@ try_7.py: O(n^2) O(n)
 * Memory Usage: 15.6 MB, less than 21.75% of Python3 online submissions for Perfect Squares.
 
 > bfs set
+
+---
+
+try_8.py: O(n*sqrt(n)) O(n)
+
+* Runtime: 3019 ms, faster than 49.72% of Python3 online submissions for Perfect Squares.
+* Memory Usage: 16.5 MB, less than 46.85% of Python3 online submissions for Perfect Squares.
+
+> coin change

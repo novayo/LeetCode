@@ -69,3 +69,12 @@ try_8.py: O(n*sum) O(n*sum)
 * Memory Usage: 581.1 MB, less than 5.01% of Python3 online submissions for Partition Equal Subset Sum.
 
 > recursion
+
+---
+
+try_9.py: O(n*sum) O(n*sum)
+
+* Runtime: 1619 ms, faster than 33.66% of Python3 online submissions for Partition Equal Subset Sum.
+* Memory Usage: 16.4 MB, less than 90.23% of Python3 online submissions for Partition Equal Subset Sum.
+
+> dp

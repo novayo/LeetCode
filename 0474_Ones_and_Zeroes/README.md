@@ -44,3 +44,12 @@ try_5.py: O(n^2) O(n^2)
 * Memory Usage: 131.8 MB, less than 37.96% of Python3 online submissions for Ones and Zeroes.
 
 > recursion
+
+---
+
+try_6.py: O(m*n) O(m*n)
+
+* Runtime: 2862 ms, faster than 22.93% of Python3 online submissions for Ones and Zeroes.
+* Memory Usage: 16.6 MB, less than 79.45% of Python3 online submissions for Ones and Zeroes.
+
+> dp

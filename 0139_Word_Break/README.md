@@ -24,3 +24,12 @@ try_3.py: O(n^2) O(n)
 * Memory Usage: 14.3 MB, less than 70.94% of Python3 online submissions for Word Break.
 
 > dp[i] => 0~i 是合格的
+
+---
+
+try_4.py: O(n*m) O(n)
+
+* Runtime: 43 ms, faster than 64.96% of Python3 online submissions for Word Break.
+* Memory Usage: 16.2 MB, less than 87.46% of Python3 online submissions for Word Break.
+
+> dp

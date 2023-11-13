@@ -37,3 +37,12 @@ try_4.py: O(n^2) O(n^2)
 * Memory Usage: 30.6 MB, less than 74.73% of Python3 online submissions for Longest Palindromic Subsequence.
 
 > dp
+
+---
+
+try_5.py: O(n^2) O(n^2)
+
+* Runtime 837ms Beats 83.26%of users with Python3
+* Memory 32.65MB Beats 86.89%of users with Python3
+
+> dp

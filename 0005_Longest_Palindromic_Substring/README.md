@@ -45,3 +45,12 @@ try_5.py: O(n) O(n)
 * Memory Usage: 14 MB, less than 75.61% of Python3 online submissions for Longest Palindromic Substring.
 
 > manacher's algorithm
+
+---
+
+try_6.py: O(n^2) O(n)
+
+* Runtime 322ms Beats 92.24%of users with Python3
+* Memory 16.30MB Beats 74.27%of users with Python3
+
+> expand around center

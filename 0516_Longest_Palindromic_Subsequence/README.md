@@ -46,3 +46,12 @@ try_5.py: O(n^2) O(n^2)
 * Memory 32.65MB Beats 86.89%of users with Python3
 
 > dp
+
+---
+
+try_6.py: O(n^2) O(n^2)
+
+* Runtime 728ms Beats 88.33%of users with Python3
+* Memory 253.11MB Beats 11.64%of users with Python3
+
+> recursion

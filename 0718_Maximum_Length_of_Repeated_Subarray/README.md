@@ -36,3 +36,12 @@ try_4.py: O(nlogn) O(n)
 * Memory Usage: 17.5 MB, less than 81.69% of Python3 online submissions for Maximum Length of Repeated Subarray.
 
 > binary search + sliding window
+
+---
+
+try_5.py: O(mn) O(min(m,n))
+
+* Runtime: 2248 ms, faster than 28.88% of Python3 online submissions for Maximum Length of Repeated Subarray.
+* Memory Usage: 16.3 MB, less than 93.66% of Python3 online submissions for Maximum Length of Repeated Subarray.
+
+> dp optimized

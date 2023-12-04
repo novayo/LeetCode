@@ -32,3 +32,12 @@ try_4.py: O(n) O(n)
 * Memory Usage: 36.7 MB, less than 5.97% of Python3 online submissions for Increasing Triplet Subsequence.
 
 > monotonic stack
+
+---
+
+try_5.py: O(nlogn) O(3)
+
+* Runtime: 1078 ms, faster than 12.40% of Python3 online submissions for Increasing Triplet Subsequence.
+* Memory Usage: 32.5 MB, less than 43.16% of Python3 online submissions for Increasing Triplet Subsequence.
+
+> LIS

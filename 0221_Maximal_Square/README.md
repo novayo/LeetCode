@@ -26,3 +26,12 @@ try_3.py: O(n) O(n)
 * Memory Usage: 16.8 MB, less than 12.67% of Python3 online submissions for Maximal Square.
 
 > dp
+
+---
+
+try_4.py: O(mn) O(1)
+
+* Runtime: 613 ms, faster than 52.06% of Python3 online submissions for Maximal Square.
+* Memory Usage: 19.4 MB, less than 38.38% of Python3 online submissions for Maximal Square.
+
+> dp

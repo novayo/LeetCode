@@ -26,3 +26,12 @@ try_3.py: O(n) O(n)
 * Memory Usage: 15.4 MB, less than 35.94% of Python3 online submissions for Matrix Block Sum.
 
 > same strategy as try_1.py
+
+---
+
+try_4.py: O(mn) O(mn)
+
+* Runtime: 105 ms, faster than 39.26% of Python3 online submissions for Matrix Block Sum.
+* Memory Usage: 17.7 MB, less than 18.00% of Python3 online submissions for Matrix Block Sum.
+
+> 2D presum

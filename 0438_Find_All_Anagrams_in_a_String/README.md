@@ -39,3 +39,12 @@ try_4.py: O(26n) O(26)
 * Memory Usage: 15.1 MB, less than 74.37% of Python3 online submissions for Find All Anagrams in a String.
 
 > counter
+
+---
+
+try_5.py: O(m) / O(1) - where m is the length of the s string
+
+* Runtime: 204 ms, faster than 36.48% of Python3 online submissions for Find All Anagrams in a String.
+* Memory Usage: 17.6 MB, less than 18.99% of Python3 online submissions for Find All Anagrams in a String.
+
+> counter

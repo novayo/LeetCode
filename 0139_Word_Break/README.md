@@ -33,3 +33,12 @@ try_4.py: O(n*m) O(n)
 * Memory Usage: 16.2 MB, less than 87.46% of Python3 online submissions for Word Break.
 
 > dp
+
+---
+
+try_5.py: O(mn) O(n)
+
+* Runtime: 47 ms, faster than 39.84% of Python3 online submissions for Word Break.
+* Memory Usage: 16.4 MB, less than 44.92% of Python3 online submissions for Word Break.
+
+> dp string

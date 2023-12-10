@@ -54,3 +54,12 @@ try_6.py: O(n^2) O(n)
 * Memory 16.30MB Beats 74.27%of users with Python3
 
 > expand around center
+
+---
+
+try_7.py: O(n^2) O(n^2)
+
+* Runtime: 3396 ms, faster than 26.26% of Python3 online submissions for Longest Palindromic Substring.
+* Memory Usage: 24.3 MB, less than 9.60% of Python3 online submissions for Longest Palindromic Substring.
+
+> dp

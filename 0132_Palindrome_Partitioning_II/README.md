@@ -18,3 +18,12 @@ try_2.py: O(n^2) O(n)
 > dp
 > First of all, find out all palindrome and store in dp ({index: [can go to which index]})
 > Next, use recursion + dp to find out less steps through dp
+
+---
+
+try_3.py: O(n^3) O(n)
+
+* Runtime: 254 ms, faster than 98.13% of Python3 online submissions for Palindrome Partitioning II.
+* Memory Usage: 16.6 MB, less than 74.18% of Python3 online submissions for Palindrome Partitioning II.
+
+> dp[j] = min(dp[j], dp[i-1])

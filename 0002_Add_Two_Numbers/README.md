@@ -16,3 +16,12 @@ try_2.py: O(n) O(1)
 * Memory Usage: 14.1 MB, less than 91.20% of Python3 online submissions for Add Two Numbers.
 
 > carry
+
+---
+
+try_3.ts: O(n) O(1)
+
+* Runtime: 96 ms, faster than 62.81% of TypeScript online submissions for Add Two Numbers.
+* Memory Usage: 48.3 MB, less than 56.53% of TypeScript online submissions for Add Two Numbers.
+
+> carry

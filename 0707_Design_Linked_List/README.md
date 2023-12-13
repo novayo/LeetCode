@@ -24,3 +24,12 @@ try_3.py: O(n) O(n)
 * Memory Usage: 14.8 MB, less than 34.73% of Python3 online submissions for Design Linked List.
 
 > linked list
+
+---
+
+try_4.ts: O(n) O(n)
+
+* Runtime: 126 ms, faster than 31.68% of TypeScript online submissions for Design Linked List.
+* Memory Usage: 51.2 MB, less than 50.00% of TypeScript online submissions for Design Linked List.
+
+> linked list

@@ -34,3 +34,12 @@ try_4.py: O(n) O(1)
 * Memory Usage: 17.3 MB, less than 91.23% of Python3 online submissions for Linked List Cycle II.
 
 > tortoise and the hare
+
+---
+
+try_5.ts: O(n) / O(1) - where n is the number of nodes in the linked list
+
+* Runtime: 64 ms, faster than 78.68% of TypeScript online submissions for Linked List Cycle II.
+* Memory Usage: 45.3 MB, less than 76.84% of TypeScript online submissions for Linked List Cycle II.
+
+> tortoise and hare

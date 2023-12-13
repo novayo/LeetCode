@@ -35,3 +35,12 @@ try_4.py: O(n) O(1)
 * Memory Usage: 13.8 MB, less than 59.65% of Python3 online submissions for Remove Nth Node From End of List.
 
 > linked list - two pass
+
+---
+
+try_5.ts: O(N) / O(1) - where N is the number of nodes in the list
+
+* Runtime: 58 ms, faster than 59.24% of TypeScript online submissions for Remove Nth Node From End of List.
+* Memory Usage: 44.5 MB, less than 65.92% of TypeScript online submissions for Remove Nth Node From End of List.
+
+> linked list - one pass

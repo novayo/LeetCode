@@ -46,3 +46,21 @@ try_5.py: O(n) O(1)
 * Memory Usage: 15.4 MB, less than 48.71% of Python3 online submissions for Reverse Linked List.
 
 > move to front
+
+---
+
+try_6.ts: O(n) / O(n) - where n is number of nodes in the linkedlist
+
+* Runtime: 60 ms, faster than 55.98% of TypeScript online submissions for Reverse Linked List.
+* Memory Usage: 45.7 MB, less than 5.22% of TypeScript online submissions for Reverse Linked List.
+
+> recursion
+
+---
+
+try_7.ts: O(n) / O(1) - where n is the number of nodes in the linkedlist
+
+* Runtime: 46 ms, faster than 98.35% of TypeScript online submissions for Reverse Linked List.
+* Memory Usage: 44.7 MB, less than 73.85% of TypeScript online submissions for Reverse Linked List.
+
+> iteration

@@ -16,3 +16,12 @@ try_2.py: O(nlogn) O(logn)
 * Memory Usage: 16.3 MB, less than 14.79% of Python3 online submissions for Number of 1 Bits.
 
 > divide and conquer
+
+---
+
+try_3.py: O(32) O(1)
+
+* Runtime: 38 ms, faster than 65.30% of Python3 online submissions for Number of 1 Bits.
+* Memory Usage: 16.2 MB, less than 54.97% of Python3 online submissions for Number of 1 Bits.
+
+> bit manipulation

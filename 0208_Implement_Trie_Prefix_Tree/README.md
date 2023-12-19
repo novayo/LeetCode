@@ -34,3 +34,12 @@ try_4.py: O(n*L) O(26^L) - where n is the number of api calls and L is the lengt
 * Memory Usage: 34.3 MB, less than 21.66% of Python3 online submissions for Implement Trie (Prefix Tree).
 
 > Trie
+
+---
+
+try_5.py: O(n*L) O(26^L) - where n is the number of api calls and L is the length of the input string
+
+* Runtime: 131 ms, faster than 83.30% of Python3 online submissions for Implement Trie (Prefix Tree).
+* Memory Usage: 30 MB, less than 80.31% of Python3 online submissions for Implement Trie (Prefix Tree).
+
+> Trie using dict

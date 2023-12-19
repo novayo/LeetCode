@@ -25,3 +25,12 @@ try_3.py:
 * Memory Usage: 16.2 MB, less than 97.54% of Python3 online submissions for Design Search Autocomplete System.
 
 > using list
+
+---
+
+try_4.py: O(5000*n*L) O(26^L)
+
+* Runtime Details 621ms Beats 12.50%of users with Python3
+* Memory Details 22.16MB Beats 76.77%of users with Python3
+
+> Trie

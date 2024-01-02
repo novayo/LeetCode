@@ -46,3 +46,12 @@ try_5.py: O(logn) O(n)
 * Memory Usage: 31.6 MB, less than 58.90% of Python3 online submissions for Range Sum Query - Mutable.
 
 > bit to find range sum
+
+---
+
+try_6.py: O(logn) O(n)
+
+* Runtime 4517ms Beats 6.34%of users with Python3
+* Memory 49.52MB Beats 23.24%of users with Python3
+
+> segment tree

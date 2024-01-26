@@ -44,3 +44,12 @@ try_5.py: O(n) O(n)
 * Memory Usage: 16 MB, less than 41.91% of Python3 online submissions for Trapping Rain Water.
 
 > dp
+
+---
+
+try_6.py: O(n) O(n)
+
+* Runtime 106 ms Beats 67.41% of users with Python3
+* Memory 18.40 MB Beats 68.96% of users with Python3
+
+> monotonic stack
